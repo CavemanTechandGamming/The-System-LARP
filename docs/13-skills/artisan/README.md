@@ -2,27 +2,39 @@
 
 Artisan skills are crafting and creation abilities focused on making items and equipment. These skills are primarily available to characters with Artisan as their primary or secondary class, though some may be available to other classes at increased costs.
 
-## Available Skills
+## Skill Categories
 
-### Crafting Skills
-- [Alchemy](alchemy.md) - Creation of potions and magical substances
-- [Blacksmithing](blacksmithing.md) - Metalworking and weapon/armor crafting
-- [Leatherworking](leatherworking.md) - Creation of leather goods and armor
-- [Woodworking](woodworking.md) - Crafting of wooden items and weapons
-- [Jewelcrafting](jewelcrafting.md) - Creation of jewelry and magical items
-- [Tailoring](tailoring.md) - Making of clothing and cloth armor
+### Core Skills
+Basic crafting skills that form the foundation of artisan work. These are the primary crafting skills that most artisans will use.
+- [Alchemy](core-skills/alchemy.md)
+- [Blacksmithing](core-skills/blacksmithing.md)
+- [Leatherworking](core-skills/leatherworking.md)
+- [Jewelcrafting](core-skills/jewelcrafting.md)
+- [Tailoring](core-skills/tailoring.md)
+- [Woodworking](core-skills/woodworking.md)
+
+### Gathering Skills
+Skills focused on collecting raw materials from the environment.
+- [Resource Gathering](gathering-skills/resource-gathering.md)
+  - [Mining](gathering-skills/specializations/mining.md)
+  - [Skinning](gathering-skills/specializations/skinning.md)
+  - [Herbalism](gathering-skills/specializations/herbalism.md)
+
+### Magical Skills
+Skills focused on creating and enhancing magical items.
+- [Enchanting](magical-skills/enchanting.md)
+- [Artifice](magical-skills/artifice.md)
+
+### Mechanical Skills
+Skills focused on creating mechanical devices and traps.
+- [Engineering](mechanical-skills/engineering.md)
+- [Trap Making](mechanical-skills/trap-making.md)
 
 ### Production Skills
-- [Resource Gathering](resource-gathering.md) - Ability to collect raw materials
-- [Item Repair](item-repair.md) - Ability to fix damaged equipment
-- [Quality Crafting](quality-crafting.md) - Creation of superior quality items
-- [Mass Production](mass-production.md) - Ability to create multiple items efficiently
-
-### Specialized Skills
-- [Enchanting](enchanting.md) - Adding magical properties to items
-- [Trap Making](trap-making.md) - Creation of mechanical traps
-- [Engineering](engineering.md) - Complex mechanical device creation
-- [Artistic Crafting](artistic-crafting.md) - Creation of decorative and valuable items
+Skills focused on improving production efficiency and quality.
+- [Item Repair](production-skills/item-repair.md)
+- [Quality Crafting](production-skills/quality-crafting.md)
+- [Mass Production](production-skills/mass-production.md)
 
 ## Skill Costs
 The base cost for artisan skills varies depending on your class:

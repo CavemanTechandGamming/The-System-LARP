@@ -1,0 +1,505 @@
+# Jewelcrafting Skill
+
+The Jewelcrafting skill allows characters to create jewelry, gem-encrusted items, and magical trinkets. Jewelcrafters are highly valued for their ability to create both beautiful adornments and powerful magical items. This skill combines artistic vision with technical precision to create items of both beauty and power.
+
+## Skill Description
+Jewelcrafting is the art of working with precious metals and gems to create jewelry and magical items. Jewelcrafters must understand gem properties, metalworking techniques, and how to combine materials for both aesthetic and magical purposes. This skill requires both artistic talent and technical knowledge to create items that are both beautiful and functional.
+
+## Role-Playing as a Jewelcrafter
+### Personality Traits
+- Precise and detail-oriented
+- Artistic and creative
+- Patient and methodical
+- Often perfectionist
+- Usually has a keen eye for beauty
+- May be somewhat reclusive
+- Usually maintains high standards
+- Often displays great attention to detail
+- May have a particular specialty
+- Usually shows great care in their work
+- Often demonstrates problem-solving skills
+- May be somewhat traditional
+- Usually maintains a systematic approach
+- Often shows respect for materials
+- Usually has a strong sense of aesthetics
+
+### Common Behaviors
+- Maintains a well-organized workshop
+- Takes detailed notes on techniques
+- May speak in technical terms about gems
+- Often tests items extensively
+- Maintains a clean and efficient workspace
+- May have specific crafting rituals
+- Often studies gem properties
+- May collect unusual materials
+- Frequently experiments with new techniques
+- Often maintains a personal code of quality
+- May have specific safety procedures
+- Usually keeps detailed records
+- Often researches new methods
+- May maintain a network of suppliers
+- Usually has a specific workspace organization
+
+### Social Interactions
+- May be sought after for custom work
+- Could be secretive about techniques
+- Might mentor other jewelcrafters
+- Often trades in jewelcrafting knowledge
+- May be part of a crafting guild
+- Could be consulted for appraisals
+- Might be protective of their methods
+- Often maintains professional relationships
+- May participate in crafting competitions
+- Could be known for specific specialties
+- Might maintain a client list
+- Often collaborates with other craftsmen
+- May be involved in research
+- Could be consulted by authorities
+- Might maintain a reputation for quality
+
+## Prestiges
+- **Level 10: Master Jeweler** - Allows the creation of superior quality jewelry and the ability to work with rare gems. Master Jewelers are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of gem properties.
+- **Level 20: Grand Master Jeweler** - Grants the ability to create unique, custom magical items with special properties (subject to administrative approval). Grand Masters are legendary figures in the jewelcrafting community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+
+## Level Bonuses
+| Level | Production Points | Abilities |
+|-------|------------------|-----------|
+| 1 | 20 pp | Basic Jewelry (Standard quality), Simple Trinkets (Basic quality) |
+| 2 | 30 pp | Basic Jewelry (Standard quality), Simple Trinkets (Basic quality), Minor Enchanted Items (Basic quality) |
+| 3 | 40 pp | Basic Jewelry (Good quality), Simple Trinkets (Standard quality), Minor Enchanted Items (Basic quality) |
+| 4 | 50 pp | Basic Jewelry (Good quality), Simple Trinkets (Standard quality), Minor Enchanted Items (Standard quality) |
+| 5 | 60 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Standard quality), Moderate Enchanted Items (Basic quality) |
+| 6 | 70 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Basic quality) |
+| 7 | 80 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality) |
+| 8 | 90 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality) |
+| 9 | 100 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Basic quality) |
+| 10 | 110 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
+| 11 | 120 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
+| 12 | 130 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality) |
+| 13 | 140 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality) |
+| 14 | 150 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Basic quality) |
+| 15 | 160 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
+| 16 | 170 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
+| 17 | 180 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
+| 18 | 190 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
+| 19 | 200 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
+| 20 | 210 pp | Basic Jewelry (Masterwork quality), Simple Trinkets (Excellent quality), Minor Enchanted Items (Excellent quality), Moderate Enchanted Items (Excellent quality), Major Enchanted Items (Excellent quality), Advanced Enchanted Items (Excellent quality) |
+
+## Item Types
+### Basic Jewelry
+- Simple Rings (For basic adornment)
+- Basic Necklaces (For simple decoration)
+- Earrings (For personal style)
+- Bracelets (For wrist decoration)
+- Basic Pendants (For simple display)
+- Simple Brooches (For clothing decoration)
+- Basic Chains (For connecting pieces)
+- Simple Clasps (For securing items)
+
+### Simple Trinkets
+- Charms (For basic magical effects)
+- Amulets (For simple protection)
+- Basic Pendants (For minor enhancements)
+- Simple Brooches (For basic magical properties)
+- Basic Talismans (For simple blessings)
+- Simple Medallions (For minor effects)
+- Basic Tokens (For simple magic)
+- Simple Relics (For basic powers)
+
+### Minor Enchanted Items
+- Mana Rings (For basic mana enhancement)
+- Protection Amulets (For minor defense)
+- Luck Charms (For basic fortune)
+- Minor Healing Pendants (For simple recovery)
+- Minor Power Gems (For basic energy)
+- Simple Focus Items (For minor concentration)
+- Basic Enhancement Items (For simple boosts)
+- Minor Blessing Items (For basic protection)
+
+### Moderate Enchanted Items
+- Enhanced Protection Rings (For improved defense)
+- Spell Focus Amulets (For better casting)
+- Energy Storage Gems (For power retention)
+- Moderate Healing Items (For better recovery)
+- Moderate Power Gems (For enhanced energy)
+- Improved Focus Items (For better concentration)
+- Enhanced Boost Items (For improved effects)
+- Moderate Blessing Items (For better protection)
+
+### Major Enchanted Items
+- Powerful Protection Items (For strong defense)
+- Major Spell Focus Items (For powerful casting)
+- Energy Amplification Gems (For great power)
+- Major Healing Items (For strong recovery)
+- Major Power Gems (For significant energy)
+- Powerful Focus Items (For strong concentration)
+- Major Boost Items (For powerful effects)
+- Major Blessing Items (For strong protection)
+
+### Advanced Enchanted Items
+- Legendary Protection Items (For ultimate defense)
+- Ultimate Spell Focus Items (For supreme casting)
+- Energy Mastery Gems (For maximum power)
+- Ultimate Healing Items (For complete recovery)
+- Ultimate Power Gems (For maximum energy)
+- Supreme Focus Items (For ultimate concentration)
+- Ultimate Boost Items (For maximum effects)
+- Ultimate Blessing Items (For complete protection)
+
+## Requirements
+### Basic Requirements
+- Jewelcrafting Equipment
+  - Basic Workbench
+    - Hard surface
+    - Tool storage
+    - Material storage
+    - Work area
+  - Basic Tools
+    - Pliers (various types)
+    - Cutters (different sizes)
+    - Files (various grades)
+    - Hammers
+  - Safety Equipment
+    - Gloves
+    - Apron
+    - Eye protection
+    - Face mask
+
+- Work Space
+  - Well-lit area
+  - Proper ventilation
+  - Storage for tools
+  - Work surface
+  - Safety equipment
+  - Basic containment
+  - Waste disposal
+  - Emergency supplies
+
+- Materials
+  - Basic metals
+    - Silver (Common, conductive)
+    - Gold (Precious, malleable)
+    - Copper (Common, flexible)
+    - Bronze (Durable, traditional)
+  - Common gems
+    - Quartz (Basic, versatile)
+    - Agate (Common, durable)
+    - Jasper (Basic, stable)
+    - Onyx (Common, strong)
+  - Standard materials
+    - Wire (Various gauges)
+    - Chain (Different types)
+    - Beads (Various sizes)
+    - Settings (Basic types)
+  - Basic components
+    - Clasps and hooks
+    - Rings and loops
+    - Beads and spacers
+    - Fasteners
+  - Common fasteners
+    - Basic clasps
+    - Standard hooks
+    - Common rings
+    - Basic ties
+  - Standard finishes
+    - Basic polish
+    - Simple patterns
+    - Common designs
+    - Basic decorations
+  - Basic coatings
+    - Simple polish
+    - Basic sealant
+    - Common treatment
+    - Basic protection
+  - Common supplies
+    - Basic wire
+    - Common tools
+    - Standard materials
+    - Basic components
+
+### Advanced Requirements
+- Masterwork Equipment
+  - Advanced Workbench
+    - Specialized surface
+    - Multiple work areas
+    - Custom features
+    - Enhanced storage
+  - Advanced Tools
+    - Specialized pliers
+    - Custom cutters
+    - Precision tools
+    - Advanced equipment
+  - Enhanced Safety Equipment
+    - Advanced protection
+    - Specialized gear
+    - Custom equipment
+    - Advanced systems
+
+- Advanced Work Space
+  - Climate control
+  - Secure storage
+  - Specialized areas
+  - Advanced safety
+  - Custom lighting
+  - Specialized ventilation
+  - Emergency systems
+  - Advanced containment
+
+- Specialized Materials
+  - Rare metals
+    - Mithril (Magical conductivity)
+    - Adamantine (Ultimate durability)
+    - Orichalcum (Ancient power)
+    - Starmetal (Celestial properties)
+  - Exotic gems
+    - Diamonds (Pure power)
+    - Rubies (Fire essence)
+    - Sapphires (Water essence)
+    - Emeralds (Earth essence)
+  - Specialized materials
+    - Dragon scales (Magical protection)
+    - Phoenix feathers (Fire resistance)
+    - Unicorn hair (Purification)
+    - Basilisk scales (Petrification resistance)
+  - Advanced components
+    - Magical clasps
+    - Enchanted hooks
+    - Power rings
+    - Energy fasteners
+  - Custom fasteners
+    - Magical clasps
+    - Enchanted hooks
+    - Power rings
+    - Energy ties
+  - Specialized finishes
+    - Magical polish
+    - Power patterns
+    - Energy designs
+    - Force decorations
+  - Advanced coatings
+    - Magical polish
+    - Power sealant
+    - Energy treatment
+    - Force protection
+  - Rare supplies
+    - Magical wire
+    - Power tools
+    - Energy materials
+    - Force components
+
+## Jewelcrafting Process
+1. **Preparation**
+   - Plan item type and purpose
+   - Select appropriate materials
+   - Prepare workspace
+   - Review techniques
+   - Plan crafting steps
+   - Consider safety measures
+   - Check material compatibility
+   - Document process
+   - Set up containment
+   - Prepare emergency measures
+   - Check tool condition
+   - Verify material quality
+   - Plan timing sequence
+   - Review safety procedures
+   - Prepare documentation
+
+2. **Processing**
+   - Prepare metals for work
+   - Cut with precise measurements
+   - Monitor thickness
+   - Adjust as needed
+   - Check for proper cutting
+   - Verify dimensions
+   - Ensure proper timing
+   - Test initial results
+   - Monitor quality
+   - Check for defects
+   - Adjust thickness
+   - Verify shape
+   - Monitor condition
+   - Check for damage
+   - Document changes
+
+3. **Assembly**
+   - Join pieces as needed
+   - Fine-tune details
+   - Test durability
+   - Make necessary improvements
+   - Check for fit
+   - Verify strength
+   - Test under conditions
+   - Optimize results
+   - Balance weight
+   - Strengthen weak points
+   - Enhance features
+   - Reduce stress points
+   - Improve finish
+   - Maximize durability
+   - Perfect form
+
+4. **Finalization**
+   - Complete final assembly
+   - Test all properties
+   - Make final adjustments
+   - Document results
+   - Create usage instructions
+   - Perform safety checks
+   - Clean workspace
+   - Store materials properly
+   - Apply finish
+   - Package securely
+   - Create documentation
+   - Verify quality
+   - Check durability
+   - Prepare storage
+   - Complete records
+
+## Role-Playing the Jewelcrafting Process
+### Physical Actions
+- Cutting metal with precise control
+- Setting gems with specific techniques
+- Testing items with various methods
+- Using specific tools for each step
+- Maintaining proper posture for accuracy
+- Following exact procedures with care
+- Making careful adjustments as needed
+- Performing final checks thoroughly
+- Shaping with specific patterns
+- Polishing with proper timing
+- Finishing with exact methods
+- Engraving with proper techniques
+- Marking with clear information
+- Storing with proper care
+- Maintaining tools with precision
+
+### Verbal Components
+- Speaking commands for assistants
+- Reciting measurements for accuracy
+- Counting beats for rhythm
+- Using command words for focus
+- Speaking focus phrases for concentration
+- Reciting safety checks for protection
+- Using activation words for power
+- Speaking completion words for finalization
+- Chanting rhythm phrases
+- Using enhancement words
+- Speaking protection spells
+- Reciting quality checks
+- Using purification words
+- Speaking preservation spells
+- Reciting final blessings
+
+### Environmental Effects
+- Metal dust in the air
+- Gems glowing with power
+- Temperature changes affecting the room
+- Air currents moving around the workspace
+- Metal particles floating in the air
+- Energy patterns forming around items
+- Magical auras appearing around tools
+- Ambient magic responding to the process
+- Colors shifting in the materials
+- Energy waves pulsing through the room
+- Magical sparks appearing
+- Auras changing color
+- Energy fields forming
+- Magical winds stirring
+- Power signatures manifesting
+
+## Notes
+### Technical Considerations
+- Effectiveness depends on skill level and materials
+- Different gems have different properties
+- Failed items may have structural weaknesses
+- Some materials require specific techniques
+- Proper cutting is crucial for success
+- Complex items may need multiple steps
+- Items may need periodic maintenance
+- Some materials resist certain techniques
+- Multiple properties may interact with each other
+- Safety measures must be implemented
+- Environmental factors affect results
+- Regular maintenance extends lifespan
+- Tool maintenance affects reliability
+- Some items may be restricted
+- Proper handling prevents accidents
+- Documentation is important
+- Some items require approval
+- Quality of materials affects results
+- Regular training improves skills
+- Jewelcrafting theory affects design
+- Location affects effectiveness
+- Regular testing is crucial
+- Some combinations may be unstable
+- Proper storage prevents degradation
+- Some techniques may be dangerous
+- Understanding of jewelcrafting is essential
+- Cutting process affects final item quality
+- Different gems require specific treatments
+- Material composition affects durability
+- Combination techniques can create unique properties
+- Crystal structure affects power
+- Setting methods affect stability
+- Treatment processes affect durability
+- Material purity affects workability
+- Crafting techniques affect structural integrity
+- Material thickness affects weight
+- Material density affects durability
+- Material conductivity affects magical properties
+- Material reactivity affects chemical treatments
+- Material expansion affects fit
+- Material contraction affects final dimensions
+
+### Role-Playing Considerations
+- Each jewelcrafter may have their own style
+- Personal beliefs may influence techniques
+- Cultural background may affect methods
+- Previous experiences may shape approaches
+- Relationships may influence work quality
+- Emotional state may affect results
+- Personal goals may influence choices
+- Reputation may affect opportunities
+- Personal ethics may guide decisions
+- Cultural traditions may influence methods
+- Personal experiences may affect choices
+- Social standing may impact opportunities
+- Personal relationships may affect work
+- Cultural values may guide practices
+- Personal history may influence approach
+
+### Safety Considerations
+- Always work in a safe environment
+- Use proper protective equipment
+- Follow safety procedures
+- Handle chemicals carefully
+- Monitor conditions
+- Have emergency procedures ready
+- Keep cleaning materials available
+- Maintain safety equipment
+- Use proper containment
+- Follow disposal procedures
+- Maintain clean workspace
+- Use proper ventilation
+- Keep emergency supplies
+- Follow safety protocols
+- Maintain safety records
+
+### Business Considerations
+- Keep detailed records of work
+- Maintain client confidentiality
+- Follow ethical guidelines
+- Honor agreements
+- Maintain professional standards
+- Keep accurate accounts
+- Follow market rates
+- Maintain quality standards
+- Track inventory carefully
+- Maintain supplier relationships
+- Follow business regulations
+- Keep financial records
+- Maintain professional reputation
+- Follow industry standards
+- Keep business documentation
+
