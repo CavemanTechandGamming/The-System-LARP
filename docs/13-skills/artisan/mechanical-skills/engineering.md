@@ -76,6 +76,8 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Window Latches (Basic securing devices)
 - Simple Traps (Basic triggering mechanisms)
 - Basic Clockwork (Simple timing devices)
+- Basic Gun/Hand Gun
+
 
 ### Basic Traps
 - Pressure Plates (Weight-based triggers)
