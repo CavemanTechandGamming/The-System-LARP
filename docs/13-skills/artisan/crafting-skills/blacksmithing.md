@@ -58,32 +58,35 @@ Blacksmithing is the art of shaping and working metal through heating, hammering
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Smith** - Allows the creation of superior quality items and the ability to work with rare metals. Master Smiths are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of metal properties.
-- **Level 20: Grand Master Smith** - Grants the ability to create unique, custom items with special properties (subject to administrative approval). Grand Masters are legendary figures in the smithing community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+- **Level 5: Apprentice Blacksmith** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Blacksmiths can create simple items reliably and work independently on basic projects.
+- **Level 10: Journeyman Blacksmith** - Growing expertise in metalworking and ability to create more complex items. Journeyman Blacksmiths are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Blacksmith** - Exceptional skill in metalworking and ability to create advanced items. Master Blacksmiths are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Blacksmith** - Legendary skill in metalworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of blacksmithing. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Tools, Simple Weapons |
-| 2 | 30 pp | Basic Tools, Simple Weapons, Light Armor |
-| 3 | 40 pp | Basic Tools, Simple Weapons, Light Armor |
-| 4 | 50 pp | Basic Tools, Simple Weapons, Light Armor |
-| 5 | 60 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons |
-| 6 | 70 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons |
-| 7 | 80 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons |
-| 8 | 90 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons |
-| 9 | 100 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor |
-| 10 | 110 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor |
-| 11 | 120 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor |
-| 12 | 130 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor |
-| 13 | 140 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor |
-| 14 | 150 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 15 | 160 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 16 | 170 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 17 | 180 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 18 | 190 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 19 | 200 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
-| 20 | 210 pp | Basic Tools, Simple Weapons, Light Armor, Medium Weapons, Medium Armor, Heavy Weapons |
+| 1 | 25 pp | Basic Tools (Basic quality) |
+| 2 | 50 pp | Basic Tools (Basic quality), Simple Weapons (Basic quality) |
+| 3 | 75 pp | Basic Tools (Standard quality), Simple Weapons (Basic quality) |
+| 4 | 100 pp | Basic Tools (Standard quality), Simple Weapons (Standard quality) |
+| 5 | 125 pp | Basic Tools (Good quality), Simple Weapons (Standard quality), Light Armor (Basic quality) |
+| 6 | 150 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Basic quality) |
+| 7 | 175 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Standard quality) |
+| 8 | 200 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Standard quality), Medium Weapons (Basic quality) |
+| 9 | 225 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Basic quality) |
+| 10 | 250 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Standard quality), Medium Armor (Basic quality) |
+| 11 | 275 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Standard quality), Medium Armor (Basic quality) |
+| 12 | 300 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Standard quality) |
+| 13 | 325 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Standard quality) |
+| 14 | 350 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality) |
+| 15 | 375 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Basic quality) |
+| 16 | 400 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Standard quality) |
+| 17 | 425 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Standard quality) |
+| 18 | 450 pp | Basic Tools (Excellent quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Good quality) |
+| 19 | 475 pp | Basic Tools (Excellent quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Good quality) |
+| 20 | 500 pp | Basic Tools (Masterwork quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Excellent quality) |
 
 ## Item Types
 ### Basic Tools

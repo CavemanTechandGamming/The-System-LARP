@@ -58,32 +58,35 @@ Jewelcrafting is the art of working with precious metals and gems to create jewe
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Jeweler** - Allows the creation of superior quality jewelry and the ability to work with rare gems. Master Jewelers are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of gem properties.
-- **Level 20: Grand Master Jeweler** - Grants the ability to create unique, custom magical items with special properties (subject to administrative approval). Grand Masters are legendary figures in the jewelcrafting community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+- **Level 5: Apprentice Jeweler** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Jewelers can create simple jewelry reliably and work independently on basic projects.
+- **Level 10: Journeyman Jeweler** - Growing expertise in gem cutting and metalworking, and ability to create more complex items. Journeyman Jewelers are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Jeweler** - Exceptional skill in jewelcrafting and ability to create advanced magical items. Master Jewelers are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Jeweler** - Legendary skill in jewelcrafting and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of jewelcrafting. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Jewelry (Standard quality), Simple Trinkets (Basic quality) |
-| 2 | 30 pp | Basic Jewelry (Standard quality), Simple Trinkets (Basic quality), Minor Enchanted Items (Basic quality) |
-| 3 | 40 pp | Basic Jewelry (Good quality), Simple Trinkets (Standard quality), Minor Enchanted Items (Basic quality) |
-| 4 | 50 pp | Basic Jewelry (Good quality), Simple Trinkets (Standard quality), Minor Enchanted Items (Standard quality) |
-| 5 | 60 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Standard quality), Moderate Enchanted Items (Basic quality) |
-| 6 | 70 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Basic quality) |
-| 7 | 80 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality) |
-| 8 | 90 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality) |
-| 9 | 100 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Basic quality) |
-| 10 | 110 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
-| 11 | 120 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
-| 12 | 130 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality) |
-| 13 | 140 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality) |
-| 14 | 150 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Basic quality) |
-| 15 | 160 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
-| 16 | 170 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
-| 17 | 180 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
-| 18 | 190 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
-| 19 | 200 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Good quality) |
-| 20 | 210 pp | Basic Jewelry (Masterwork quality), Simple Trinkets (Excellent quality), Minor Enchanted Items (Excellent quality), Moderate Enchanted Items (Excellent quality), Major Enchanted Items (Excellent quality), Advanced Enchanted Items (Excellent quality) |
+| 1 | 25 pp | Basic Jewelry (Basic quality) |
+| 2 | 50 pp | Basic Jewelry (Basic quality), Simple Trinkets (Basic quality) |
+| 3 | 75 pp | Basic Jewelry (Standard quality), Simple Trinkets (Basic quality) |
+| 4 | 100 pp | Basic Jewelry (Standard quality), Simple Trinkets (Standard quality) |
+| 5 | 125 pp | Basic Jewelry (Good quality), Simple Trinkets (Standard quality), Minor Enchanted Items (Basic quality) |
+| 6 | 150 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Basic quality) |
+| 7 | 175 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Standard quality) |
+| 8 | 200 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Standard quality), Moderate Enchanted Items (Basic quality) |
+| 9 | 225 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Basic quality) |
+| 10 | 250 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality), Major Enchanted Items (Basic quality) |
+| 11 | 275 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Standard quality), Major Enchanted Items (Basic quality) |
+| 12 | 300 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
+| 13 | 325 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Standard quality) |
+| 14 | 350 pp | Basic Jewelry (Good quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality) |
+| 15 | 375 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Basic quality) |
+| 16 | 400 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
+| 17 | 425 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Good quality), Minor Enchanted Items (Good quality), Moderate Enchanted Items (Good quality), Major Enchanted Items (Good quality), Advanced Enchanted Items (Standard quality) |
+| 18 | 450 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Excellent quality), Minor Enchanted Items (Excellent quality), Moderate Enchanted Items (Excellent quality), Major Enchanted Items (Excellent quality), Advanced Enchanted Items (Good quality) |
+| 19 | 475 pp | Basic Jewelry (Excellent quality), Simple Trinkets (Excellent quality), Minor Enchanted Items (Excellent quality), Moderate Enchanted Items (Excellent quality), Major Enchanted Items (Excellent quality), Advanced Enchanted Items (Good quality) |
+| 20 | 500 pp | Basic Jewelry (Masterwork quality), Simple Trinkets (Excellent quality), Minor Enchanted Items (Excellent quality), Moderate Enchanted Items (Excellent quality), Major Enchanted Items (Excellent quality), Advanced Enchanted Items (Excellent quality) |
 
 ## Item Types
 ### Basic Jewelry

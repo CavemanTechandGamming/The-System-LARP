@@ -58,32 +58,35 @@ Woodworking is the art of shaping and joining wood to create functional and deco
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Woodworker** - Allows the creation of superior quality wooden items and the ability to work with rare woods. Master Woodworkers are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of wood properties.
-- **Level 20: Grand Master Woodworker** - Grants the ability to create unique, custom wooden items with special properties (subject to administrative approval). Grand Masters are legendary figures in the woodworking community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+- **Level 5: Apprentice Woodworker** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Woodworkers can create simple wooden items reliably and work independently on basic projects.
+- **Level 10: Journeyman Woodworker** - Growing expertise in woodworking and ability to create more complex items. Journeyman Woodworkers are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Woodworker** - Exceptional skill in woodworking and ability to create advanced items. Master Woodworkers are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Woodworker** - Legendary skill in woodworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of woodworking. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Items (Standard quality), Simple Tools (Basic quality) |
-| 2 | 30 pp | Basic Items (Standard quality), Simple Tools (Basic quality), Simple Weapons (Basic quality) |
-| 3 | 40 pp | Basic Items (Good quality), Simple Tools (Standard quality), Simple Weapons (Basic quality) |
-| 4 | 50 pp | Basic Items (Good quality), Simple Tools (Standard quality), Simple Weapons (Standard quality) |
-| 5 | 60 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Standard quality), Moderate Items (Basic quality) |
-| 6 | 70 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Basic quality) |
-| 7 | 80 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality) |
-| 8 | 90 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality) |
-| 9 | 100 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Basic quality) |
-| 10 | 110 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
-| 11 | 120 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
-| 12 | 130 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality) |
-| 13 | 140 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality) |
-| 14 | 150 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Basic quality) |
-| 15 | 160 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
-| 16 | 170 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
-| 17 | 180 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Good quality) |
-| 18 | 190 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Good quality) |
-| 19 | 200 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Good quality) |
-| 20 | 210 pp | Basic Items (Masterwork quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Excellent quality) |
+| 1 | 25 pp | Basic Items (Basic quality) |
+| 2 | 50 pp | Basic Items (Basic quality), Simple Tools (Basic quality) |
+| 3 | 75 pp | Basic Items (Standard quality), Simple Tools (Basic quality) |
+| 4 | 100 pp | Basic Items (Standard quality), Simple Tools (Standard quality) |
+| 5 | 125 pp | Basic Items (Good quality), Simple Tools (Standard quality), Simple Weapons (Basic quality) |
+| 6 | 150 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Basic quality) |
+| 7 | 175 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Standard quality) |
+| 8 | 200 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Standard quality), Moderate Items (Basic quality) |
+| 9 | 225 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Basic quality) |
+| 10 | 250 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
+| 11 | 275 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
+| 12 | 300 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
+| 13 | 325 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
+| 14 | 350 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality) |
+| 15 | 375 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Basic quality) |
+| 16 | 400 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
+| 17 | 425 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
+| 18 | 450 pp | Basic Items (Excellent quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
+| 19 | 475 pp | Basic Items (Excellent quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
+| 20 | 500 pp | Basic Items (Masterwork quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Excellent quality) |
 
 ## Item Types
 ### Basic Items

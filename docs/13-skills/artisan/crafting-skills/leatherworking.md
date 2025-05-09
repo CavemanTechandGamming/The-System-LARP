@@ -58,32 +58,35 @@ Leatherworking is the art of processing animal hides into leather and crafting t
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Tanner** - Allows the creation of superior quality leather items and the ability to work with exotic hides. Master Tanners are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of leather properties.
-- **Level 20: Grand Master Tanner** - Grants the ability to create unique, custom leather items with special properties (subject to administrative approval). Grand Masters are legendary figures in the leatherworking community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+- **Level 5: Apprentice Tanner** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Tanners can create simple leather items reliably and work independently on basic projects.
+- **Level 10: Journeyman Tanner** - Growing expertise in leatherworking and ability to create more complex items. Journeyman Tanners are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Tanner** - Exceptional skill in leatherworking and ability to create advanced items. Master Tanners are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Tanner** - Legendary skill in leatherworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of leatherworking. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Leather Items (Standard quality), Simple Armor (Basic quality) |
-| 2 | 30 pp | Basic Leather Items (Standard quality), Simple Armor (Basic quality), Light Armor (Basic quality) |
-| 3 | 40 pp | Basic Leather Items (Good quality), Simple Armor (Standard quality), Light Armor (Basic quality) |
-| 4 | 50 pp | Basic Leather Items (Good quality), Simple Armor (Standard quality), Light Armor (Standard quality) |
-| 5 | 60 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Standard quality), Medium Armor (Basic quality) |
-| 6 | 70 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Basic quality) |
-| 7 | 80 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality) |
-| 8 | 90 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality) |
-| 9 | 100 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Basic quality) |
-| 10 | 110 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
-| 11 | 120 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
-| 12 | 130 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality) |
-| 13 | 140 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality) |
-| 14 | 150 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Basic quality) |
-| 15 | 160 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
-| 16 | 170 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
-| 17 | 180 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Good quality) |
-| 18 | 190 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Good quality) |
-| 19 | 200 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Good quality) |
-| 20 | 210 pp | Basic Leather Items (Masterwork quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Excellent quality) |
+| 1 | 25 pp | Basic Leather Items (Basic quality) |
+| 2 | 50 pp | Basic Leather Items (Basic quality), Simple Armor (Basic quality) |
+| 3 | 75 pp | Basic Leather Items (Standard quality), Simple Armor (Basic quality) |
+| 4 | 100 pp | Basic Leather Items (Standard quality), Simple Armor (Standard quality) |
+| 5 | 125 pp | Basic Leather Items (Good quality), Simple Armor (Standard quality), Light Armor (Basic quality) |
+| 6 | 150 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Basic quality) |
+| 7 | 175 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Standard quality) |
+| 8 | 200 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Standard quality), Medium Armor (Basic quality) |
+| 9 | 225 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Basic quality) |
+| 10 | 250 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality), Reinforced Armor (Basic quality) |
+| 11 | 275 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality), Reinforced Armor (Basic quality) |
+| 12 | 300 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
+| 13 | 325 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
+| 14 | 350 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality) |
+| 15 | 375 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Basic quality) |
+| 16 | 400 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
+| 17 | 425 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
+| 18 | 450 pp | Basic Leather Items (Excellent quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Good quality) |
+| 19 | 475 pp | Basic Leather Items (Excellent quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Good quality) |
+| 20 | 500 pp | Basic Leather Items (Masterwork quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Excellent quality) |
 
 ## Item Types
 ### Basic Leather Items

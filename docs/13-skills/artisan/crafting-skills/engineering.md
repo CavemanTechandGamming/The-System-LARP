@@ -15,6 +15,13 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Often fascinated by mechanical systems
 - May be systematic in their approach
 - Usually maintains detailed records of designs
+- Often shows great attention to detail
+- May have a particular specialty
+- Usually demonstrates problem-solving skills
+- Often maintains a systematic approach
+- May be somewhat traditional in their methods
+- Usually shows respect for established principles
+- Often displays great technical knowledge
 
 ### Common Behaviors
 - Carries various tools and measuring devices
@@ -25,6 +32,13 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - May have specific design rituals
 - Often studies mechanical texts
 - May collect unusual materials for projects
+- Frequently experiments with new designs
+- Often maintains a personal code of quality
+- May have specific safety procedures
+- Usually keeps detailed records
+- Often researches new methods
+- May maintain a network of suppliers
+- Usually has a specific workspace organization
 
 ### Social Interactions
 - May be sought after for unique devices
@@ -35,34 +49,44 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Could be consulted for mechanical problems
 - Might be protective of their designs
 - Often maintains professional relationships
+- May participate in design competitions
+- Could be known for specific specialties
+- Might maintain a client list
+- Often collaborates with other craftsmen
+- May be involved in research
+- Could be consulted by authorities
+- Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Engineer** - Allows the creation of more complex devices and the ability to combine multiple mechanical systems. Master Engineers are recognized for their expertise and may take on apprentices.
-- **Level 20: Grand Master Engineer** - Grants the ability to create unique, custom mechanical devices with special properties (subject to administrative approval). Grand Masters are legendary figures in the engineering community, capable of creating devices of great complexity and significance.
+- **Level 5: Apprentice Engineer** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Engineers can create simple devices reliably and work independently on basic projects.
+- **Level 10: Journeyman Engineer** - Growing expertise in mechanical systems and ability to create more complex devices. Journeyman Engineers are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Engineer** - Exceptional skill in engineering and ability to create advanced devices. Master Engineers are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Engineer** - Legendary skill in engineering and ability to create masterwork devices. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of engineering. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Devices, Simple Mechanisms |
-| 2 | 30 pp | Basic Devices, Simple Mechanisms, Basic Traps |
-| 3 | 40 pp | Basic Devices, Simple Mechanisms, Basic Traps |
-| 4 | 50 pp | Basic Devices, Simple Mechanisms, Basic Traps |
-| 5 | 60 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices |
-| 6 | 70 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices |
-| 7 | 80 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices |
-| 8 | 90 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices |
-| 9 | 100 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices |
-| 10 | 110 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices |
-| 11 | 120 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices |
-| 12 | 130 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices |
-| 13 | 140 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices |
-| 14 | 150 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 15 | 160 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 16 | 170 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 17 | 180 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 18 | 190 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 19 | 200 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
-| 20 | 210 pp | Basic Devices, Simple Mechanisms, Basic Traps, Moderate Devices, Complex Devices, Advanced Devices |
+| 1 | 25 pp | Basic Devices (Basic quality) |
+| 2 | 50 pp | Basic Devices (Basic quality), Simple Mechanisms (Basic quality) |
+| 3 | 75 pp | Basic Devices (Standard quality), Simple Mechanisms (Basic quality) |
+| 4 | 100 pp | Basic Devices (Standard quality), Simple Mechanisms (Standard quality) |
+| 5 | 125 pp | Basic Devices (Good quality), Simple Mechanisms (Standard quality), Basic Traps (Basic quality) |
+| 6 | 150 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Basic quality) |
+| 7 | 175 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Standard quality) |
+| 8 | 200 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Standard quality), Moderate Devices (Basic quality) |
+| 9 | 225 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Basic quality) |
+| 10 | 250 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Standard quality), Complex Devices (Basic quality) |
+| 11 | 275 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Standard quality), Complex Devices (Basic quality) |
+| 12 | 300 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Standard quality) |
+| 13 | 325 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Standard quality) |
+| 14 | 350 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality) |
+| 15 | 375 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Basic quality) |
+| 16 | 400 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Standard quality) |
+| 17 | 425 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Standard quality) |
+| 18 | 450 pp | Basic Devices (Excellent quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Good quality) |
+| 19 | 475 pp | Basic Devices (Excellent quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Good quality) |
+| 20 | 500 pp | Basic Devices (Masterwork quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Excellent quality) |
 
 ## Device Types
 ### Basic Devices
@@ -70,38 +94,42 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Basic Pulleys (Simple lifting systems)
 - Simple Levers (Basic force multipliers)
 - Basic Springs (Simple energy storage)
+- Basic Hand Cannons (Simple single-shot firearms)
 
 ### Simple Mechanisms
 - Door Locks (Standard security systems)
 - Window Latches (Basic securing devices)
 - Simple Traps (Basic triggering mechanisms)
 - Basic Clockwork (Simple timing devices)
-- Basic Gun/Hand Gun
-
+- Basic Pistols (Simple repeating firearms)
 
 ### Basic Traps
 - Pressure Plates (Weight-based triggers)
 - Trip Wires (Motion-based triggers)
 - Simple Snares (Basic capture devices)
 - Basic Alarms (Simple alert systems)
+- Basic Gun Traps (Simple triggered firearms)
 
 ### Moderate Devices
 - Complex Locks (Advanced security systems)
 - Advanced Pulleys (Complex lifting mechanisms)
 - Mechanical Lifts (Powered elevation systems)
 - Clockwork Devices (Precision timing mechanisms)
+- Rifles (Advanced single-shot firearms)
 
 ### Complex Devices
 - Automated Doors (Self-operating entrances)
 - Complex Traps (Advanced triggering systems)
 - Mechanical Defenses (Automated protection)
 - Advanced Clockwork (Precision mechanical systems)
+- Repeating Rifles (Advanced multi-shot firearms)
 
 ### Advanced Devices
 - Automated Systems (Self-operating mechanisms)
 - Complex Machinery (Advanced mechanical systems)
 - Mechanical Guardians (Automated protectors)
 - Masterwork Devices (Ultimate mechanical creations)
+- Masterwork Firearms (Ultimate precision firearms)
 
 ## Requirements
 ### Basic Requirements
@@ -243,6 +271,21 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Proper storage prevents damage
 - Some combinations may be dangerous
 - Understanding of mechanics is essential
+- Heat treatment affects metal properties
+- Different metals require specific techniques
+- Material composition affects durability
+- Alloy combinations can create unique properties
+- Metal grain structure affects strength
+- Quenching methods affect hardness
+- Annealing processes affect flexibility
+- Metal purity affects workability
+- Forging techniques affect structural integrity
+- Metal thickness affects weight and protection
+- Metal density affects durability
+- Metal conductivity affects electrical properties
+- Metal reactivity affects chemical treatments
+- Metal expansion affects fit and function
+- Metal contraction affects final dimensions
 
 ### Role-Playing Considerations
 - Each engineer may have their own style
@@ -253,6 +296,13 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Emotional state may affect results
 - Personal goals may influence choices
 - Reputation may affect opportunities
+- Personal ethics may guide decisions
+- Cultural traditions may influence methods
+- Personal experiences may affect choices
+- Social standing may impact opportunities
+- Personal relationships may affect work
+- Cultural values may guide practices
+- Personal history may influence approach
 
 ### Safety Considerations
 - Always work in a safe environment
@@ -263,6 +313,13 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Have emergency procedures ready
 - Keep repair tools available
 - Maintain safety equipment
+- Use proper containment
+- Follow disposal procedures
+- Maintain clean workspace
+- Use proper ventilation
+- Keep emergency supplies
+- Follow safety protocols
+- Maintain safety records
 
 ### Business Considerations
 - Keep detailed records of work
@@ -272,4 +329,11 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Maintain professional standards
 - Keep accurate accounts
 - Follow market rates
-- Maintain quality standards 
+- Maintain quality standards
+- Track inventory carefully
+- Maintain supplier relationships
+- Follow business regulations
+- Keep financial records
+- Maintain professional reputation
+- Follow industry standards
+- Keep business documentation 

@@ -58,32 +58,35 @@ Tailoring is the art of working with various fabrics and materials to create clo
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 10: Master Tailor** - Allows the creation of superior quality clothing and the ability to work with rare fabrics. Master Tailors are recognized for their expertise and may take on apprentices. They can create more complex items and have a deeper understanding of fabric properties.
-- **Level 20: Grand Master Tailor** - Grants the ability to create unique, custom magical clothing with special properties (subject to administrative approval). Grand Masters are legendary figures in the tailoring community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods.
+- **Level 5: Apprentice Tailor** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Tailors can create simple clothing reliably and work independently on basic projects.
+- **Level 10: Journeyman Tailor** - Growing expertise in tailoring and ability to create more complex items. Journeyman Tailors are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Tailor** - Exceptional skill in tailoring and ability to create advanced items. Master Tailors are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Tailor** - Legendary skill in tailoring and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of tailoring. Artisan Legends can create masterpieces that combine multiple disciplines.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 20 pp | Basic Clothing (Standard quality), Simple Items (Basic quality) |
-| 2 | 30 pp | Basic Clothing (Standard quality), Simple Items (Basic quality), Light Armor (Basic quality) |
-| 3 | 40 pp | Basic Clothing (Good quality), Simple Items (Standard quality), Light Armor (Basic quality) |
-| 4 | 50 pp | Basic Clothing (Good quality), Simple Items (Standard quality), Light Armor (Standard quality) |
-| 5 | 60 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Standard quality), Moderate Armor (Basic quality) |
-| 6 | 70 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Basic quality) |
-| 7 | 80 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Standard quality) |
-| 8 | 90 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Standard quality) |
-| 9 | 100 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Basic quality) |
-| 10 | 110 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Standard quality) |
-| 11 | 120 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Standard quality) |
-| 12 | 130 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality) |
-| 13 | 140 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality) |
-| 14 | 150 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Basic quality) |
-| 15 | 160 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Standard quality) |
-| 16 | 170 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Standard quality) |
-| 17 | 180 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Good quality) |
-| 18 | 190 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Good quality) |
-| 19 | 200 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Good quality) |
-| 20 | 210 pp | Basic Clothing (Masterwork quality), Simple Items (Excellent quality), Light Armor (Excellent quality), Moderate Armor (Excellent quality), Enchanted Clothing (Excellent quality), Advanced Armor (Excellent quality) |
+| 1 | 25 pp | Basic Clothing (Basic quality) |
+| 2 | 50 pp | Basic Clothing (Basic quality), Simple Items (Basic quality) |
+| 3 | 75 pp | Basic Clothing (Standard quality), Simple Items (Basic quality) |
+| 4 | 100 pp | Basic Clothing (Standard quality), Simple Items (Standard quality) |
+| 5 | 125 pp | Basic Clothing (Good quality), Simple Items (Standard quality), Light Armor (Basic quality) |
+| 6 | 150 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Basic quality) |
+| 7 | 175 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Standard quality) |
+| 8 | 200 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Standard quality), Moderate Armor (Basic quality) |
+| 9 | 225 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Basic quality) |
+| 10 | 250 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Standard quality), Enchanted Clothing (Basic quality) |
+| 11 | 275 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Standard quality), Enchanted Clothing (Basic quality) |
+| 12 | 300 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Standard quality) |
+| 13 | 325 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Standard quality) |
+| 14 | 350 pp | Basic Clothing (Good quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality) |
+| 15 | 375 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Basic quality) |
+| 16 | 400 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Standard quality) |
+| 17 | 425 pp | Basic Clothing (Excellent quality), Simple Items (Good quality), Light Armor (Good quality), Moderate Armor (Good quality), Enchanted Clothing (Good quality), Advanced Armor (Standard quality) |
+| 18 | 450 pp | Basic Clothing (Excellent quality), Simple Items (Excellent quality), Light Armor (Excellent quality), Moderate Armor (Excellent quality), Enchanted Clothing (Excellent quality), Advanced Armor (Good quality) |
+| 19 | 475 pp | Basic Clothing (Excellent quality), Simple Items (Excellent quality), Light Armor (Excellent quality), Moderate Armor (Excellent quality), Enchanted Clothing (Excellent quality), Advanced Armor (Good quality) |
+| 20 | 500 pp | Basic Clothing (Masterwork quality), Simple Items (Excellent quality), Light Armor (Excellent quality), Moderate Armor (Excellent quality), Enchanted Clothing (Excellent quality), Advanced Armor (Excellent quality) |
 
 ## Item Types
 ### Basic Clothing

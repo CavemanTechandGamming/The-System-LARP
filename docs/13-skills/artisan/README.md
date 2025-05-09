@@ -5,74 +5,83 @@ Artisan skills represent the ability to create, modify, and repair various items
 
 ## Skill Categories
 
-### Core Skills
-The foundation of crafting and item creation, these are the primary skills that most artisans will use. These skills focus on creating finished products from raw materials and are essential for any crafting-focused character.
+### [Crafting Skills](crafting-skills/README.md)
+The foundation of item creation, these skills focus on transforming raw materials into finished products. These are the primary skills that most artisans will use to create equipment, tools, and other items.
 
-#### [Alchemy](core-skills/alchemy.md)
-The art of creating potions and magical substances through the combination of various ingredients and magical energies. Alchemists can create healing potions, magical elixirs, and other consumable items that provide various effects.
-
-#### [Blacksmithing](core-skills/blacksmithing.md)
+#### [Blacksmithing](crafting-skills/blacksmithing.md)
 The craft of working with metal to create weapons, armor, and other metal items. Blacksmiths can forge everything from simple tools to masterwork weapons and armor, using various metals and techniques.
 
-#### [Jewelcrafting](core-skills/jewelcrafting.md)
+#### [Engineering](crafting-skills/engineering.md)
+The art of creating complex mechanical devices that can perform various functions. Engineers can create everything from simple machines to complex mechanisms that automate tasks or solve problems.
+
+#### [Jewelcrafting](crafting-skills/jewelcrafting.md)
 The art of creating jewelry, gem-encrusted items, and magical trinkets. Jewelcrafters work with precious metals and gems to create both decorative and functional items, often incorporating magical properties.
 
-#### [Leatherworking](core-skills/leatherworking.md)
+#### [Leatherworking](crafting-skills/leatherworking.md)
 The skill of creating leather goods, armor, and other items from animal hides and leather. Leatherworkers can create everything from simple pouches to complex armor pieces, using various tanning and treatment techniques.
 
-#### [Tailoring](core-skills/tailoring.md)
+#### [Tailoring](crafting-skills/tailoring.md)
 The craft of creating clothing, cloth armor, and various fabric-based items. Tailors work with various fabrics and materials to create both practical and decorative items, from simple clothing to magical robes.
 
-#### [Woodworking](core-skills/woodworking.md)
+#### [Trap Making](crafting-skills/trap-making.md)
+The craft of designing and constructing traps and defensive mechanisms. Trap makers can create everything from simple snares to complex magical traps that protect areas or capture intruders.
+
+#### [Woodworking](crafting-skills/woodworking.md)
 The skill of crafting wooden items, weapons, and furniture. Woodworkers can create everything from simple tools to complex furniture pieces, using various types of wood and techniques.
 
-### Gathering Skills
-The foundation of resource collection, these skills are essential for obtaining the materials needed for crafting. These skills focus on safely and efficiently gathering raw materials from the environment and are often prerequisites for more advanced crafting skills.
+### [Gathering Skills](gathering-skills/README.md)
+The foundation of resource collection, these skills are essential for obtaining the materials needed for crafting. These skills focus on safely and efficiently gathering raw materials from the environment.
 
-#### [Resource Gathering](gathering-skills/resource-gathering.md)
-The foundation of all gathering skills, teaching basic resource collection techniques and safety procedures. Resource gatherers learn to identify, collect, and preserve various materials while minimizing environmental impact.
+#### [Forestry](gathering-skills/forestry.md)
+The specialized skill of managing and harvesting wood resources. Foresters can identify valuable trees, understand wood properties, and sustainably harvest materials while maintaining forest health. This skill is crucial for obtaining quality wood for woodworking and other crafts.
 
-##### [Mining](gathering-skills/specializations/mining.md)
-The art of extracting metal ores and gems from underground deposits and rock formations. Miners can locate valuable deposits, safely extract materials, and process raw ores into usable forms.
+#### [Herbalism](gathering-skills/herbalism.md)
+The practice of gathering plants and herbs from the environment. Herbalists can identify useful plants, understand their properties, and properly harvest and preserve them for various uses. This skill is vital for obtaining materials used in alchemy and other magical crafts.
 
-##### [Skinning](gathering-skills/specializations/skinning.md)
-The skill of harvesting animal hides and leather from creatures. Skinners can properly remove and preserve hides, ensuring maximum quality and usability for leatherworking.
+#### [Mining](gathering-skills/mining.md)
+The art of extracting metal ores and gems from underground deposits and rock formations. Miners can locate valuable deposits, safely extract materials, and process raw ores into usable forms. This skill is essential for obtaining materials used in blacksmithing and jewelcrafting.
 
-##### [Herbalism](gathering-skills/specializations/herbalism.md)
-The practice of gathering plants and herbs from the environment. Herbalists can identify useful plants, understand their properties, and properly harvest and preserve them for various uses.
+#### [Skinning](gathering-skills/skinning.md)
+The skill of harvesting animal hides and leather from creatures. Skinners can properly remove and preserve hides, ensuring maximum quality and usability for leatherworking. This skill is crucial for obtaining materials used in leatherworking and tailoring.
 
-### Magical Skills
-The foundation of magical item creation, these skills combine traditional crafting with magical knowledge. These skills focus on creating items with supernatural properties and are essential for any magic-focused crafting.
+### [Magical Skills](magical-skills/README.md)
+The foundation of magical item creation, these skills combine traditional crafting with magical knowledge. These skills focus on creating items with supernatural properties and enhancing existing items with magical effects.
 
-#### [Enchanting](magical-skills/enchanting.md)
-The art of adding magical properties to items through the application of magical energies and runes. Enchanters can imbue items with various magical effects, from simple enhancements to complex spell-like abilities.
+#### [Alchemy](magical-skills/alchemy.md)
+The art of creating potions and magical substances through the combination of various ingredients and magical energies. Alchemists can create healing potions, magical elixirs, and other consumable items that provide various effects.
 
 #### [Artifice](magical-skills/artifice.md)
 The craft of creating magical devices and constructs that can perform complex tasks. Artificers can create everything from simple magical tools to complex mechanical constructs that combine magic and machinery.
 
+#### [Enchanting](magical-skills/enchanting.md)
+The art of adding magical properties to items through the application of magical energies and runes. Enchanters can imbue items with various magical effects, from simple enhancements to complex spell-like abilities.
+
 #### [Spellcrafting](magical-skills/spellcrafting.md)
 The skill of creating magical scrolls and spell components that can store or enhance magical energy. Spellcrafters can create scrolls that allow others to cast spells, as well as components that enhance magical effects.
 
-### Mechanical Skills
-The foundation of mechanical device creation, these skills combine engineering knowledge with practical application. These skills focus on creating complex devices and are essential for any mechanically-inclined character.
+### [Production Skills](production-skills/README.md)
+The foundation of production efficiency, these skills enhance the capabilities of other crafting skills. These skills focus on improving quality, efficiency, and maintenance in the crafting process.
 
-#### [Engineering](mechanical-skills/engineering.md)
-The art of creating complex mechanical devices that can perform various functions. Engineers can create everything from simple machines to complex mechanisms that automate tasks or solve problems.
+#### [Artisan Concentration](production-skills/artisan_concentration.md)
+The ability to maintain focus and precision during extended crafting sessions. This skill allows artisans to work longer and more efficiently while maintaining quality standards, reducing the chance of mistakes, and improving overall productivity.
 
-#### [Trap Making](mechanical-skills/trap-making.md)
-The craft of designing and constructing traps and defensive mechanisms. Trap makers can create everything from simple snares to complex magical traps that protect areas or capture intruders.
-
-### Production Skills
-The foundation of production efficiency, these skills enhance the capabilities of other crafting skills. These skills focus on improving quality and efficiency in the crafting process.
+#### [Crafting Efficiency](production-skills/crafting-efficiency.md)
+The art of optimizing workflow and production processes. Efficiency specialists can analyze crafting methods, identify bottlenecks, and implement improvements to maximize productivity while maintaining quality standards.
 
 #### [Item Repair](production-skills/item-repair.md)
 The art of restoring damaged items to their original condition. Repair specialists can fix everything from simple wear and tear to complex magical damage, using various techniques and materials.
 
+#### [Mass Production](production-skills/mass-production.md)
+The practice of creating items in bulk while maintaining quality standards. Mass producers can efficiently create large quantities of items while ensuring each item meets quality requirements.
+
+#### [Quality Control](production-skills/quality-control.md)
+The specialized skill of inspecting and testing crafted items. Quality control specialists ensure that all products meet established standards, identify potential issues, and maintain consistent quality across production.
+
 #### [Quality Crafting](production-skills/quality-crafting.md)
 The skill of improving item quality through advanced techniques and attention to detail. Quality crafters can enhance existing items or ensure new items meet the highest standards of craftsmanship.
 
-#### [Mass Production](production-skills/mass-production.md)
-The practice of creating items in bulk while maintaining quality standards. Mass producers can efficiently create large quantities of items while ensuring each item meets quality requirements.
+#### [Resource Management](production-skills/resource-management.md)
+The practice of optimizing material usage and inventory control. Resource managers can track material flow, minimize waste, and ensure efficient use of resources throughout the crafting process.
 
 ## Skill System
 
