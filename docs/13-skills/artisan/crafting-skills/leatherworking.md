@@ -67,87 +67,67 @@ Leatherworking is the art of processing animal hides into leather and crafting t
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | Basic Leather Items (Basic quality) |
-| 2 | 50 pp | Basic Leather Items (Basic quality), Simple Armor (Basic quality) |
-| 3 | 75 pp | Basic Leather Items (Standard quality), Simple Armor (Basic quality) |
-| 4 | 100 pp | Basic Leather Items (Standard quality), Simple Armor (Standard quality) |
-| 5 | 125 pp | Basic Leather Items (Good quality), Simple Armor (Standard quality), Light Armor (Basic quality) |
-| 6 | 150 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Basic quality) |
-| 7 | 175 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Standard quality) |
-| 8 | 200 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Standard quality), Medium Armor (Basic quality) |
-| 9 | 225 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Basic quality) |
-| 10 | 250 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality), Reinforced Armor (Basic quality) |
-| 11 | 275 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Standard quality), Reinforced Armor (Basic quality) |
-| 12 | 300 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
-| 13 | 325 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Standard quality) |
-| 14 | 350 pp | Basic Leather Items (Good quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality) |
-| 15 | 375 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Basic quality) |
-| 16 | 400 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
-| 17 | 425 pp | Basic Leather Items (Excellent quality), Simple Armor (Good quality), Light Armor (Good quality), Medium Armor (Good quality), Reinforced Armor (Good quality), Heavy Armor (Standard quality) |
-| 18 | 450 pp | Basic Leather Items (Excellent quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Good quality) |
-| 19 | 475 pp | Basic Leather Items (Excellent quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Good quality) |
-| 20 | 500 pp | Basic Leather Items (Masterwork quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Excellent quality) |
+| 1 | 25 pp | All Items (Common quality) |
+| 2 | 50 pp | All Items (Uncommon quality) |
+| 3 | 75 pp | All Items (Rare quality) |
+| 4 | 100 pp | All Items (Rare quality) |
+| 5 | 125 pp | All Items (Rare quality), All Modifications |
+| 6 | 150 pp | All Items (Rare quality), All Modifications |
+| 7 | 175 pp | All Items (Rare quality), All Modifications |
+| 8 | 200 pp | All Items (Rare quality), All Modifications |
+| 9 | 225 pp | All Items (Rare quality), All Modifications |
+| 10 | 250 pp | All Items (Rare quality), All Modifications |
+| 11 | 275 pp | All Items (Rare quality), All Modifications |
+| 12 | 300 pp | All Items (Rare quality), All Modifications |
+| 13 | 325 pp | All Items (Rare quality), All Modifications |
+| 14 | 350 pp | All Items (Rare quality), All Modifications |
+| 15 | 375 pp | All Items (Epic quality), All Modifications |
+| 16 | 400 pp | All Items (Epic quality), All Modifications |
+| 17 | 425 pp | All Items (Epic quality), All Modifications |
+| 18 | 450 pp | All Items (Epic quality), All Modifications |
+| 19 | 475 pp | All Items (Mythic quality), All Modifications |
+| 20 | 500 pp | All Items (Legendary quality), All Modifications |
 
 ## Item Types
-### Basic Items
-- **Belts** (3 PP) - For securing and carrying items, made from basic leather with simple buckles
-- **Pouches** (4 PP) - For storing small items, crafted from basic leather with simple closures
-- **Basic Bags** (5 PP) - For general storage, made from basic leather with simple straps
-- **Simple Straps** (3 PP) - For securing items, crafted from basic leather with basic buckles
-- **Basic Sheaths** (4 PP) - For weapon storage, made from basic leather with simple closures
-- **Simple Cases** (5 PP) - For item protection, crafted from basic leather with reinforced edges
-- **Basic Wraps** (3 PP) - For covering items, made from basic leather with simple ties
-- **Simple Covers** (4 PP) - For item protection, crafted from basic leather with basic reinforcement
+### Light Armor
+- **Leather Belt** (3 PP) - Basic belt for securing and carrying items, provides 2 armor points
+- **Leather Pouch** (4 PP) - Basic pouch for storing small items, provides 2 armor points
+- **Leather Bag** (5 PP) - Basic bag for general storage, provides 3 armor points
+- **Leather Sheath** (4 PP) - Basic sheath for weapon storage, provides 2 armor points
+- **Leather Gloves** (5 PP) - Basic hand protection, provides 3 armor points
+- **Leather Boots** (6 PP) - Basic foot protection, provides 3 armor points
+- **Leather Bracers** (4 PP) - Basic arm protection, provides 2 armor points
+- **Leather Cap** (5 PP) - Basic head protection, provides 3 armor points
 
-### Simple Items
-- **Leather Gloves** (6 PP) - Basic hand protection made from simple leather with basic reinforcement, provides 3 armor points
-- **Leather Boots** (7 PP) - Basic foot protection crafted from simple leather with basic soles, provides 3 armor points
-- **Simple Bracers** (5 PP) - Basic arm protection made from simple leather with basic straps, provides 3 armor points
-- **Basic Helmets** (8 PP) - Basic head protection crafted from simple leather with basic padding, provides 5 armor points
-- **Simple Greaves** (6 PP) - Basic leg protection made from simple leather with basic straps, provides 3 armor points
-- **Basic Pauldrons** (7 PP) - Basic shoulder protection crafted from simple leather with basic reinforcement, provides 3 armor points
-- **Simple Cuirass** (8 PP) - Basic torso protection made from simple leather with basic straps, provides 5 armor points
-- **Basic Gauntlets** (6 PP) - Basic hand protection crafted from simple leather with basic reinforcement, provides 3 armor points
+### Normal Armor
+- **Studded Belt** (12 PP) - Durable belt with metal studs, provides 7 armor points
+- **Studded Pouch** (13 PP) - Durable pouch with metal studs, provides 7 armor points
+- **Studded Bag** (14 PP) - Durable bag with metal studs, provides 8 armor points
+- **Studded Sheath** (13 PP) - Durable sheath with metal studs, provides 7 armor points
+- **Studded Gloves** (14 PP) - Durable hand protection with metal studs, provides 8 armor points
+- **Studded Boots** (15 PP) - Durable foot protection with metal studs, provides 8 armor points
+- **Studded Bracers** (13 PP) - Durable arm protection with metal studs, provides 7 armor points
+- **Studded Cap** (14 PP) - Durable head protection with metal studs, provides 8 armor points
 
-### Light Items
-- **Leather Jerkin** (12 PP) - Flexible torso protection made from quality leather with reinforced stitching, provides 8 armor points
-- **Leather Leggings** (11 PP) - Flexible leg protection crafted from quality leather with reinforced seams, provides 8 armor points
-- **Light Gauntlets** (10 PP) - Enhanced hand protection made from quality leather with reinforced knuckles, provides 5 armor points
-- **Light Boots** (12 PP) - Enhanced foot protection crafted from quality leather with reinforced soles, provides 5 armor points
-- **Light Bracers** (10 PP) - Enhanced arm protection made from quality leather with reinforced edges, provides 5 armor points
-- **Light Helmets** (13 PP) - Enhanced head protection crafted from quality leather with reinforced padding, provides 8 armor points
-- **Light Greaves** (11 PP) - Enhanced leg protection made from quality leather with reinforced straps, provides 5 armor points
-- **Light Pauldrons** (12 PP) - Enhanced shoulder protection crafted from quality leather with reinforced plates, provides 5 armor points
+### Heavy Armor
+- **Hardened Belt** (18 PP) - Maximum durability belt with full metal reinforcements, provides 10 armor points
+- **Hardened Pouch** (19 PP) - Maximum durability pouch with full metal reinforcements, provides 10 armor points
+- **Hardened Bag** (20 PP) - Maximum durability bag with full metal reinforcements, provides 12 armor points
+- **Hardened Sheath** (19 PP) - Maximum durability sheath with full metal reinforcements, provides 10 armor points
+- **Hardened Gloves** (20 PP) - Maximum durability hand protection with full metal plates, provides 12 armor points
+- **Hardened Boots** (21 PP) - Maximum durability foot protection with full metal reinforcements, provides 12 armor points
+- **Hardened Bracers** (19 PP) - Maximum durability arm protection with full metal plates, provides 10 armor points
+- **Hardened Cap** (20 PP) - Maximum durability head protection with full metal reinforcements, provides 12 armor points
 
-### Moderate Items
-- **Reinforced Leather** (18 PP) - Durable torso protection made from quality leather with metal reinforcements, provides 12 armor points
-- **Studded Leather** (17 PP) - Enhanced flexibility crafted from quality leather with metal studs, provides 10 armor points
-- **Medium Gauntlets** (16 PP) - Durable hand protection made from quality leather with metal plates, provides 8 armor points
-- **Medium Boots** (18 PP) - Durable foot protection crafted from quality leather with metal reinforcements, provides 8 armor points
-- **Medium Bracers** (16 PP) - Durable arm protection made from quality leather with metal plates, provides 8 armor points
-- **Medium Helmets** (19 PP) - Durable head protection crafted from quality leather with metal reinforcements, provides 12 armor points
-- **Medium Greaves** (17 PP) - Durable leg protection made from quality leather with metal plates, provides 8 armor points
-- **Medium Pauldrons** (18 PP) - Durable shoulder protection crafted from quality leather with metal reinforcements, provides 8 armor points
-
-### Complex Items
-- **Hardened Leather** (25 PP) - Maximum durability crafted from treated leather with metal reinforcements, provides 15 armor points
-- **Reinforced Bracers** (24 PP) - Maximum arm protection made from treated leather with metal plates, provides 12 armor points
-- **Reinforced Greaves** (23 PP) - Maximum leg protection crafted from treated leather with metal plates, provides 12 armor points
-- **Reinforced Helmets** (26 PP) - Maximum head protection made from treated leather with metal reinforcements, provides 15 armor points
-- **Reinforced Gauntlets** (24 PP) - Maximum hand protection crafted from treated leather with metal plates, provides 12 armor points
-- **Reinforced Boots** (25 PP) - Maximum foot protection made from treated leather with metal reinforcements, provides 12 armor points
-- **Reinforced Pauldrons** (24 PP) - Maximum shoulder protection crafted from treated leather with metal plates, provides 12 armor points
-- **Reinforced Cuirass** (26 PP) - Maximum torso protection made from treated leather with metal reinforcements, provides 15 armor points
-
-### Advanced Items
-- **Full Leather Suit** (45 PP) - Complete body protection crafted from masterwork leather with full metal reinforcements, provides 25 armor points
-- **Heavy Gauntlets** (42 PP) - Maximum hand protection made from masterwork leather with full metal plates, provides 18 armor points
-- **Heavy Boots** (44 PP) - Maximum foot protection crafted from masterwork leather with full metal reinforcements, provides 18 armor points
-- **Full Face Helmets** (46 PP) - Maximum head protection made from masterwork leather with full metal reinforcements, provides 20 armor points
-- **Heavy Bracers** (43 PP) - Maximum arm protection crafted from masterwork leather with full metal plates, provides 18 armor points
-- **Heavy Greaves** (42 PP) - Maximum leg protection made from masterwork leather with full metal plates, provides 18 armor points
-- **Heavy Pauldrons** (44 PP) - Maximum shoulder protection crafted from masterwork leather with full metal plates, provides 18 armor points
-- **Heavy Cuirass** (45 PP) - Maximum torso protection made from masterwork leather with full metal reinforcements, provides 20 armor points
+### Modifications
+- **Gilded** (5 PP) - increases item value by base cost in copper
+- **Lightweight** (20 PP per level) - grants Finesse Calls (1/2/3 per day)
+- **Plating** (10 PP per level) - adds +5/+10/+15 armor points (doubled for Heavy Armor)
+- **Extra Enchantments** (15 PP per level) - adds additional enchantment slots
+- **Impenetrable** (50 PP) - reduces non-magical damage by 2 per piece
+- **Magic Barrier** (30 PP) - allows one Shield Magic call per day
+- **Reinforce** (175 PP) - makes item Indestructible
+- **Personalized** (30 PP) - grants "No effect" against 5 Fumble/Disarm effects per day
 
 ## Requirements
 ### Basic Requirements

@@ -67,26 +67,26 @@ Blacksmithing is the art of shaping and working metal through heating, hammering
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | All Items (Basic quality) |
-| 2 | 50 pp | All Items (Standard quality) |
-| 3 | 75 pp | All Items (Good quality) |
-| 4 | 100 pp | All Items (Good quality) |
-| 5 | 125 pp | All Items (Good quality), All Modifications |
-| 6 | 150 pp | All Items (Good quality), All Modifications |
-| 7 | 175 pp | All Items (Good quality), All Modifications |
-| 8 | 200 pp | All Items (Good quality), All Modifications |
-| 9 | 225 pp | All Items (Good quality), All Modifications |
-| 10 | 250 pp | All Items (Good quality), All Modifications |
-| 11 | 275 pp | All Items (Good quality), All Modifications |
-| 12 | 300 pp | All Items (Good quality), All Modifications |
-| 13 | 325 pp | All Items (Good quality), All Modifications |
-| 14 | 350 pp | All Items (Good quality), All Modifications |
-| 15 | 375 pp | All Items (Excellent quality), All Modifications |
-| 16 | 400 pp | All Items (Excellent quality), All Modifications |
-| 17 | 425 pp | All Items (Excellent quality), All Modifications |
-| 18 | 450 pp | All Items (Excellent quality), All Modifications |
-| 19 | 475 pp | All Items (Excellent quality), All Modifications |
-| 20 | 500 pp | All Items (Masterwork quality), All Modifications |
+| 1 | 25 pp | All Items (Common quality) |
+| 2 | 50 pp | All Items (Uncommon quality) |
+| 3 | 75 pp | All Items (Rare quality) |
+| 4 | 100 pp | All Items (Rare quality) |
+| 5 | 125 pp | All Items (Rare quality), All Modifications |
+| 6 | 150 pp | All Items (Rare quality), All Modifications |
+| 7 | 175 pp | All Items (Rare quality), All Modifications |
+| 8 | 200 pp | All Items (Rare quality), All Modifications |
+| 9 | 225 pp | All Items (Rare quality), All Modifications |
+| 10 | 250 pp | All Items (Rare quality), All Modifications |
+| 11 | 275 pp | All Items (Rare quality), All Modifications |
+| 12 | 300 pp | All Items (Rare quality), All Modifications |
+| 13 | 325 pp | All Items (Rare quality), All Modifications |
+| 14 | 350 pp | All Items (Rare quality), All Modifications |
+| 15 | 375 pp | All Items (Epic quality), All Modifications |
+| 16 | 400 pp | All Items (Epic quality), All Modifications |
+| 17 | 425 pp | All Items (Epic quality), All Modifications |
+| 18 | 450 pp | All Items (Epic quality), All Modifications |
+| 19 | 475 pp | All Items (Mythic quality), All Modifications |
+| 20 | 500 pp | All Items (Legendary quality), All Modifications |
 
 ## Item Types
 ### Armor

@@ -60,26 +60,26 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | Common Item (Basic quality) |
-| 2 | 50 pp | Common Item (Basic quality), Uncommon Item (Basic quality) |
-| 3 | 75 pp | Common Item (Standard quality), Uncommon Item (Basic quality) |
-| 4 | 100 pp | Common Item (Standard quality), Uncommon Item (Standard quality) |
-| 5 | 125 pp | Common Item (Good quality), Uncommon Item (Standard quality), Rare Item (Basic quality) |
-| 6 | 150 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Basic quality) |
-| 7 | 175 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Standard quality) |
-| 8 | 200 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Standard quality), Epic Item (Basic quality) |
-| 9 | 225 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Basic quality) |
-| 10 | 250 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Standard quality), Mythic Item (Basic quality) |
-| 11 | 275 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Standard quality), Mythic Item (Basic quality) |
-| 12 | 300 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Standard quality) |
-| 13 | 325 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Standard quality) |
-| 14 | 350 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality) |
-| 15 | 375 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Basic quality) |
-| 16 | 400 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Standard quality) |
-| 17 | 425 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Standard quality) |
-| 18 | 450 pp | Common Item (Excellent quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Good quality) |
-| 19 | 475 pp | Common Item (Excellent quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Good quality) |
-| 20 | 500 pp | Common Item (Masterwork quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Excellent quality) |
+| 1 | 25 pp | Common Item (Common quality) |
+| 2 | 50 pp | Common Item (Common quality), Uncommon Item (Common quality) |
+| 3 | 75 pp | Common Item (Uncommon quality), Uncommon Item (Common quality) |
+| 4 | 100 pp | Common Item (Uncommon quality), Uncommon Item (Uncommon quality) |
+| 5 | 125 pp | Common Item (Rare quality), Uncommon Item (Uncommon quality), Rare Item (Common quality) |
+| 6 | 150 pp | Common Item (Rare quality), Uncommon Item (Rare quality), Rare Item (Common quality) |
+| 7 | 175 pp | Common Item (Rare quality), Uncommon Item (Rare quality), Rare Item (Uncommon quality) |
+| 8 | 200 pp | Common Item (Epic quality), Uncommon Item (Rare quality), Rare Item (Uncommon quality), Epic Item (Common quality) |
+| 9 | 225 pp | Common Item (Epic quality), Uncommon Item (Rare quality), Rare Item (Rare quality), Epic Item (Common quality) |
+| 10 | 250 pp | Common Item (Epic quality), Uncommon Item (Epic quality), Rare Item (Rare quality), Epic Item (Uncommon quality), Mythic Item (Common quality) |
+| 11 | 275 pp | Common Item (Epic quality), Uncommon Item (Epic quality), Rare Item (Rare quality), Epic Item (Uncommon quality), Mythic Item (Common quality) |
+| 12 | 300 pp | Common Item (Epic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Uncommon quality) |
+| 13 | 325 pp | Common Item (Epic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Uncommon quality) |
+| 14 | 350 pp | Common Item (Epic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Rare quality) |
+| 15 | 375 pp | Common Item (Mythic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Rare quality), Legendary Item (Common quality) |
+| 16 | 400 pp | Common Item (Mythic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Rare quality), Legendary Item (Uncommon quality) |
+| 17 | 425 pp | Common Item (Mythic quality), Uncommon Item (Epic quality), Rare Item (Epic quality), Epic Item (Rare quality), Mythic Item (Rare quality), Legendary Item (Rare quality) |
+| 18 | 450 pp | Common Item (Legendary quality), Uncommon Item (Legendary quality), Rare Item (Legendary quality), Epic Item (Legendary quality), Mythic Item (Legendary quality), Legendary Item (Epic quality) |
+| 19 | 475 pp | Common Item (Legendary quality), Uncommon Item (Legendary quality), Rare Item (Legendary quality), Epic Item (Legendary quality), Mythic Item (Legendary quality), Legendary Item (Mythic quality) |
+| 20 | 500 pp | Common Item (Legendary quality), Uncommon Item (Legendary quality), Rare Item (Legendary quality), Epic Item (Legendary quality), Mythic Item (Legendary quality), Legendary Item (Legendary quality) |
 
 ## Item Types
 ### Common Items
