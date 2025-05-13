@@ -62,294 +62,113 @@ Blacksmithing is the art of shaping and working metal through heating, hammering
 - **Level 10: Journeyman Blacksmith** - Growing expertise in metalworking and ability to create more complex items. Journeyman Blacksmiths are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Blacksmith** - Exceptional skill in metalworking and ability to create advanced items. Master Blacksmiths are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Blacksmith** - Legendary skill in metalworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of blacksmithing. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Blacksmith** - Creation of legendary works and ability to influence the future of blacksmithing. Legendary Artisan Blacksmiths can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of blacksmithing itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | Basic Tools (Basic quality) |
-| 2 | 50 pp | Basic Tools (Basic quality), Simple Weapons (Basic quality) |
-| 3 | 75 pp | Basic Tools (Standard quality), Simple Weapons (Basic quality) |
-| 4 | 100 pp | Basic Tools (Standard quality), Simple Weapons (Standard quality) |
-| 5 | 125 pp | Basic Tools (Good quality), Simple Weapons (Standard quality), Light Armor (Basic quality) |
-| 6 | 150 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Basic quality) |
-| 7 | 175 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Standard quality) |
-| 8 | 200 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Standard quality), Medium Weapons (Basic quality) |
-| 9 | 225 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Basic quality) |
-| 10 | 250 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Standard quality), Medium Armor (Basic quality) |
-| 11 | 275 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Standard quality), Medium Armor (Basic quality) |
-| 12 | 300 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Standard quality) |
-| 13 | 325 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Standard quality) |
-| 14 | 350 pp | Basic Tools (Good quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality) |
-| 15 | 375 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Basic quality) |
-| 16 | 400 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Standard quality) |
-| 17 | 425 pp | Basic Tools (Excellent quality), Simple Weapons (Good quality), Light Armor (Good quality), Medium Weapons (Good quality), Medium Armor (Good quality), Heavy Weapons (Standard quality) |
-| 18 | 450 pp | Basic Tools (Excellent quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Good quality) |
-| 19 | 475 pp | Basic Tools (Excellent quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Good quality) |
-| 20 | 500 pp | Basic Tools (Masterwork quality), Simple Weapons (Excellent quality), Light Armor (Excellent quality), Medium Weapons (Excellent quality), Medium Armor (Excellent quality), Heavy Weapons (Excellent quality) |
+| 1 | 25 pp | All Items (Basic quality) |
+| 2 | 50 pp | All Items (Standard quality) |
+| 3 | 75 pp | All Items (Good quality) |
+| 4 | 100 pp | All Items (Good quality) |
+| 5 | 125 pp | All Items (Good quality), All Modifications |
+| 6 | 150 pp | All Items (Good quality), All Modifications |
+| 7 | 175 pp | All Items (Good quality), All Modifications |
+| 8 | 200 pp | All Items (Good quality), All Modifications |
+| 9 | 225 pp | All Items (Good quality), All Modifications |
+| 10 | 250 pp | All Items (Good quality), All Modifications |
+| 11 | 275 pp | All Items (Good quality), All Modifications |
+| 12 | 300 pp | All Items (Good quality), All Modifications |
+| 13 | 325 pp | All Items (Good quality), All Modifications |
+| 14 | 350 pp | All Items (Good quality), All Modifications |
+| 15 | 375 pp | All Items (Excellent quality), All Modifications |
+| 16 | 400 pp | All Items (Excellent quality), All Modifications |
+| 17 | 425 pp | All Items (Excellent quality), All Modifications |
+| 18 | 450 pp | All Items (Excellent quality), All Modifications |
+| 19 | 475 pp | All Items (Excellent quality), All Modifications |
+| 20 | 500 pp | All Items (Masterwork quality), All Modifications |
 
 ## Item Types
-### Basic Tools
-- Hammers (Various sizes for different tasks)
-- Chisels (For detailed work and shaping)
-- Tongs (For handling hot metal)
-- Basic Metal Tools (For general metalworking)
-- Files (For finishing and smoothing)
-- Punches (For creating holes and patterns)
-- Drifts (For enlarging holes)
-- Fullers (For creating grooves)
+### Armor
+- **Chainmail Head** (5 PP) - Flexible chain armor for head protection providing 10 armor points
+- **Scale Mail Head** (7 PP) - Overlapping metal scales for head protection providing 15 armor points
+- **Plate Head** (10 PP) - Solid metal plate for head protection providing 20 armor points
+- **Chainmail Arms** (7 PP) - Flexible chain armor for arm protection providing 15 armor points
+- **Scale Mail Arms** (9 PP) - Overlapping metal scales for arm protection providing 20 armor points
+- **Plate Arms** (12 PP) - Solid metal plate for arm protection providing 25 armor points
+- **Chainmail Legs** (7 PP) - Flexible chain armor for leg protection providing 15 armor points
+- **Scale Mail Legs** (9 PP) - Overlapping metal scales for leg protection providing 20 armor points
+- **Plate Legs** (12 PP) - Solid metal plate for leg protection providing 25 armor points
+- **Chainmail Chest** (9 PP) - Flexible chain armor for torso protection providing 20 armor points
+- **Scale Mail Chest** (11 PP) - Overlapping metal scales for torso protection providing 25 armor points
+- **Plate Chest** (14 PP) - Solid metal plate for torso protection providing 30 armor points
+- **Shield** (6 PP) - Basic defensive item that can be modified with various enhancements
 
-### Simple Weapons
-- Daggers (Light, quick weapons)
-- Short Swords (Balanced for speed and power)
-- Basic Axes (For utility and combat)
-- Simple Spears (For thrusting attacks)
-- Basic Maces (For blunt force)
-- Simple Blades (For general use)
-- Basic Throwing Weapons (For ranged attacks)
-- Simple Polearms (For reach advantage)
+### Weapons
+- **Dagger** (2 PP) - A small, lightweight weapon ideal for quick strikes
+- **Short Sword** (4 PP) - A versatile one-handed weapon balanced for speed and power
+- **Long Sword** (6 PP) - A classic two-handed weapon offering reach and power
+- **Warhammer** (7 PP) - A heavy weapon designed for crushing blows
+- **Axe** (5 PP) - A balanced weapon with good cutting power
+- **Battle Axe** (8 PP) - A powerful two-handed weapon with devastating cutting force
+- **Warscythe** (7 PP) - A long-reaching weapon with sweeping attacks
+- **Spear** (5 PP) - A versatile weapon offering excellent reach
+- **Halberd** (8 PP) - A polearm combining axe and spear capabilities
+- **Mace** (6 PP) - A heavy weapon designed to crush armor
+- **Flail** (7 PP) - A flexible weapon that can strike around defenses
+- **Rapier** (5 PP) - A precise weapon focused on speed and accuracy
+- **Lay** (6 PP) - A curved blade weapon designed for slashing attacks
+- **Basic Tools** - Essential blacksmithing tools for metalworking
 
-### Light Armor
-- Chain Mail (Flexible protection)
-- Light Plate (Basic body protection)
-- Metal Bracers (Arm protection)
-- Basic Helmets (Head protection)
-- Light Gauntlets (Hand protection)
-- Basic Greaves (Leg protection)
-- Light Pauldrons (Shoulder protection)
-- Basic Cuirass (Torso protection)
+### Modifications
+- **Gilded** (5 PP) - increases item value by base cost in copper
+- **Lightweight** (20 PP per level) - grants Finesse Calls (1/2/3 per day)
+- **Master Crafter** (30 PP per level) - increases damage by 1/2/3
+- **Plating** (10 PP per level) - adds +5/+10/+15 armor points (doubled for Heavy Armor)
+- **Extra Enchantments** (15 PP per level) - adds additional enchantment slots
+- **Change Damage Type** (50 PP) - changes weapon damage type (Aether, Lightning, Ice, Fire, Acid, Stone, Sonic, Silver, Celestial, Abyssal)
+- **Impenetrable** (50 PP) - reduces non-magical damage by 2 per piece
+- **Magic Barrier** (30 PP) - allows one Shield Magic call per day
+- **Trample** (100 PP per level) - allows Trample damage calls (5/10/15 times per day)
+- **Reinforce** (175 PP) - makes item Indestructible
+- **Personalized** (30 PP) - grants "No effect" against 5 Fumble/Disarm effects per day
+- **Magical Insulation** (300 PP) - prevents magical effects from transferring to wielder
 
-### Medium Weapons
-- Long Swords (Versatile combat weapons)
-- Battle Axes (Powerful cutting weapons)
-- War Hammers (Heavy impact weapons)
-- Spears (Reach and thrusting weapons)
-- Maces (Armor-piercing weapons)
-- Flails (Flexible striking weapons)
-- Halberds (Versatile polearms)
-- Battle Staffs (Balanced combat weapons)
-
-### Medium Armor
-- Scale Mail (Overlapping protection)
-- Medium Plate (Balanced protection)
-- Reinforced Chain (Enhanced flexibility)
-- Full Helmets (Complete head protection)
-- Medium Gauntlets (Enhanced hand protection)
-- Reinforced Greaves (Leg protection)
-- Medium Pauldrons (Shoulder protection)
-- Medium Cuirass (Torso protection)
-
-### Heavy Armor
-- Full Plate (Complete body protection)
-- Heavy Cuirass (Enhanced torso protection)
-- Heavy Gauntlets (Maximum hand protection)
-- Heavy Greaves (Maximum leg protection)
-- Heavy Pauldrons (Maximum shoulder protection)
-- Great Helm (Maximum head protection)
-- Heavy Bracers (Maximum arm protection)
-- Full Chain (Maximum flexible protection)
-
-## Requirements
-### Basic Requirements
-- Forge Equipment
-  - Basic Forge
-    - Heat source
-    - Bellows
-    - Fire pot
-    - Ash dump
-  - Anvil
-    - Hardened surface
-    - Horn
-    - Pritchel hole
-    - Hardy hole
-  - Basic Tools
-    - Hammers (various sizes)
-    - Tongs (different types)
-    - Chisels
-    - Files
-  - Safety Equipment
-    - Heat-resistant gloves
-    - Apron
-    - Eye protection
-    - Ear protection
-
-- Work Space
-  - Well-ventilated area
-  - Proper lighting
-  - Storage for tools
-  - Work surface
-  - Safety equipment
-  - Basic containment
-  - Waste disposal
-  - Emergency supplies
-
-- Materials
-  - Basic metals
-    - Iron (Common, basic material)
-    - Steel (Standard, versatile material)
-    - Bronze (Durable, corrosion-resistant)
-    - Brass (Decorative, malleable)
-  - Common alloys
-    - Carbon steel (Basic weapon material)
-    - Spring steel (Flexible components)
-    - Tool steel (Durable tools)
-    - Cast iron (Heavy components)
-  - Standard materials
-    - Leather (Grips and padding)
-    - Wood (Handles and shafts)
-    - Cloth (Padding and wraps)
-    - Rope (Binding and handles)
-  - Basic components
-    - Nails and rivets
-    - Hinges and latches
-    - Rings and chains
-    - Bolts and screws
-  - Common fasteners
-    - Basic rivets
-    - Standard bolts
-    - Common nails
-    - Basic screws
-  - Standard finishes
-    - Basic polish
-    - Simple etchings
-    - Common patterns
-    - Basic engravings
-  - Basic coatings
-    - Simple oil
-    - Basic wax
-    - Common paint
-    - Basic varnish
-  - Common supplies
-    - Basic flux
-    - Common solder
-    - Standard fuel
-    - Basic lubricants
-
-### Advanced Requirements
-- Masterwork Equipment
-  - Advanced Forge
-    - Temperature control
-    - Multiple heat zones
-    - Advanced bellows
-    - Specialized tools
-  - Masterwork Anvil
-    - Specialized surface
-    - Multiple work areas
-    - Custom features
-    - Enhanced durability
-  - Advanced Tools
-    - Specialized hammers
-    - Custom tongs
-    - Precision tools
-    - Advanced equipment
-  - Enhanced Safety Equipment
-    - Advanced protection
-    - Specialized gear
-    - Custom equipment
-    - Advanced systems
-
-- Advanced Work Space
-  - Climate control
-  - Secure storage
-  - Specialized areas
-  - Advanced safety
-  - Custom ventilation
-  - Specialized lighting
-  - Emergency systems
-  - Advanced containment
-
-- Specialized Materials
-  - Rare metals
-    - Mithril (Light, strong, magical)
-    - Adamantine (Extremely hard, durable)
-    - Orichalcum (Magical conductivity)
-    - Darksteel (Shadow-imbued)
-  - Exotic alloys
-    - Damascus steel (Pattern-welded)
-    - Starmetal (Celestial properties)
-    - Froststeel (Ice-imbued)
-    - Sunsteel (Light-imbued)
-  - Specialized materials
-    - Dragon scales (Magical protection)
-    - Phoenix feathers (Fire resistance)
-    - Unicorn horn (Purification)
-    - Basilisk hide (Petrification resistance)
-  - Advanced components
-    - Magical rivets
-    - Enchanted hinges
-    - Power conduits
-    - Energy cores
-  - Custom fasteners
-    - Magical rivets
-    - Enchanted bolts
-    - Power nails
-    - Energy screws
-  - Specialized finishes
-    - Magical polish
-    - Power etchings
-    - Energy patterns
-    - Force engravings
-  - Advanced coatings
-    - Magical oil
-    - Power wax
-    - Energy paint
-    - Force varnish
-  - Rare supplies
-    - Magical flux
-    - Power solder
-    - Energy fuel
-    - Force lubricants
-
-## Blacksmithing Process
+## Forging Process
 1. **Preparation**
-   - Plan item type and purpose
-   - Select appropriate materials
-   - Prepare workspace
-   - Review techniques
-   - Plan forging steps
-   - Consider safety measures
-   - Check material compatibility
-   - Document process
-   - Set up containment
-   - Prepare emergency measures
+   - Calculate base cost and modifications
+   - Determine total PP cost
+   - Plan forging time (1 minute per PP)
+   - Set duration (months equal to PP spent)
+   - Prepare materials and workspace
+   - Review safety procedures
    - Check tool condition
    - Verify material quality
-   - Plan timing sequence
-   - Review safety procedures
-   - Prepare documentation
+   - Plan modification sequence
+   - Document process
 
 2. **Forging**
    - Heat metal to proper temperature
    - Shape with precise hammering
+   - Apply modifications in sequence
    - Monitor temperature
-   - Adjust as needed
    - Check for proper shaping
    - Verify dimensions
    - Ensure proper timing
    - Test initial results
-   - Monitor heat levels
-   - Check for defects
-   - Adjust thickness
-   - Verify shape
    - Monitor quality
-   - Check for stress
    - Document changes
 
 3. **Refinement**
-   - Adjust shape as needed
-   - Fine-tune details
-   - Test durability
-   - Make necessary improvements
-   - Check for balance
-   - Verify strength
-   - Test under conditions
+   - Apply final modifications
+   - Test all properties
+   - Verify durability
+   - Check balance
+   - Test effectiveness
    - Optimize results
-   - Balance weight
-   - Strengthen weak points
    - Enhance features
    - Reduce stress points
    - Improve finish
-   - Maximize durability
    - Perfect form
 
 4. **Finalization**

@@ -23,9 +23,6 @@ The skill of creating leather goods, armor, and other items from animal hides an
 #### [Tailoring](crafting-skills/tailoring.md)
 The craft of creating clothing, cloth armor, and various fabric-based items. Tailors work with various fabrics and materials to create both practical and decorative items, from simple clothing to magical robes.
 
-#### [Trap Making](crafting-skills/trap-making.md)
-The craft of designing and constructing traps and defensive mechanisms. Trap makers can create everything from simple snares to complex magical traps that protect areas or capture intruders.
-
 #### [Woodworking](crafting-skills/woodworking.md)
 The skill of crafting wooden items, weapons, and furniture. Woodworkers can create everything from simple tools to complex furniture pieces, using various types of wood and techniques.
 

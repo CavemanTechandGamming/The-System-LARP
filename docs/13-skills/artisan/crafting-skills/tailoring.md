@@ -62,7 +62,7 @@ Tailoring is the art of working with various fabrics and materials to create clo
 - **Level 10: Journeyman Tailor** - Growing expertise in tailoring and ability to create more complex items. Journeyman Tailors are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Tailor** - Exceptional skill in tailoring and ability to create advanced items. Master Tailors are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Tailor** - Legendary skill in tailoring and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of tailoring. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Tailor** - Creation of legendary works and ability to influence the future of tailoring. Legendary Artisan Tailors can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of tailoring itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
@@ -89,65 +89,65 @@ Tailoring is the art of working with various fabrics and materials to create clo
 | 20 | 500 pp | Basic Clothing (Masterwork quality), Simple Items (Excellent quality), Light Armor (Excellent quality), Moderate Armor (Excellent quality), Enchanted Clothing (Excellent quality), Advanced Armor (Excellent quality) |
 
 ## Item Types
-### Basic Clothing
-- Shirts (For basic protection)
-- Pants (For leg coverage)
-- Basic Robes (For simple attire)
-- Simple Cloaks (For basic coverage)
-- Basic Tunics (For simple wear)
-- Simple Dresses (For basic attire)
-- Basic Undergarments (For comfort)
-- Simple Accessories (For basic decoration)
+### Basic Items
+- **Shirts** (3 PP) - Basic clothing made from simple fabric with basic stitching
+- **Pants** (4 PP) - Leg wear crafted from simple fabric with basic seams
+- **Basic Robes** (5 PP) - Simple attire made from basic fabric with simple patterns, provides 3 armor points
+- **Simple Cloaks** (4 PP) - Basic coverage crafted from simple fabric with basic fasteners
+- **Basic Tunics** (3 PP) - Simple wear made from basic fabric with basic stitching
+- **Simple Dresses** (5 PP) - Basic attire crafted from simple fabric with basic patterns
+- **Basic Undergarments** (3 PP) - Comfort items made from basic fabric with simple stitching
+- **Simple Accessories** (4 PP) - Basic decoration crafted from simple fabric with basic details
 
 ### Simple Items
-- Bags (For carrying items)
-- Pouches (For small storage)
-- Belts (For securing items)
-- Basic Hats (For head protection)
-- Simple Gloves (For hand protection)
-- Basic Scarves (For neck protection)
-- Simple Sashes (For waist decoration)
-- Basic Wraps (For covering items)
+- **Bags** (6 PP) - Carrying items made from quality fabric with reinforced seams
+- **Pouches** (5 PP) - Small storage crafted from quality fabric with basic closures
+- **Belts** (4 PP) - Securing items made from quality fabric with basic buckles
+- **Basic Hats** (7 PP) - Head wear crafted from quality fabric with basic lining
+- **Simple Gloves** (6 PP) - Hand protection made from quality fabric with basic reinforcement, provides 3 armor points
+- **Basic Scarves** (5 PP) - Neck wear crafted from quality fabric with basic edging
+- **Simple Sashes** (4 PP) - Waist decoration made from quality fabric with basic ties
+- **Basic Wraps** (6 PP) - Covering items crafted from quality fabric with basic fasteners
 
-### Light Armor
-- Padded Armor (For basic protection)
-- Light Robes (For magical defense)
-- Light Cloaks (For stealth)
-- Basic Hoods (For head protection)
-- Light Gloves (For hand protection)
-- Light Boots (For foot protection)
-- Light Bracers (For arm protection)
-- Light Greaves (For leg protection)
+### Light Items
+- **Padded Armor** (12 PP) - Basic protection made from reinforced fabric with padding, provides 8 armor points
+- **Light Robes** (13 PP) - Magical defense crafted from enchanted fabric with basic patterns, provides 10 armor points
+- **Light Cloaks** (11 PP) - Stealth items made from special fabric with basic enchantments, provides 6 armor points
+- **Basic Hoods** (10 PP) - Head protection crafted from reinforced fabric with basic lining, provides 5 armor points
+- **Light Gloves** (12 PP) - Hand protection made from reinforced fabric with basic padding, provides 5 armor points
+- **Light Boots** (13 PP) - Foot protection crafted from reinforced fabric with basic soles, provides 5 armor points
+- **Light Bracers** (11 PP) - Arm protection made from reinforced fabric with basic padding, provides 5 armor points
+- **Light Greaves** (12 PP) - Leg protection crafted from reinforced fabric with basic reinforcement, provides 5 armor points
 
-### Moderate Armor
-- Reinforced Clothing (For better protection)
-- Medium Robes (For enhanced defense)
-- Medium Cloaks (For improved stealth)
-- Reinforced Hoods (For better protection)
-- Medium Gloves (For enhanced protection)
-- Medium Boots (For better defense)
-- Medium Bracers (For improved protection)
-- Medium Greaves (For enhanced defense)
+### Moderate Items
+- **Reinforced Clothing** (18 PP) - Better protection made from treated fabric with metal reinforcements, provides 12 armor points
+- **Medium Robes** (19 PP) - Enhanced defense crafted from enchanted fabric with reinforced patterns, provides 15 armor points
+- **Medium Cloaks** (17 PP) - Improved stealth made from special fabric with enhanced enchantments, provides 8 armor points
+- **Reinforced Hoods** (18 PP) - Better protection crafted from treated fabric with metal reinforcements, provides 8 armor points
+- **Medium Gloves** (16 PP) - Enhanced protection made from treated fabric with metal plates, provides 8 armor points
+- **Medium Boots** (19 PP) - Better defense crafted from treated fabric with metal reinforcements, provides 8 armor points
+- **Medium Bracers** (17 PP) - Improved protection made from treated fabric with metal plates, provides 8 armor points
+- **Medium Greaves** (18 PP) - Enhanced defense crafted from treated fabric with metal reinforcements, provides 8 armor points
 
-### Enchanted Clothing
-- Protection Robes (For magical defense)
-- Stealth Cloaks (For improved hiding)
-- Elemental Resistance Clothing (For environmental protection)
-- Magical Hats (For enhanced abilities)
-- Protection Gloves (For magical defense)
-- Stealth Boots (For silent movement)
-- Elemental Bracers (For resistance)
-- Magical Greaves (For enhanced protection)
+### Complex Items
+- **Protection Robes** (25 PP) - Magical defense made from enchanted fabric with protective patterns, provides 20 armor points
+- **Stealth Cloaks** (24 PP) - Improved hiding crafted from special fabric with stealth enchantments, provides 10 armor points
+- **Elemental Resistance Clothing** (26 PP) - Environmental protection made from treated fabric with elemental wards, provides 18 armor points
+- **Magical Hats** (23 PP) - Enhanced abilities crafted from enchanted fabric with magical patterns, provides 12 armor points
+- **Protection Gloves** (25 PP) - Magical defense made from enchanted fabric with protective reinforcement, provides 12 armor points
+- **Stealth Boots** (24 PP) - Silent movement crafted from special fabric with stealth enchantments, provides 12 armor points
+- **Elemental Bracers** (23 PP) - Resistance items made from treated fabric with elemental wards, provides 12 armor points
+- **Magical Greaves** (25 PP) - Enhanced protection crafted from enchanted fabric with magical reinforcement, provides 12 armor points
 
-### Advanced Armor
-- Masterwork Robes (For ultimate defense)
-- Legendary Cloaks (For supreme stealth)
-- Ultimate Protection Clothing (For maximum defense)
-- Magical Masterwork Items (For ultimate power)
-- Masterwork Gloves (For supreme protection)
-- Legendary Boots (For ultimate movement)
-- Ultimate Bracers (For maximum defense)
-- Magical Masterwork Greaves (For supreme protection)
+### Advanced Items
+- **Masterwork Robes** (45 PP) - Ultimate defense made from masterwork fabric with supreme enchantments, provides 30 armor points
+- **Legendary Cloaks** (44 PP) - Supreme stealth crafted from legendary fabric with ultimate enchantments, provides 15 armor points
+- **Ultimate Protection Clothing** (46 PP) - Maximum defense made from masterwork fabric with ultimate wards, provides 35 armor points
+- **Magical Masterwork Items** (43 PP) - Ultimate power crafted from legendary fabric with supreme enchantments, provides 25 armor points
+- **Masterwork Gloves** (45 PP) - Supreme protection made from masterwork fabric with ultimate reinforcement, provides 18 armor points
+- **Legendary Boots** (44 PP) - Ultimate movement crafted from legendary fabric with supreme enchantments, provides 18 armor points
+- **Ultimate Bracers** (43 PP) - Maximum defense made from masterwork fabric with ultimate reinforcement, provides 18 armor points
+- **Magical Masterwork Greaves** (45 PP) - Supreme protection crafted from legendary fabric with ultimate enchantments, provides 18 armor points
 
 ## Requirements
 ### Basic Requirements

@@ -89,65 +89,65 @@ Skinning is the art of carefully removing and preserving valuable materials from
 | 20 | 500 pp | Basic Materials (Masterwork quality), Standard Materials (Excellent quality), Good Materials (Excellent quality), Excellent Materials (Excellent quality), Masterwork Materials (Excellent quality), Legendary Materials (Excellent quality) |
 
 ## Item Types
-### Basic Materials
-- Common Hides (For basic leather)
-- Basic Furs (For simple items)
-- Simple Scales (For basic armor)
-- Basic Pelts (For simple clothing)
-- Common Feathers (For basic items)
-- Simple Skins (For basic uses)
-- Basic Elements (For simple crafting)
-- Common Materials (For basic work)
+### Basic Items
+- **Common Hides** (2 PP) - Basic leather materials for simple crafting, harvested from common creatures
+- **Basic Furs** (2 PP) - Simple fur materials for basic items, harvested from common animals
+- **Simple Scales** (2 PP) - Basic scale materials for simple armor, harvested from common creatures
+- **Basic Pelts** (2 PP) - Common pelt materials for simple clothing, harvested from common animals
+- **Common Feathers** (2 PP) - Basic feather materials for simple items, harvested from common birds
+- **Simple Skins** (2 PP) - Basic skin materials for simple uses, harvested from common creatures
+- **Basic Elements** (2 PP) - Simple elemental materials for basic crafting, harvested from common sources
+- **Common Materials** (2 PP) - Basic materials for simple work, harvested from common creatures
 
-### Standard Materials
-- Standard Hides (For quality leather)
-- Standard Furs (For fine items)
-- Standard Scales (For quality armor)
-- Standard Pelts (For quality clothing)
-- Standard Feathers (For quality items)
-- Standard Skins (For quality uses)
-- Standard Elements (For quality crafting)
-- Standard Materials (For quality work)
+### Simple Items
+- **Standard Hides** (3 PP) - Quality leather materials for better crafting, harvested from quality creatures
+- **Standard Furs** (3 PP) - Fine fur materials for better items, harvested from quality animals
+- **Standard Scales** (3 PP) - Quality scale materials for better armor, harvested from quality creatures
+- **Standard Pelts** (3 PP) - Quality pelt materials for better clothing, harvested from quality animals
+- **Standard Feathers** (4 PP) - Quality feather materials for better items, harvested from quality birds
+- **Standard Skins** (4 PP) - Quality skin materials for better uses, harvested from quality creatures
+- **Standard Elements** (4 PP) - Quality elemental materials for better crafting, harvested from quality sources
+- **Standard Materials** (5 PP) - Quality materials for better work, harvested from quality creatures
 
-### Good Materials
-- Quality Hides (For fine leather)
-- Quality Furs (For precious items)
-- Quality Scales (For fine armor)
-- Quality Pelts (For fine clothing)
-- Quality Feathers (For fine items)
-- Quality Skins (For fine uses)
-- Quality Elements (For fine crafting)
-- Quality Materials (For fine work)
+### Light Items
+- **Quality Hides** (6 PP) - Fine leather materials for advanced crafting, harvested from fine creatures
+- **Quality Furs** (6 PP) - Precious fur materials for fine items, harvested from fine animals
+- **Quality Scales** (7 PP) - Fine scale materials for advanced armor, harvested from fine creatures
+- **Quality Pelts** (7 PP) - Fine pelt materials for advanced clothing, harvested from fine animals
+- **Quality Feathers** (8 PP) - Fine feather materials for advanced items, harvested from fine birds
+- **Quality Skins** (8 PP) - Fine skin materials for advanced uses, harvested from fine creatures
+- **Quality Elements** (9 PP) - Fine elemental materials for advanced crafting, harvested from fine sources
+- **Quality Materials** (9 PP) - Fine materials for advanced work, harvested from fine creatures
 
-### Excellent Materials
-- Fine Hides (For masterwork leather)
-- Fine Furs (For masterwork items)
-- Fine Scales (For masterwork armor)
-- Fine Pelts (For masterwork clothing)
-- Fine Feathers (For masterwork items)
-- Fine Skins (For masterwork uses)
-- Fine Elements (For masterwork crafting)
-- Fine Materials (For masterwork work)
+### Moderate Items
+- **Fine Hides** (10 PP) - Masterwork leather materials for complex crafting, harvested from masterwork creatures
+- **Fine Furs** (10 PP) - Masterwork fur materials for complex items, harvested from masterwork animals
+- **Fine Scales** (12 PP) - Masterwork scale materials for complex armor, harvested from masterwork creatures
+- **Fine Pelts** (12 PP) - Masterwork pelt materials for complex clothing, harvested from masterwork animals
+- **Fine Feathers** (15 PP) - Masterwork feather materials for complex items, harvested from masterwork birds
+- **Fine Skins** (15 PP) - Masterwork skin materials for complex uses, harvested from masterwork creatures
+- **Fine Elements** (18 PP) - Masterwork elemental materials for complex crafting, harvested from masterwork sources
+- **Fine Materials** (18 PP) - Masterwork materials for complex work, harvested from masterwork creatures
 
-### Complex Materials
-- Masterwork Hides (For legendary leather)
-- Masterwork Furs (For legendary items)
-- Masterwork Scales (For legendary armor)
-- Masterwork Pelts (For legendary clothing)
-- Masterwork Feathers (For legendary items)
-- Masterwork Skins (For legendary uses)
-- Masterwork Elements (For legendary crafting)
-- Masterwork Materials (For legendary work)
+### Complex Items
+- **Masterwork Hides** (20 PP) - Legendary leather materials for advanced crafting, harvested from legendary creatures
+- **Masterwork Furs** (20 PP) - Legendary fur materials for advanced items, harvested from legendary animals
+- **Masterwork Scales** (20 PP) - Legendary scale materials for advanced armor, harvested from legendary creatures
+- **Masterwork Pelts** (20 PP) - Legendary pelt materials for advanced clothing, harvested from legendary animals
+- **Masterwork Feathers** (20 PP) - Legendary feather materials for advanced items, harvested from legendary birds
+- **Masterwork Skins** (20 PP) - Legendary skin materials for advanced uses, harvested from legendary creatures
+- **Masterwork Elements** (20 PP) - Legendary elemental materials for advanced crafting, harvested from legendary sources
+- **Masterwork Materials** (20 PP) - Legendary materials for advanced work, harvested from legendary creatures
 
-### Advanced Materials
-- Legendary Hides (For mythic leather)
-- Legendary Furs (For mythic items)
-- Legendary Scales (For mythic armor)
-- Legendary Pelts (For mythic clothing)
-- Legendary Feathers (For mythic items)
-- Legendary Skins (For mythic uses)
-- Legendary Elements (For mythic crafting)
-- Legendary Materials (For mythic work)
+### Advanced Items
+- **Legendary Hides** (25 PP) - Mythic leather materials for divine crafting, harvested from mythic creatures
+- **Legendary Furs** (20 PP) - Mythic fur materials for divine items, harvested from mythic animals
+- **Legendary Scales** (20 PP) - Mythic scale materials for divine armor, harvested from mythic creatures
+- **Legendary Pelts** (20 PP) - Mythic pelt materials for divine clothing, harvested from mythic animals
+- **Legendary Feathers** (20 PP) - Mythic feather materials for divine items, harvested from mythic birds
+- **Legendary Skins** (20 PP) - Mythic skin materials for divine uses, harvested from mythic creatures
+- **Legendary Elements** (20 PP) - Mythic elemental materials for divine crafting, harvested from mythic sources
+- **Legendary Materials** (20 PP) - Mythic materials for divine work, harvested from mythic creatures
 
 ## Requirements
 ### Basic Requirements

@@ -67,87 +67,86 @@ Forestry is the art of managing, harvesting, and cultivating wood resources whil
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | Basic Wood (Basic quality) |
-| 2 | 50 pp | Basic Wood (Basic quality), Standard Wood (Basic quality) |
-| 3 | 75 pp | Basic Wood (Standard quality), Standard Wood (Basic quality) |
-| 4 | 100 pp | Basic Wood (Standard quality), Standard Wood (Standard quality) |
-| 5 | 125 pp | Basic Wood (Good quality), Standard Wood (Standard quality), Good Wood (Basic quality) |
-| 6 | 150 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Basic quality) |
-| 7 | 175 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Standard quality) |
-| 8 | 200 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Standard quality), Excellent Wood (Basic quality) |
-| 9 | 225 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Basic quality) |
-| 10 | 250 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Standard quality), Masterwork Wood (Basic quality) |
-| 11 | 275 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Standard quality), Masterwork Wood (Basic quality) |
-| 12 | 300 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Standard quality) |
-| 13 | 325 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Standard quality) |
-| 14 | 350 pp | Basic Wood (Good quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Good quality) |
-| 15 | 375 pp | Basic Wood (Excellent quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Good quality), Legendary Wood (Basic quality) |
-| 16 | 400 pp | Basic Wood (Excellent quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Good quality), Legendary Wood (Standard quality) |
-| 17 | 425 pp | Basic Wood (Excellent quality), Standard Wood (Good quality), Good Wood (Good quality), Excellent Wood (Good quality), Masterwork Wood (Good quality), Legendary Wood (Standard quality) |
-| 18 | 450 pp | Basic Wood (Excellent quality), Standard Wood (Excellent quality), Good Wood (Excellent quality), Excellent Wood (Excellent quality), Masterwork Wood (Excellent quality), Legendary Wood (Good quality) |
-| 19 | 475 pp | Basic Wood (Excellent quality), Standard Wood (Excellent quality), Good Wood (Excellent quality), Excellent Wood (Excellent quality), Masterwork Wood (Excellent quality), Legendary Wood (Good quality) |
-| 20 | 500 pp | Basic Wood (Masterwork quality), Standard Wood (Excellent quality), Good Wood (Excellent quality), Excellent Wood (Excellent quality), Masterwork Wood (Excellent quality), Legendary Wood (Excellent quality) |
+| 1 | 25 pp | Basic Items (Basic quality) |
+| 2 | 50 pp | Basic Items (Basic quality), Simple Items (Basic quality) |
+| 3 | 75 pp | Basic Items (Standard quality), Simple Items (Basic quality) |
+| 4 | 100 pp | Basic Items (Standard quality), Simple Items (Standard quality) |
+| 5 | 125 pp | Basic Items (Good quality), Simple Items (Standard quality), Light Items (Basic quality) |
+| 6 | 150 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Basic quality) |
+| 7 | 175 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Standard quality) |
+| 8 | 200 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Standard quality), Moderate Items (Basic quality) |
+| 9 | 225 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Basic quality) |
+| 10 | 250 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
+| 11 | 275 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
+| 12 | 300 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
+| 13 | 325 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
+| 14 | 350 pp | Basic Items (Good quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Good quality) |
+| 15 | 375 pp | Basic Items (Excellent quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Basic quality) |
+| 16 | 400 pp | Basic Items (Excellent quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
+| 17 | 425 pp | Basic Items (Excellent quality), Simple Items (Good quality), Light Items (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
+| 18 | 450 pp | Basic Items (Excellent quality), Simple Items (Excellent quality), Light Items (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
+| 19 | 475 pp | Basic Items (Excellent quality), Simple Items (Excellent quality), Light Items (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
+| 20 | 500 pp | Basic Items (Masterwork quality), Simple Items (Excellent quality), Light Items (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Excellent quality) |
 
 ## Item Types
-### Basic Wood
-- Pine (For basic construction)
-- Oak (For sturdy items)
-- Maple (For fine work)
-- Cedar (For outdoor use)
-- Birch (For light items)
-- Ash (For flexible items)
-- Elm (For durable items)
-- Poplar (For decorative items)
+### Basic Items
+- **Pine Wood** (2 PP) - Common, workable wood for basic construction, harvested from pine trees
+- **Oak Wood** (2 PP) - Strong, durable wood for sturdy items, harvested from oak trees
+- **Maple Wood** (2 PP) - Hard, smooth wood for fine work, harvested from maple trees
+- **Cedar Wood** (2 PP) - Aromatic, resistant wood for outdoor use, harvested from cedar trees
+- **Birch Wood** (2 PP) - Light, flexible wood for light items, harvested from birch trees
+- **Ash Wood** (2 PP) - Flexible, strong wood for flexible items, harvested from ash trees
+- **Elm Wood** (2 PP) - Durable, tough wood for durable items, harvested from elm trees
+- **Poplar Wood** (2 PP) - Light, workable wood for decorative items, harvested from poplar trees
 
-### Standard Wood
-- Walnut (For fine furniture)
-- Cherry (For decorative items)
-- Mahogany (For luxury items)
-- Teak (For outdoor furniture)
-- Rosewood (For musical instruments)
-- Ebony (For fine details)
-- Yew (For archery items)
-- Ironwood (For heavy items)
+### Simple Items
+- **Walnut Wood** (3 PP) - Fine, dark wood for furniture, harvested from walnut trees
+- **Cherry Wood** (3 PP) - Rich, reddish wood for decorative items, harvested from cherry trees
+- **Mahogany Wood** (4 PP) - Dense, reddish-brown wood for luxury items, harvested from mahogany trees
+- **Teak Wood** (4 PP) - Durable, water-resistant wood for outdoor furniture, harvested from teak trees
+- **Rosewood** (4 PP) - Fine, aromatic wood for musical instruments, harvested from rosewood trees
+- **Ebony Wood** (4 PP) - Dense, black wood for fine details, harvested from ebony trees
+- **Yew Wood** (4 PP) - Flexible, strong wood for archery items, harvested from yew trees
+- **Ironwood** (5 PP) - Extremely dense, heavy wood for heavy items, harvested from ironwood trees
 
-### Good Wood
-- Dragon Oak (For magical items)
-- Phoenix Pine (For fire resistance)
-- Unicorn Maple (For purification)
-- Basilisk Cedar (For protection)
-- Frostwood (For cold resistance)
-- Stormwood (For electrical items)
-- Moonwood (For night vision)
-- Sunwood (For light items)
+### Light Items
+- **Dragon Oak** (6 PP) - Magically enhanced oak with increased strength, harvested from dragon oak trees
+- **Phoenix Pine** (6 PP) - Fire-resistant pine with magical properties, harvested from phoenix pine trees
+- **Unicorn Maple** (7 PP) - Purifying maple with magical properties, harvested from unicorn maple trees
+- **Basilisk Cedar** (7 PP) - Petrification-resistant cedar with magical properties, harvested from basilisk cedar trees
+- **Frostwood** (8 PP) - Cold-resistant wood with magical properties, harvested from frostwood trees
+- **Stormwood** (8 PP) - Electrically charged wood with magical properties, harvested from stormwood trees
+- **Moonwood** (9 PP) - Night-vision enhancing wood with magical properties, harvested from moonwood trees
+- **Sunwood** (9 PP) - Light-imbued wood with magical properties, harvested from sunwood trees
 
-### Excellent Wood
-- Ancient Oak (For powerful items)
-- Eternal Pine (For longevity)
-- Celestial Maple (For divine items)
-- Shadow Cedar (For stealth items)
-- Crystal Wood (For magical focus)
-- Starwood (For cosmic items)
-- Dreamwood (For mental items)
-- Spirit Wood (For ethereal items)
+### Moderate Items
+- **Ancient Oak** (10 PP) - Powerful, ancient wood with enhanced magical properties, harvested from ancient oak trees
+- **Eternal Pine** (10 PP) - Long-lasting pine with magical properties, harvested from eternal pine trees
+- **Celestial Maple** (12 PP) - Divine wood with celestial properties, harvested from celestial maple trees
+- **Shadow Cedar** (12 PP) - Stealth-enhancing wood with magical properties, harvested from shadow cedar trees
+- **Starwood** (15 PP) - Cosmic wood with stellar properties, harvested from starwood trees
+- **Dreamwood** (18 PP) - Mental enhancement wood with magical properties, harvested from dreamwood trees
+- **Spirit Wood** (18 PP) - Ethereal wood with spiritual properties, harvested from spirit wood trees
 
-### Complex Wood
-- World Tree Wood (For creation items)
-- Time Wood (For temporal items)
-- Space Wood (For dimensional items)
-- Life Wood (For healing items)
-- Death Wood (For necromantic items)
-- Chaos Wood (For random effects)
-- Order Wood (For stability items)
-- Balance Wood (For harmony items)
+### Complex Items
+- **Time Wood** (20 PP) - Temporal wood with time-manipulation properties, harvested from time wood trees
+- **Space Wood** (20 PP) - Dimensional wood with space-bending properties, harvested from space wood trees
+- **Life Wood** (20 PP) - Healing wood with life-enhancing properties, harvested from life wood trees
+- **Death Wood** (20 PP) - Necromantic wood with death-related properties, harvested from death wood trees
+- **Chaos Wood** (20 PP) - Random effect wood with chaotic properties, harvested from chaos wood trees
+- **Order Wood** (20 PP) - Stability-enhancing wood with ordering properties, harvested from order wood trees
+- **Balance Wood** (20 PP) - Harmony wood with balancing properties, harvested from balance wood trees
+- **Crystal Wood** (20 PP) - Magical focus wood with enhanced properties, harvested from crystal wood trees
 
-### Advanced Wood
-- Legendary Oak (For mythic items)
-- Immortal Pine (For eternal items)
-- Divine Maple (For godly items)
-- Cosmic Cedar (For universal items)
-- Creation Wood (For world items)
-- Destruction Wood (For ending items)
-- Unity Wood (For binding items)
-- Infinity Wood (For endless items)
+### Advanced Items
+- **World Tree Wood** (25 PP) - Creation-enhancing wood with powerful properties, harvested from world tree saplings
+- **Legendary Oak** (20 PP) - Mythic wood with legendary properties, harvested from legendary oak trees
+- **Immortal Pine** (20 PP) - Eternal wood with immortality properties, harvested from immortal pine trees
+- **Divine Maple** (20 PP) - Godly wood with divine properties, harvested from divine maple trees
+- **Cosmic Cedar** (20 PP) - Universal wood with cosmic properties, harvested from cosmic cedar trees
+- **Creation Wood** (20 PP) - World-creating wood with powerful properties, harvested from creation wood trees
+- **Destruction Wood** (20 PP) - World-ending wood with powerful properties, harvested from destruction wood trees
+- **Unity Wood** (20 PP) - Binding wood with powerful properties, harvested from unity wood trees
 
 ## Requirements
 ### Basic Requirements

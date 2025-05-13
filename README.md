@@ -22,10 +22,12 @@ Welcome to the official The System LARP rulebook repository! This repository con
 
 ### Skills and Abilities
 13. [Skills](docs/13-skills.md)
+    - [Armor Skills](docs/13-skills/armor-skills/README.md)
+    - [Artisan Skills](docs/13-skills/artisan/README.md)
     - [Fighter Skills](docs/13-skills/fighter-skills/README.md)
     - [Scholar Skills](docs/13-skills/scholar-skills/README.md)
-    - [Artisan Skills](docs/13-skills/artisan/README.md)
     - [Thief Skills](docs/13-skills/thief-skills/README.md)
+    - [Weapon Skills](docs/13-skills/weapon-skills/README.md)
 14. [Production System](docs/14-production-system.md)
 15. [Transforms](docs/15-transforms.md)
 

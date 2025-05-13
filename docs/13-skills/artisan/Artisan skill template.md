@@ -55,7 +55,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **Level 10: Journeyman [Skill Practitioner]** - [Description of journeyman level abilities]. Journeyman [Skill Practitioners] are recognized for their growing expertise and may begin taking on apprentices. They can create more complex items and have a deeper understanding of [skill-specific knowledge].
 - **Level 15: Master [Skill Practitioner]** - [Description of master level abilities]. Master [Skill Practitioners] are highly respected in their field, capable of creating exceptional items and teaching advanced techniques. They may establish their own workshops and take on multiple apprentices.
 - **Level 18: Grand Master [Skill Practitioner]** - [Description of grand master level abilities]. Grand Masters are legendary figures in the [skill] community, capable of creating items of great power and significance. They may develop new techniques and teach advanced methods to other masters.
-- **Level 20: Artisan Legend** - [Description of legendary level abilities]. Artisan Legends are living legends whose work transcends the ordinary. They can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of [skill] itself.
+- **Level 20: Legendary Artisan [Skill Practitioner]** - [Description of legendary level abilities]. Artisan Legends are living legends whose work transcends the ordinary. They can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of [skill] itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
@@ -83,64 +83,64 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 
 ## Item Types
 ### Basic Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ### Simple Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ### Light Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ### Moderate Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ### Complex Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ### Advanced Items
-- [Item 1] (For [purpose])
-- [Item 2] (For [purpose])
-- [Item 3] (For [purpose])
-- [Item 4] (For [purpose])
-- [Item 5] (For [purpose])
-- [Item 6] (For [purpose])
-- [Item 7] (For [purpose])
-- [Item 8] (For [purpose])
+- **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 4]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 5]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 6]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
+- **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
 ## Requirements
 ### Basic Requirements

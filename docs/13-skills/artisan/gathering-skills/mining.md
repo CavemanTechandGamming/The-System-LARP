@@ -89,65 +89,65 @@ Mining is the art of locating, extracting, and processing valuable metals and ge
 | 20 | 500 pp | Basic Minerals (Masterwork quality), Standard Minerals (Excellent quality), Good Minerals (Excellent quality), Excellent Minerals (Excellent quality), Masterwork Minerals (Excellent quality), Legendary Minerals (Excellent quality) |
 
 ## Item Types
-### Basic Minerals
-- Common Ores (For basic metals)
-- Basic Gems (For simple jewelry)
-- Simple Crystals (For basic crafting)
-- Basic Stones (For simple construction)
-- Common Metals (For basic items)
-- Simple Minerals (For basic uses)
-- Basic Elements (For simple crafting)
-- Common Materials (For basic work)
+### Basic Items
+- **Common Ores** (2 PP) - Basic metal ores for simple crafting, mined from common veins
+- **Basic Gems** (2 PP) - Simple gemstones for basic jewelry, mined from surface deposits
+- **Simple Crystals** (2 PP) - Basic crystals for simple crafting, mined from common formations
+- **Basic Stones** (2 PP) - Common stones for basic construction, mined from surface deposits
+- **Common Metals** (2 PP) - Basic metals for simple items, mined from common veins
+- **Simple Minerals** (2 PP) - Basic minerals for simple uses, mined from common deposits
+- **Basic Elements** (2 PP) - Simple elements for basic crafting, mined from common sources
+- **Common Materials** (2 PP) - Basic materials for simple work, mined from surface deposits
 
-### Standard Minerals
-- Standard Ores (For quality metals)
-- Standard Gems (For fine jewelry)
-- Standard Crystals (For quality crafting)
-- Standard Stones (For quality construction)
-- Standard Metals (For quality items)
-- Standard Minerals (For quality uses)
-- Standard Elements (For quality crafting)
-- Standard Materials (For quality work)
+### Simple Items
+- **Standard Ores** (3 PP) - Quality metal ores for better crafting, mined from quality veins
+- **Standard Gems** (3 PP) - Fine gemstones for better jewelry, mined from quality deposits
+- **Standard Crystals** (3 PP) - Quality crystals for better crafting, mined from quality formations
+- **Standard Stones** (3 PP) - Quality stones for better construction, mined from quality deposits
+- **Standard Metals** (4 PP) - Quality metals for better items, mined from quality veins
+- **Standard Minerals** (4 PP) - Quality minerals for better uses, mined from quality deposits
+- **Standard Elements** (4 PP) - Quality elements for better crafting, mined from quality sources
+- **Standard Materials** (5 PP) - Quality materials for better work, mined from quality deposits
 
-### Good Minerals
-- Quality Ores (For fine metals)
-- Quality Gems (For precious jewelry)
-- Quality Crystals (For fine crafting)
-- Quality Stones (For fine construction)
-- Quality Metals (For fine items)
-- Quality Minerals (For fine uses)
-- Quality Elements (For fine crafting)
-- Quality Materials (For fine work)
+### Light Items
+- **Quality Ores** (6 PP) - Fine metal ores for advanced crafting, mined from fine veins
+- **Quality Gems** (6 PP) - Precious gemstones for fine jewelry, mined from fine deposits
+- **Quality Crystals** (7 PP) - Fine crystals for advanced crafting, mined from fine formations
+- **Quality Stones** (7 PP) - Fine stones for advanced construction, mined from fine deposits
+- **Quality Metals** (8 PP) - Fine metals for advanced items, mined from fine veins
+- **Quality Minerals** (8 PP) - Fine minerals for advanced uses, mined from fine deposits
+- **Quality Elements** (9 PP) - Fine elements for advanced crafting, mined from fine sources
+- **Quality Materials** (9 PP) - Fine materials for advanced work, mined from fine deposits
 
-### Excellent Minerals
-- Fine Ores (For masterwork metals)
-- Fine Gems (For masterwork jewelry)
-- Fine Crystals (For masterwork crafting)
-- Fine Stones (For masterwork construction)
-- Fine Metals (For masterwork items)
-- Fine Minerals (For masterwork uses)
-- Fine Elements (For masterwork crafting)
-- Fine Materials (For masterwork work)
+### Moderate Items
+- **Fine Ores** (10 PP) - Masterwork metal ores for complex crafting, mined from masterwork veins
+- **Fine Gems** (10 PP) - Masterwork gemstones for complex jewelry, mined from masterwork deposits
+- **Fine Crystals** (12 PP) - Masterwork crystals for complex crafting, mined from masterwork formations
+- **Fine Stones** (12 PP) - Masterwork stones for complex construction, mined from masterwork deposits
+- **Fine Metals** (15 PP) - Masterwork metals for complex items, mined from masterwork veins
+- **Fine Minerals** (15 PP) - Masterwork minerals for complex uses, mined from masterwork deposits
+- **Fine Elements** (18 PP) - Masterwork elements for complex crafting, mined from masterwork sources
+- **Fine Materials** (18 PP) - Masterwork materials for complex work, mined from masterwork deposits
 
-### Complex Minerals
-- Masterwork Ores (For legendary metals)
-- Masterwork Gems (For legendary jewelry)
-- Masterwork Crystals (For legendary crafting)
-- Masterwork Stones (For legendary construction)
-- Masterwork Metals (For legendary items)
-- Masterwork Minerals (For legendary uses)
-- Masterwork Elements (For legendary crafting)
-- Masterwork Materials (For legendary work)
+### Complex Items
+- **Masterwork Ores** (20 PP) - Legendary metal ores for advanced crafting, mined from legendary veins
+- **Masterwork Gems** (20 PP) - Legendary gemstones for advanced jewelry, mined from legendary deposits
+- **Masterwork Crystals** (20 PP) - Legendary crystals for advanced crafting, mined from legendary formations
+- **Masterwork Stones** (20 PP) - Legendary stones for advanced construction, mined from legendary deposits
+- **Masterwork Metals** (20 PP) - Legendary metals for advanced items, mined from legendary veins
+- **Masterwork Minerals** (20 PP) - Legendary minerals for advanced uses, mined from legendary deposits
+- **Masterwork Elements** (20 PP) - Legendary elements for advanced crafting, mined from legendary sources
+- **Masterwork Materials** (20 PP) - Legendary materials for advanced work, mined from legendary deposits
 
-### Advanced Minerals
-- Legendary Ores (For mythic metals)
-- Legendary Gems (For mythic jewelry)
-- Legendary Crystals (For mythic crafting)
-- Legendary Stones (For mythic construction)
-- Legendary Metals (For mythic items)
-- Legendary Minerals (For mythic uses)
-- Legendary Elements (For mythic crafting)
-- Legendary Materials (For mythic work)
+### Advanced Items
+- **Legendary Ores** (25 PP) - Mythic metal ores for divine crafting, mined from mythic veins
+- **Legendary Gems** (20 PP) - Mythic gemstones for divine jewelry, mined from mythic deposits
+- **Legendary Crystals** (20 PP) - Mythic crystals for divine crafting, mined from mythic formations
+- **Legendary Stones** (20 PP) - Mythic stones for divine construction, mined from mythic deposits
+- **Legendary Metals** (20 PP) - Mythic metals for divine items, mined from mythic veins
+- **Legendary Minerals** (20 PP) - Mythic minerals for divine uses, mined from mythic deposits
+- **Legendary Elements** (20 PP) - Mythic elements for divine crafting, mined from mythic sources
+- **Legendary Materials** (20 PP) - Mythic materials for divine work, mined from mythic deposits
 
 ## Requirements
 ### Basic Requirements

@@ -1,17 +1,17 @@
 # Woodworking Skill
 
-The Woodworking skill allows characters to create wooden items, weapons, furniture, and other wooden structures. Woodworkers are essential for creating both practical items and decorative pieces. This skill combines artistic vision with technical precision to create items of both beauty and functionality.
+The Woodworking skill allows characters to create wooden weapons, ammunition, and storage items. Woodworkers are essential for crafting both practical items and combat equipment. This skill combines technical precision with practical knowledge to create items of both functionality and durability.
 
 ## Skill Description
-Woodworking is the art of shaping and joining wood to create functional and decorative items. Woodworkers must understand different types of wood, their properties, and various woodworking techniques. This skill requires both artistic talent and technical knowledge to create items that are both beautiful and practical.
+Woodworking is the art of shaping and joining wood to create functional items, particularly weapons and storage containers. Woodworkers must understand different types of wood, their properties, and various woodworking techniques. This skill requires both technical knowledge and practical experience to create items that are both effective and durable.
 
 ## Role-Playing as a Woodworker
 ### Personality Traits
 - Precise and detail-oriented
-- Artistic and creative
+- Practical and efficient
 - Patient and methodical
 - Often perfectionist
-- Usually has a keen eye for design
+- Usually has a keen eye for quality
 - May be somewhat reclusive
 - Usually maintains high standards
 - Often displays great attention to detail
@@ -21,7 +21,7 @@ Woodworking is the art of shaping and joining wood to create functional and deco
 - May be somewhat traditional
 - Usually maintains a systematic approach
 - Often shows respect for materials
-- Usually has a strong sense of aesthetics
+- Usually has a strong sense of craftsmanship
 
 ### Common Behaviors
 - Maintains a well-organized workshop
@@ -62,92 +62,92 @@ Woodworking is the art of shaping and joining wood to create functional and deco
 - **Level 10: Journeyman Woodworker** - Growing expertise in woodworking and ability to create more complex items. Journeyman Woodworkers are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Woodworker** - Exceptional skill in woodworking and ability to create advanced items. Master Woodworkers are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Woodworker** - Legendary skill in woodworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of woodworking. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Woodworker** - Creation of legendary works and ability to influence the future of woodworking. Legendary Artisan Woodworkers can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of woodworking itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
 | 1 | 25 pp | Basic Items (Basic quality) |
-| 2 | 50 pp | Basic Items (Basic quality), Simple Tools (Basic quality) |
-| 3 | 75 pp | Basic Items (Standard quality), Simple Tools (Basic quality) |
-| 4 | 100 pp | Basic Items (Standard quality), Simple Tools (Standard quality) |
-| 5 | 125 pp | Basic Items (Good quality), Simple Tools (Standard quality), Simple Weapons (Basic quality) |
-| 6 | 150 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Basic quality) |
-| 7 | 175 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Standard quality) |
-| 8 | 200 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Standard quality), Moderate Items (Basic quality) |
-| 9 | 225 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Basic quality) |
-| 10 | 250 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
-| 11 | 275 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Standard quality), Complex Items (Basic quality) |
-| 12 | 300 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
-| 13 | 325 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Standard quality) |
-| 14 | 350 pp | Basic Items (Good quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality) |
-| 15 | 375 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Basic quality) |
-| 16 | 400 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
-| 17 | 425 pp | Basic Items (Excellent quality), Simple Tools (Good quality), Simple Weapons (Good quality), Moderate Items (Good quality), Complex Items (Good quality), Advanced Items (Standard quality) |
-| 18 | 450 pp | Basic Items (Excellent quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
-| 19 | 475 pp | Basic Items (Excellent quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Good quality) |
-| 20 | 500 pp | Basic Items (Masterwork quality), Simple Tools (Excellent quality), Simple Weapons (Excellent quality), Moderate Items (Excellent quality), Complex Items (Excellent quality), Advanced Items (Excellent quality) |
+| 2 | 50 pp | Basic Items (Basic quality), Simple Weapons (Basic quality) |
+| 3 | 75 pp | Basic Items (Standard quality), Simple Weapons (Basic quality) |
+| 4 | 100 pp | Basic Items (Standard quality), Simple Weapons (Standard quality) |
+| 5 | 125 pp | Basic Items (Good quality), Simple Weapons (Standard quality), Light Weapons (Basic quality) |
+| 6 | 150 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Basic quality) |
+| 7 | 175 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Standard quality) |
+| 8 | 200 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Standard quality), Moderate Weapons (Basic quality) |
+| 9 | 225 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Basic quality) |
+| 10 | 250 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Standard quality), Complex Weapons (Basic quality) |
+| 11 | 275 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Standard quality), Complex Weapons (Basic quality) |
+| 12 | 300 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Standard quality) |
+| 13 | 325 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Standard quality) |
+| 14 | 350 pp | Basic Items (Good quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Good quality) |
+| 15 | 375 pp | Basic Items (Excellent quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Good quality), Advanced Weapons (Basic quality) |
+| 16 | 400 pp | Basic Items (Excellent quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Good quality), Advanced Weapons (Standard quality) |
+| 17 | 425 pp | Basic Items (Excellent quality), Simple Weapons (Good quality), Light Weapons (Good quality), Moderate Weapons (Good quality), Complex Weapons (Good quality), Advanced Weapons (Standard quality) |
+| 18 | 450 pp | Basic Items (Excellent quality), Simple Weapons (Excellent quality), Light Weapons (Excellent quality), Moderate Weapons (Excellent quality), Complex Weapons (Excellent quality), Advanced Weapons (Good quality) |
+| 19 | 475 pp | Basic Items (Excellent quality), Simple Weapons (Excellent quality), Light Weapons (Excellent quality), Moderate Weapons (Excellent quality), Complex Weapons (Excellent quality), Advanced Weapons (Good quality) |
+| 20 | 500 pp | Basic Items (Masterwork quality), Simple Weapons (Excellent quality), Light Weapons (Excellent quality), Moderate Weapons (Excellent quality), Complex Weapons (Excellent quality), Advanced Weapons (Excellent quality) |
 
 ## Item Types
 ### Basic Items
-- Simple Furniture (For basic use)
-- Basic Tools (For simple tasks)
-- Wooden Containers (For storage)
-- Simple Structures (For basic shelter)
-- Basic Frames (For support)
-- Simple Decorations (For aesthetics)
-- Basic Handles (For tools)
-- Simple Supports (For stability)
-
-### Simple Tools
-- Wooden Handles (For tool attachment)
-- Basic Implements (For simple tasks)
-- Simple Frames (For structure)
-- Basic Supports (For stability)
-- Simple Levers (For mechanical advantage)
-- Basic Pulleys (For lifting)
-- Simple Wedges (For splitting)
-- Basic Mallets (For striking)
+- **Wooden Club** (3 PP) - Basic wooden club for striking, deals 2 damage
+- **Wooden Staff** (4 PP) - Simple wooden staff for combat, deals 3 damage
+- **Wooden Arrows** (2 PP) - Simple wooden arrows for bows, deals 1 damage
+- **Wooden Bolts** (2 PP) - Basic wooden bolts for crossbows, deals 1 damage
+- **Storage Chest** (5 PP) - Basic wooden chest for storing items, made from common woods like pine or oak
+- **Wooden Box** (3 PP) - Small wooden box for storing small items, crafted from common woods
+- **Wooden Barrel** (6 PP) - Basic wooden barrel for storing liquids, made from common woods
+- **Wooden Crate** (4 PP) - Simple wooden crate for storing goods, crafted from common woods
 
 ### Simple Weapons
-- Wooden Staves (For basic combat)
-- Basic Bows (For ranged combat)
-- Simple Spears (For thrusting)
-- Wooden Clubs (For striking)
-- Basic Arrows (For ammunition)
-- Simple Shields (For defense)
-- Wooden Daggers (For close combat)
-- Basic Crossbows (For ranged combat)
+- **Wooden Spear** (7 PP) - Basic wooden spear for thrusting, deals 3 damage
+- **Wooden Dagger** (6 PP) - Simple wooden dagger for close combat, deals 2 damage
+- **Wooden Shield** (8 PP) - Basic wooden shield for defense, provides 5 armor points
+- **Short Bow** (10 PP) - Basic wooden bow for ranged combat, deals 4 damage
+- **Light Crossbow** (12 PP) - Basic wooden crossbow for ranged combat, deals 6 damage
+- **Wooden Arrow Box** (4 PP) - Simple wooden box for storing arrows, made from common woods
+- **Wooden Ammunition Box** (5 PP) - Basic wooden box for storing arrows and bolts, made from common woods
+- **Wooden Bucket** (3 PP) - Basic wooden bucket for carrying items, made from common woods
 
-### Moderate Items
-- Complex Furniture (For advanced use)
-- Advanced Tools (For complex tasks)
-- Wooden Mechanisms (For automation)
-- Moderate Structures (For shelter)
-- Complex Frames (For support)
-- Advanced Decorations (For aesthetics)
-- Complex Handles (For tools)
-- Advanced Supports (For stability)
+### Light Weapons
+- **Wooden Mace** (10 PP) - Quality wooden mace for striking, deals 3 damage
+- **Wooden Spear** (11 PP) - Enhanced wooden spear for thrusting, deals 4 damage
+- **Wooden Shield** (13 PP) - Quality wooden shield for defense, provides 8 armor points
+- **Quality Arrows** (5 PP) - Enhanced wooden arrows for bows, deals 2 damage
+- **Quality Bolts** (5 PP) - Enhanced wooden bolts for crossbows, deals 2 damage
+- **Wooden Basket** (2 PP) - Simple wooden basket for carrying items, crafted from common woods
+- **Wooden Shelf** (4 PP) - Basic wooden shelf for storing items, made from common woods
+- **Wooden Cabinet** (7 PP) - Simple wooden cabinet for storing items, crafted from common woods
 
-### Complex Items
-- Masterwork Furniture (For luxury)
-- Complex Mechanisms (For automation)
-- Advanced Weapons (For combat)
-- Complex Structures (For shelter)
-- Masterwork Frames (For support)
-- Complex Decorations (For aesthetics)
-- Masterwork Handles (For tools)
-- Complex Supports (For stability)
+### Moderate Weapons
+- **Long Bow** (20 PP) - Advanced wooden bow for ranged combat, deals 6 damage
+- **Heavy Crossbow** (25 PP) - Quality wooden crossbow for ranged combat, deals 8 damage
+- **Wooden War Club** (18 PP) - Advanced wooden club for combat, deals 5 damage
+- **Wooden Battle Spear** (22 PP) - Superior wooden spear for combat, deals 5 damage
+- **Wooden Tower Shield** (25 PP) - Advanced wooden shield for defense, provides 12 armor points
+- **Masterwork Arrows** (8 PP) - Superior wooden arrows for bows, deals 3 damage
+- **Masterwork Bolts** (8 PP) - Superior wooden bolts for crossbows, deals 3 damage
+- **Wooden Ammunition Box** (10 PP) - Advanced wooden box for storing ammunition, made from quality woods
+
+### Complex Weapons
+- **Masterwork Bow** (35 PP) - Exceptional wooden bow for ranged combat, deals 8 damage
+- **Masterwork Crossbow** (40 PP) - Advanced wooden crossbow for ranged combat, deals 10 damage
+- **Wooden War Mace** (30 PP) - Masterwork wooden mace for combat, deals 7 damage
+- **Wooden Battle Staff** (32 PP) - Exceptional wooden staff for combat, deals 7 damage
+- **Wooden Great Shield** (38 PP) - Masterwork wooden shield for defense, provides 15 armor points
+- **Legendary Arrows** (12 PP) - Masterwork wooden arrows for bows, deals 4 damage
+- **Legendary Bolts** (12 PP) - Masterwork wooden bolts for crossbows, deals 4 damage
+- **Wooden Arsenal Chest** (20 PP) - Masterwork wooden chest for storing weapons and ammunition, made from masterwork woods
 
 ### Advanced Items
-- Legendary Furniture (For ultimate luxury)
-- Masterwork Weapons (For supreme combat)
-- Complex Mechanisms (For automation)
-- Advanced Structures (For shelter)
-- Legendary Frames (For support)
-- Masterwork Decorations (For aesthetics)
-- Legendary Handles (For tools)
-- Advanced Supports (For stability)
+- **Legendary Bow** (50 PP) - Ultimate wooden bow for ranged combat, deals 10 damage
+- **Legendary Crossbow** (55 PP) - Masterwork wooden crossbow for ranged combat, deals 12 damage
+- **Wooden Legendary Club** (45 PP) - Ultimate wooden club for combat, deals 9 damage
+- **Wooden Legendary Spear** (48 PP) - Ultimate wooden spear for combat, deals 9 damage
+- **Wooden Legendary Shield** (52 PP) - Ultimate wooden shield for defense, provides 20 armor points
+- **Mythical Arrows** (15 PP) - Legendary wooden arrows for bows, deals 5 damage
+- **Mythical Bolts** (15 PP) - Legendary wooden bolts for crossbows, deals 5 damage
+- **Wooden Armory** (60 PP) - Ultimate wooden storage system for weapons and ammunition, made from legendary woods
 
 ## Requirements
 ### Basic Requirements

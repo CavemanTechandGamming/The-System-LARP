@@ -62,7 +62,7 @@ Jewelcrafting is the art of working with precious metals and gems to create jewe
 - **Level 10: Journeyman Jeweler** - Growing expertise in gem cutting and metalworking, and ability to create more complex items. Journeyman Jewelers are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Jeweler** - Exceptional skill in jewelcrafting and ability to create advanced magical items. Master Jewelers are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Jeweler** - Legendary skill in jewelcrafting and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of jewelcrafting. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Jeweler** - Creation of legendary works and ability to influence the future of jewelcrafting. Legendary Artisan Jewelers can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of jewelcrafting itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
@@ -90,64 +90,64 @@ Jewelcrafting is the art of working with precious metals and gems to create jewe
 
 ## Item Types
 ### Basic Jewelry
-- Simple Rings (For basic adornment)
-- Basic Necklaces (For simple decoration)
-- Earrings (For personal style)
-- Bracelets (For wrist decoration)
-- Basic Pendants (For simple display)
-- Simple Brooches (For clothing decoration)
-- Basic Chains (For connecting pieces)
-- Simple Clasps (For securing items)
+- **Simple Rings** (3 PP) - Basic adornment items made from common metals, suitable for everyday wear
+- **Basic Necklaces** (7 PP) - Simple decorative pieces using common materials and basic techniques
+- **Earrings** (6 PP) - Personal style items requiring precise metalworking and basic gem setting
+- **Bracelets** (8 PP) - Wrist decorations using basic metalworking and simple gem placement
+- **Basic Pendants** (5 PP) - Simple display items requiring basic metalworking and gem setting
+- **Simple Brooches** (7 PP) - Clothing decorations using basic metalworking and simple gem placement
+- **Basic Chains** (6 PP) - Connecting pieces requiring precise metalworking and basic assembly
+- **Simple Clasps** (8 PP) - Securing items using basic metalworking and simple mechanisms
 
 ### Simple Trinkets
-- Charms (For basic magical effects)
-- Amulets (For simple protection)
-- Basic Pendants (For minor enhancements)
-- Simple Brooches (For basic magical properties)
-- Basic Talismans (For simple blessings)
-- Simple Medallions (For minor effects)
-- Basic Tokens (For simple magic)
-- Simple Relics (For basic powers)
+- **Charms** (12 PP) - Basic magical items with simple enchantments and common materials
+- **Amulets** (15 PP) - Simple protection items using basic materials and minor enchantments
+- **Basic Pendants** (13 PP) - Minor enhancement items requiring basic gem setting and simple enchantments
+- **Simple Brooches** (14 PP) - Basic magical items using common materials and simple enchantments
+- **Basic Talismans** (16 PP) - Simple blessing items requiring basic materials and minor enchantments
+- **Simple Medallions** (15 PP) - Minor effect items using common materials and basic enchantments
+- **Basic Tokens** (13 PP) - Simple magic items requiring basic materials and minor enchantments
+- **Simple Relics** (14 PP) - Basic power items using common materials and simple enchantments
 
 ### Minor Enchanted Items
-- Mana Rings (For basic mana enhancement)
-- Protection Amulets (For minor defense)
-- Luck Charms (For basic fortune)
-- Minor Healing Pendants (For simple recovery)
-- Minor Power Gems (For basic energy)
-- Simple Focus Items (For minor concentration)
-- Basic Enhancement Items (For simple boosts)
-- Minor Blessing Items (For basic protection)
+- **Mana Rings** (18 PP) - Basic mana enhancement items using common gems and simple enchantments
+- **Protection Amulets** (20 PP) - Minor defense items requiring basic materials and simple enchantments
+- **Luck Charms** (17 PP) - Basic fortune items using common materials and minor enchantments
+- **Minor Healing Pendants** (19 PP) - Simple recovery items requiring basic materials and minor enchantments
+- **Minor Power Gems** (21 PP) - Basic energy items using common gems and simple enchantments
+- **Simple Focus Items** (18 PP) - Minor concentration items requiring basic materials and simple enchantments
+- **Basic Enhancement Items** (20 PP) - Simple boost items using common materials and minor enchantments
+- **Minor Blessing Items** (19 PP) - Basic protection items requiring basic materials and simple enchantments
 
 ### Moderate Enchanted Items
-- Enhanced Protection Rings (For improved defense)
-- Spell Focus Amulets (For better casting)
-- Energy Storage Gems (For power retention)
-- Moderate Healing Items (For better recovery)
-- Moderate Power Gems (For enhanced energy)
-- Improved Focus Items (For better concentration)
-- Enhanced Boost Items (For improved effects)
-- Moderate Blessing Items (For better protection)
+- **Enhanced Protection Rings** (22 PP) - Improved defense items using quality materials and moderate enchantments
+- **Spell Focus Amulets** (25 PP) - Better casting items requiring quality materials and moderate enchantments
+- **Energy Storage Gems** (23 PP) - Power retention items using quality gems and moderate enchantments
+- **Moderate Healing Items** (24 PP) - Better recovery items requiring quality materials and moderate enchantments
+- **Moderate Power Gems** (26 PP) - Enhanced energy items using quality gems and moderate enchantments
+- **Improved Focus Items** (22 PP) - Better concentration items requiring quality materials and moderate enchantments
+- **Enhanced Boost Items** (25 PP) - Improved effect items using quality materials and moderate enchantments
+- **Moderate Blessing Items** (23 PP) - Better protection items requiring quality materials and moderate enchantments
 
 ### Major Enchanted Items
-- Powerful Protection Items (For strong defense)
-- Major Spell Focus Items (For powerful casting)
-- Energy Amplification Gems (For great power)
-- Major Healing Items (For strong recovery)
-- Major Power Gems (For significant energy)
-- Powerful Focus Items (For strong concentration)
-- Major Boost Items (For powerful effects)
-- Major Blessing Items (For strong protection)
+- **Powerful Protection Rings** (28 PP) - Strong defense items using rare materials and major enchantments
+- **Major Spell Focus Amulets** (30 PP) - Powerful casting items requiring rare materials and major enchantments
+- **Energy Amplification Gems** (27 PP) - Great power items using rare gems and major enchantments
+- **Major Healing Pendants** (29 PP) - Strong recovery items requiring rare materials and major enchantments
+- **Major Power Gems** (31 PP) - Significant energy items using rare gems and major enchantments
+- **Powerful Focus Rings** (28 PP) - Strong concentration items requiring rare materials and major enchantments
+- **Major Boost Amulets** (30 PP) - Powerful effect items using rare materials and major enchantments
+- **Major Blessing Pendants** (29 PP) - Strong protection items requiring rare materials and major enchantments
 
 ### Advanced Enchanted Items
-- Legendary Protection Items (For ultimate defense)
-- Ultimate Spell Focus Items (For supreme casting)
-- Energy Mastery Gems (For maximum power)
-- Ultimate Healing Items (For complete recovery)
-- Ultimate Power Gems (For maximum energy)
-- Supreme Focus Items (For ultimate concentration)
-- Ultimate Boost Items (For maximum effects)
-- Ultimate Blessing Items (For complete protection)
+- **Legendary Protection Rings** (45 PP) - Ultimate defense items using legendary materials and advanced enchantments
+- **Ultimate Spell Focus Amulets** (150 PP) - Supreme casting items requiring legendary materials and advanced enchantments
+- **Energy Mastery Gems** (47 PP) - Maximum power items using legendary gems and advanced enchantments
+- **Ultimate Healing Pendants** (48 PP) - Complete recovery items requiring legendary materials and advanced enchantments
+- **Ultimate Power Gems** (49 PP) - Maximum energy items using legendary gems and advanced enchantments
+- **Supreme Focus Rings** (46 PP) - Ultimate concentration items requiring legendary materials and advanced enchantments
+- **Ultimate Boost Amulets** (48 PP) - Maximum effect items using legendary materials and advanced enchantments
+- **Ultimate Blessing Pendants** (47 PP) - Complete protection items requiring legendary materials and advanced enchantments
 
 ## Requirements
 ### Basic Requirements

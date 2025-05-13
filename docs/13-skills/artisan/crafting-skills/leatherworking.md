@@ -62,7 +62,7 @@ Leatherworking is the art of processing animal hides into leather and crafting t
 - **Level 10: Journeyman Tanner** - Growing expertise in leatherworking and ability to create more complex items. Journeyman Tanners are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Tanner** - Exceptional skill in leatherworking and ability to create advanced items. Master Tanners are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Tanner** - Legendary skill in leatherworking and ability to create masterwork items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of leatherworking. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Tanner** - Creation of legendary works and ability to influence the future of leatherworking. Legendary Artisan Tanners can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of leatherworking itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
@@ -89,65 +89,65 @@ Leatherworking is the art of processing animal hides into leather and crafting t
 | 20 | 500 pp | Basic Leather Items (Masterwork quality), Simple Armor (Excellent quality), Light Armor (Excellent quality), Medium Armor (Excellent quality), Reinforced Armor (Excellent quality), Heavy Armor (Excellent quality) |
 
 ## Item Types
-### Basic Leather Items
-- Belts (For securing and carrying)
-- Pouches (For storing small items)
-- Basic Bags (For general storage)
-- Simple Straps (For securing items)
-- Basic Sheaths (For weapon storage)
-- Simple Cases (For item protection)
-- Basic Wraps (For covering items)
-- Simple Covers (For item protection)
+### Basic Items
+- **Belts** (3 PP) - For securing and carrying items, made from basic leather with simple buckles
+- **Pouches** (4 PP) - For storing small items, crafted from basic leather with simple closures
+- **Basic Bags** (5 PP) - For general storage, made from basic leather with simple straps
+- **Simple Straps** (3 PP) - For securing items, crafted from basic leather with basic buckles
+- **Basic Sheaths** (4 PP) - For weapon storage, made from basic leather with simple closures
+- **Simple Cases** (5 PP) - For item protection, crafted from basic leather with reinforced edges
+- **Basic Wraps** (3 PP) - For covering items, made from basic leather with simple ties
+- **Simple Covers** (4 PP) - For item protection, crafted from basic leather with basic reinforcement
 
-### Simple Armor
-- Leather Gloves (Basic hand protection)
-- Leather Boots (Basic foot protection)
-- Simple Bracers (Basic arm protection)
-- Basic Helmets (Basic head protection)
-- Simple Greaves (Basic leg protection)
-- Basic Pauldrons (Basic shoulder protection)
-- Simple Cuirass (Basic torso protection)
-- Basic Gauntlets (Basic hand protection)
+### Simple Items
+- **Leather Gloves** (6 PP) - Basic hand protection made from simple leather with basic reinforcement, provides 3 armor points
+- **Leather Boots** (7 PP) - Basic foot protection crafted from simple leather with basic soles, provides 3 armor points
+- **Simple Bracers** (5 PP) - Basic arm protection made from simple leather with basic straps, provides 3 armor points
+- **Basic Helmets** (8 PP) - Basic head protection crafted from simple leather with basic padding, provides 5 armor points
+- **Simple Greaves** (6 PP) - Basic leg protection made from simple leather with basic straps, provides 3 armor points
+- **Basic Pauldrons** (7 PP) - Basic shoulder protection crafted from simple leather with basic reinforcement, provides 3 armor points
+- **Simple Cuirass** (8 PP) - Basic torso protection made from simple leather with basic straps, provides 5 armor points
+- **Basic Gauntlets** (6 PP) - Basic hand protection crafted from simple leather with basic reinforcement, provides 3 armor points
 
-### Light Armor
-- Leather Jerkin (Flexible torso protection)
-- Leather Leggings (Flexible leg protection)
-- Light Gauntlets (Enhanced hand protection)
-- Light Boots (Enhanced foot protection)
-- Light Bracers (Enhanced arm protection)
-- Light Helmets (Enhanced head protection)
-- Light Greaves (Enhanced leg protection)
-- Light Pauldrons (Enhanced shoulder protection)
+### Light Items
+- **Leather Jerkin** (12 PP) - Flexible torso protection made from quality leather with reinforced stitching, provides 8 armor points
+- **Leather Leggings** (11 PP) - Flexible leg protection crafted from quality leather with reinforced seams, provides 8 armor points
+- **Light Gauntlets** (10 PP) - Enhanced hand protection made from quality leather with reinforced knuckles, provides 5 armor points
+- **Light Boots** (12 PP) - Enhanced foot protection crafted from quality leather with reinforced soles, provides 5 armor points
+- **Light Bracers** (10 PP) - Enhanced arm protection made from quality leather with reinforced edges, provides 5 armor points
+- **Light Helmets** (13 PP) - Enhanced head protection crafted from quality leather with reinforced padding, provides 8 armor points
+- **Light Greaves** (11 PP) - Enhanced leg protection made from quality leather with reinforced straps, provides 5 armor points
+- **Light Pauldrons** (12 PP) - Enhanced shoulder protection crafted from quality leather with reinforced plates, provides 5 armor points
 
-### Medium Armor
-- Reinforced Leather (Durable torso protection)
-- Studded Leather (Enhanced flexibility)
-- Medium Gauntlets (Durable hand protection)
-- Medium Boots (Durable foot protection)
-- Medium Bracers (Durable arm protection)
-- Medium Helmets (Durable head protection)
-- Medium Greaves (Durable leg protection)
-- Medium Pauldrons (Durable shoulder protection)
+### Moderate Items
+- **Reinforced Leather** (18 PP) - Durable torso protection made from quality leather with metal reinforcements, provides 12 armor points
+- **Studded Leather** (17 PP) - Enhanced flexibility crafted from quality leather with metal studs, provides 10 armor points
+- **Medium Gauntlets** (16 PP) - Durable hand protection made from quality leather with metal plates, provides 8 armor points
+- **Medium Boots** (18 PP) - Durable foot protection crafted from quality leather with metal reinforcements, provides 8 armor points
+- **Medium Bracers** (16 PP) - Durable arm protection made from quality leather with metal plates, provides 8 armor points
+- **Medium Helmets** (19 PP) - Durable head protection crafted from quality leather with metal reinforcements, provides 12 armor points
+- **Medium Greaves** (17 PP) - Durable leg protection made from quality leather with metal plates, provides 8 armor points
+- **Medium Pauldrons** (18 PP) - Durable shoulder protection crafted from quality leather with metal reinforcements, provides 8 armor points
 
-### Reinforced Armor
-- Hardened Leather (Maximum durability)
-- Reinforced Bracers (Maximum arm protection)
-- Reinforced Greaves (Maximum leg protection)
-- Reinforced Helmets (Maximum head protection)
-- Reinforced Gauntlets (Maximum hand protection)
-- Reinforced Boots (Maximum foot protection)
-- Reinforced Pauldrons (Maximum shoulder protection)
-- Reinforced Cuirass (Maximum torso protection)
+### Complex Items
+- **Hardened Leather** (25 PP) - Maximum durability crafted from treated leather with metal reinforcements, provides 15 armor points
+- **Reinforced Bracers** (24 PP) - Maximum arm protection made from treated leather with metal plates, provides 12 armor points
+- **Reinforced Greaves** (23 PP) - Maximum leg protection crafted from treated leather with metal plates, provides 12 armor points
+- **Reinforced Helmets** (26 PP) - Maximum head protection made from treated leather with metal reinforcements, provides 15 armor points
+- **Reinforced Gauntlets** (24 PP) - Maximum hand protection crafted from treated leather with metal plates, provides 12 armor points
+- **Reinforced Boots** (25 PP) - Maximum foot protection made from treated leather with metal reinforcements, provides 12 armor points
+- **Reinforced Pauldrons** (24 PP) - Maximum shoulder protection crafted from treated leather with metal plates, provides 12 armor points
+- **Reinforced Cuirass** (26 PP) - Maximum torso protection made from treated leather with metal reinforcements, provides 15 armor points
 
-### Heavy Armor
-- Full Leather Suit (Complete body protection)
-- Heavy Gauntlets (Maximum hand protection)
-- Heavy Boots (Maximum foot protection)
-- Full Face Helmets (Maximum head protection)
-- Heavy Bracers (Maximum arm protection)
-- Heavy Greaves (Maximum leg protection)
-- Heavy Pauldrons (Maximum shoulder protection)
-- Heavy Cuirass (Maximum torso protection)
+### Advanced Items
+- **Full Leather Suit** (45 PP) - Complete body protection crafted from masterwork leather with full metal reinforcements, provides 25 armor points
+- **Heavy Gauntlets** (42 PP) - Maximum hand protection made from masterwork leather with full metal plates, provides 18 armor points
+- **Heavy Boots** (44 PP) - Maximum foot protection crafted from masterwork leather with full metal reinforcements, provides 18 armor points
+- **Full Face Helmets** (46 PP) - Maximum head protection made from masterwork leather with full metal reinforcements, provides 20 armor points
+- **Heavy Bracers** (43 PP) - Maximum arm protection crafted from masterwork leather with full metal plates, provides 18 armor points
+- **Heavy Greaves** (42 PP) - Maximum leg protection made from masterwork leather with full metal plates, provides 18 armor points
+- **Heavy Pauldrons** (44 PP) - Maximum shoulder protection crafted from masterwork leather with full metal plates, provides 18 armor points
+- **Heavy Cuirass** (45 PP) - Maximum torso protection made from masterwork leather with full metal reinforcements, provides 20 armor points
 
 ## Requirements
 ### Basic Requirements

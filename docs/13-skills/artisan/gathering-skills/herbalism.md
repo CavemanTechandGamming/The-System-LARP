@@ -89,65 +89,65 @@ Herbalism is the art of recognizing, collecting, preserving, and cultivating pla
 | 20 | 500 pp | Basic Herbs (Masterwork quality), Standard Herbs (Excellent quality), Good Herbs (Excellent quality), Excellent Herbs (Excellent quality), Masterwork Herbs (Excellent quality), Legendary Herbs (Excellent quality) |
 
 ## Item Types
-### Basic Herbs
-- Common Herbs (For basic remedies)
-- Basic Flowers (For simple potions)
-- Simple Roots (For basic tinctures)
-- Basic Leaves (For simple teas)
-- Common Seeds (For basic cultivation)
-- Simple Sprouts (For basic growth)
-- Basic Shoots (For simple propagation)
-- Common Cuttings (For basic planting)
+### Basic Items
+- **Common Herbs** (2 PP) - Basic medicinal herbs for simple remedies, harvested from common plants
+- **Basic Flowers** (2 PP) - Simple decorative flowers for basic potions, harvested from wildflowers
+- **Simple Roots** (2 PP) - Basic medicinal roots for simple tinctures, harvested from common plants
+- **Basic Leaves** (2 PP) - Common leaves for simple teas, harvested from various plants
+- **Common Seeds** (2 PP) - Basic seeds for simple cultivation, collected from common plants
+- **Simple Sprouts** (2 PP) - Basic sprouts for simple growth, harvested from young plants
+- **Basic Shoots** (2 PP) - Simple shoots for basic propagation, harvested from new growth
+- **Common Cuttings** (2 PP) - Basic cuttings for simple planting, collected from common plants
 
-### Standard Herbs
-- Medicinal Herbs (For healing)
-- Culinary Herbs (For cooking)
-- Common Flowers (For decoration)
-- Common Roots (For medicine)
-- Standard Seeds (For cultivation)
-- Moderate Sprouts (For growth)
-- Standard Shoots (For propagation)
-- Common Saplings (For planting)
+### Simple Items
+- **Medicinal Herbs** (3 PP) - Healing herbs for basic remedies, harvested from medicinal plants
+- **Culinary Herbs** (3 PP) - Cooking herbs for food preparation, harvested from culinary plants
+- **Common Flowers** (3 PP) - Decorative flowers for basic potions, harvested from garden plants
+- **Common Roots** (3 PP) - Medicinal roots for basic tinctures, harvested from medicinal plants
+- **Standard Seeds** (4 PP) - Quality seeds for better cultivation, collected from healthy plants
+- **Moderate Sprouts** (4 PP) - Enhanced sprouts for better growth, harvested from healthy plants
+- **Standard Shoots** (4 PP) - Quality shoots for better propagation, harvested from healthy plants
+- **Common Saplings** (5 PP) - Basic saplings for planting, collected from young trees
 
-### Good Herbs
-- Rare Herbs (For special remedies)
-- Moderate Flowers (For complex potions)
-- Moderate Roots (For advanced tinctures)
-- Moderate Leaves (For special teas)
-- Quality Seeds (For advanced cultivation)
-- Good Sprouts (For enhanced growth)
-- Quality Shoots (For improved propagation)
-- Good Saplings (For special planting)
+### Light Items
+- **Rare Herbs** (6 PP) - Uncommon herbs for special remedies, harvested from rare plants
+- **Moderate Flowers** (6 PP) - Enhanced flowers for complex potions, harvested from special plants
+- **Moderate Roots** (7 PP) - Enhanced roots for advanced tinctures, harvested from special plants
+- **Moderate Leaves** (7 PP) - Special leaves for enhanced teas, harvested from rare plants
+- **Quality Seeds** (8 PP) - Superior seeds for advanced cultivation, collected from rare plants
+- **Good Sprouts** (8 PP) - Enhanced sprouts for better growth, harvested from rare plants
+- **Quality Shoots** (9 PP) - Superior shoots for improved propagation, harvested from rare plants
+- **Good Saplings** (9 PP) - Quality saplings for special planting, collected from healthy trees
 
-### Excellent Herbs
-- Magical Herbs (For enchantments)
-- Complex Flowers (For magical potions)
-- Complex Roots (For magical tinctures)
-- Complex Leaves (For magical teas)
-- Superior Seeds (For magical cultivation)
-- Excellent Sprouts (For magical growth)
-- Superior Shoots (For magical propagation)
-- Excellent Saplings (For magical planting)
+### Moderate Items
+- **Magical Herbs** (10 PP) - Enchanted herbs for magical remedies, harvested from magical plants
+- **Complex Flowers** (10 PP) - Magical flowers for enchanted potions, harvested from magical plants
+- **Complex Roots** (12 PP) - Magical roots for enchanted tinctures, harvested from magical plants
+- **Complex Leaves** (12 PP) - Magical leaves for enchanted teas, harvested from magical plants
+- **Superior Seeds** (15 PP) - Magical seeds for enchanted cultivation, collected from magical plants
+- **Excellent Sprouts** (15 PP) - Magical sprouts for enchanted growth, harvested from magical plants
+- **Superior Shoots** (18 PP) - Magical shoots for enchanted propagation, harvested from magical plants
+- **Excellent Saplings** (18 PP) - Magical saplings for enchanted planting, collected from magical trees
 
-### Complex Herbs
-- Legendary Herbs (For powerful effects)
-- Rare Flowers (For legendary potions)
-- Rare Roots (For legendary tinctures)
-- Rare Leaves (For legendary teas)
-- Magical Seeds (For legendary cultivation)
-- Complex Sprouts (For legendary growth)
-- Magical Shoots (For legendary propagation)
-- Complex Saplings (For legendary planting)
+### Complex Items
+- **Legendary Herbs** (20 PP) - Powerful herbs for legendary remedies, harvested from legendary plants
+- **Rare Flowers** (20 PP) - Legendary flowers for powerful potions, harvested from legendary plants
+- **Rare Roots** (20 PP) - Legendary roots for powerful tinctures, harvested from legendary plants
+- **Rare Leaves** (20 PP) - Legendary leaves for powerful teas, harvested from legendary plants
+- **Magical Seeds** (20 PP) - Legendary seeds for powerful cultivation, collected from legendary plants
+- **Complex Sprouts** (20 PP) - Legendary sprouts for powerful growth, harvested from legendary plants
+- **Magical Shoots** (20 PP) - Legendary shoots for powerful propagation, harvested from legendary plants
+- **Complex Saplings** (20 PP) - Legendary saplings for powerful planting, collected from legendary trees
 
-### Advanced Herbs
-- Mythic Herbs (For divine effects)
-- Legendary Flowers (For mythic potions)
-- Legendary Roots (For mythic tinctures)
-- Legendary Leaves (For mythic teas)
-- Legendary Seeds (For mythic cultivation)
-- Advanced Sprouts (For mythic growth)
-- Legendary Shoots (For mythic propagation)
-- Advanced Saplings (For mythic planting)
+### Advanced Items
+- **Mythic Herbs** (25 PP) - Divine herbs for mythic remedies, harvested from mythic plants
+- **Legendary Flowers** (20 PP) - Mythic flowers for divine potions, harvested from mythic plants
+- **Legendary Roots** (20 PP) - Mythic roots for divine tinctures, harvested from mythic plants
+- **Legendary Leaves** (20 PP) - Mythic leaves for divine teas, harvested from mythic plants
+- **Legendary Seeds** (20 PP) - Mythic seeds for divine cultivation, collected from mythic plants
+- **Advanced Sprouts** (20 PP) - Mythic sprouts for divine growth, harvested from mythic plants
+- **Legendary Shoots** (20 PP) - Mythic shoots for divine propagation, harvested from mythic plants
+- **Advanced Saplings** (20 PP) - Mythic saplings for divine planting, collected from mythic trees
 
 ## Requirements
 ### Basic Requirements

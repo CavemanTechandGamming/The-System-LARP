@@ -1,6 +1,6 @@
 # Engineering Skill
 
-The Engineering skill allows characters to design, build, and maintain complex mechanical devices, traps, and machinery. Engineers are valued for their ability to create both practical tools and intricate mechanical wonders. This skill combines theoretical knowledge with practical application to create devices of both utility and wonder.
+The Engineering skill allows characters to design, build, and maintain complex mechanical devices, with a focus on traps and firearms. Engineers are valued for their ability to create both defensive mechanisms and powerful weapons. This skill combines theoretical knowledge with practical application to create devices of both utility and danger.
 
 ## Skill Description
 Engineering is the art of combining mechanical principles, materials, and energy sources to create functional devices and machines. Engineers must understand mechanics, physics, and how different materials interact with each other. This skill requires both theoretical knowledge of mechanical principles and practical experience in applying them.
@@ -62,74 +62,66 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - **Level 10: Journeyman Engineer** - Growing expertise in mechanical systems and ability to create more complex devices. Journeyman Engineers are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Engineer** - Exceptional skill in engineering and ability to create advanced devices. Master Engineers are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Engineer** - Legendary skill in engineering and ability to create masterwork devices. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary works and ability to influence the future of engineering. Artisan Legends can create masterpieces that combine multiple disciplines.
+- **Level 20: Legendary Artisan Engineer** - Creation of legendary works and ability to influence the future of engineering. Legendary Artisan Engineers can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of engineering itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | Basic Devices (Basic quality) |
-| 2 | 50 pp | Basic Devices (Basic quality), Simple Mechanisms (Basic quality) |
-| 3 | 75 pp | Basic Devices (Standard quality), Simple Mechanisms (Basic quality) |
-| 4 | 100 pp | Basic Devices (Standard quality), Simple Mechanisms (Standard quality) |
-| 5 | 125 pp | Basic Devices (Good quality), Simple Mechanisms (Standard quality), Basic Traps (Basic quality) |
-| 6 | 150 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Basic quality) |
-| 7 | 175 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Standard quality) |
-| 8 | 200 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Standard quality), Moderate Devices (Basic quality) |
-| 9 | 225 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Basic quality) |
-| 10 | 250 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Standard quality), Complex Devices (Basic quality) |
-| 11 | 275 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Standard quality), Complex Devices (Basic quality) |
-| 12 | 300 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Standard quality) |
-| 13 | 325 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Standard quality) |
-| 14 | 350 pp | Basic Devices (Good quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality) |
-| 15 | 375 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Basic quality) |
-| 16 | 400 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Standard quality) |
-| 17 | 425 pp | Basic Devices (Excellent quality), Simple Mechanisms (Good quality), Basic Traps (Good quality), Moderate Devices (Good quality), Complex Devices (Good quality), Advanced Devices (Standard quality) |
-| 18 | 450 pp | Basic Devices (Excellent quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Good quality) |
-| 19 | 475 pp | Basic Devices (Excellent quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Good quality) |
-| 20 | 500 pp | Basic Devices (Masterwork quality), Simple Mechanisms (Excellent quality), Basic Traps (Excellent quality), Moderate Devices (Excellent quality), Complex Devices (Excellent quality), Advanced Devices (Excellent quality) |
+| 1 | 25 pp | All Items (Basic quality) |
+| 2 | 50 pp | All Items (Standard quality) |
+| 3 | 75 pp | All Items (Good quality) |
+| 4 | 100 pp | All Items (Good quality) |
+| 5 | 125 pp | All Items (Good quality), All Modifications |
+| 6 | 150 pp | All Items (Good quality), All Modifications |
+| 7 | 175 pp | All Items (Good quality), All Modifications |
+| 8 | 200 pp | All Items (Good quality), All Modifications |
+| 9 | 225 pp | All Items (Good quality), All Modifications |
+| 10 | 250 pp | All Items (Good quality), All Modifications |
+| 11 | 275 pp | All Items (Good quality), All Modifications |
+| 12 | 300 pp | All Items (Good quality), All Modifications |
+| 13 | 325 pp | All Items (Good quality), All Modifications |
+| 14 | 350 pp | All Items (Good quality), All Modifications |
+| 15 | 375 pp | All Items (Excellent quality), All Modifications |
+| 16 | 400 pp | All Items (Excellent quality), All Modifications |
+| 17 | 425 pp | All Items (Excellent quality), All Modifications |
+| 18 | 450 pp | All Items (Excellent quality), All Modifications |
+| 19 | 475 pp | All Items (Excellent quality), All Modifications |
+| 20 | 500 pp | All Items (Masterwork quality), All Modifications |
 
-## Device Types
-### Basic Devices
-- Simple Locks (Basic security mechanisms)
-- Basic Pulleys (Simple lifting systems)
-- Simple Levers (Basic force multipliers)
-- Basic Springs (Simple energy storage)
-- Basic Hand Cannons (Simple single-shot firearms)
+## Item Types
+### Firearms
+- **Pistol** (5 PP) - A single-handed firearm with moderate range and damage
+- **Rifle** (7 PP) - A long-range firearm with high accuracy and damage
+- **Shotgun** (6 PP) - A close-range firearm with wide spread damage
+- **Revolver** (8 PP) - A repeating pistol with multiple chambers
+- **Repeating Rifle** (10 PP) - A rifle with multiple shots before reloading
+- **Hand Cannon** (6 PP) - A powerful but slow-firing pistol
+- **Blunderbuss** (7 PP) - A short-range firearm with wide spread
+- **Basic Tools** - Essential engineering tools for maintenance
 
-### Simple Mechanisms
-- Door Locks (Standard security systems)
-- Window Latches (Basic securing devices)
-- Simple Traps (Basic triggering mechanisms)
-- Basic Clockwork (Simple timing devices)
-- Basic Pistols (Simple repeating firearms)
+### Traps
+- **Pressure Plate** (3 PP) - A weight-based trigger that activates when stepped on
+- **Trip Wire** (2 PP) - A motion-based trigger that activates when disturbed
+- **Spring Trap** (4 PP) - A mechanical trap that releases stored energy
+- **Pit Trap** (5 PP) - A concealed hole with sharpened stakes
+- **Net Trap** (4 PP) - A falling net designed to entangle targets
+- **Arrow Trap** (6 PP) - A mechanical device that fires projectiles
+- **Gas Trap** (7 PP) - A device that releases harmful substances
+- **Explosive Trap** (8 PP) - A trap that detonates when triggered
 
-### Basic Traps
-- Pressure Plates (Weight-based triggers)
-- Trip Wires (Motion-based triggers)
-- Simple Snares (Basic capture devices)
-- Basic Alarms (Simple alert systems)
-- Basic Gun Traps (Simple triggered firearms)
-
-### Moderate Devices
-- Complex Locks (Advanced security systems)
-- Advanced Pulleys (Complex lifting mechanisms)
-- Mechanical Lifts (Powered elevation systems)
-- Clockwork Devices (Precision timing mechanisms)
-- Rifles (Advanced single-shot firearms)
-
-### Complex Devices
-- Automated Doors (Self-operating entrances)
-- Complex Traps (Advanced triggering systems)
-- Mechanical Defenses (Automated protection)
-- Advanced Clockwork (Precision mechanical systems)
-- Repeating Rifles (Advanced multi-shot firearms)
-
-### Advanced Devices
-- Automated Systems (Self-operating mechanisms)
-- Complex Machinery (Advanced mechanical systems)
-- Mechanical Guardians (Automated protectors)
-- Masterwork Devices (Ultimate mechanical creations)
-- Masterwork Firearms (Ultimate precision firearms)
+### Modifications
+- **Reinforced** (10 PP) - increases trap durability
+- **Concealed** (15 PP) - makes trap harder to detect
+- **Delayed** (20 PP) - adds a delay before trap triggers
+- **Multiple Triggers** (25 PP) - allows trap to trigger multiple times
+- **Extended Range** (30 PP) - increases firearm range
+- **Improved Accuracy** (35 PP) - increases firearm accuracy
+- **Rapid Fire** (40 PP) - allows faster firing rate
+- **Enhanced Damage** (45 PP) - increases damage output
+- **Silenced** (50 PP) - reduces noise from firearms
+- **Automatic** (100 PP) - allows continuous fire
+- **Explosive Rounds** (75 PP) - adds explosive damage to ammunition
+- **Poison Coated** (60 PP) - adds poison damage to ammunition
 
 ## Requirements
 ### Basic Requirements
@@ -271,21 +263,6 @@ Engineering is the art of combining mechanical principles, materials, and energy
 - Proper storage prevents damage
 - Some combinations may be dangerous
 - Understanding of mechanics is essential
-- Heat treatment affects metal properties
-- Different metals require specific techniques
-- Material composition affects durability
-- Alloy combinations can create unique properties
-- Metal grain structure affects strength
-- Quenching methods affect hardness
-- Annealing processes affect flexibility
-- Metal purity affects workability
-- Forging techniques affect structural integrity
-- Metal thickness affects weight and protection
-- Metal density affects durability
-- Metal conductivity affects electrical properties
-- Metal reactivity affects chemical treatments
-- Metal expansion affects fit and function
-- Metal contraction affects final dimensions
 
 ### Role-Playing Considerations
 - Each engineer may have their own style
