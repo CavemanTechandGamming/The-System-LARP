@@ -51,11 +51,11 @@ Alchemy is the art of combining magical and mundane ingredients to create potion
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 5: Apprentice Alchemist** - Apprentice Alchemists have mastered the basics of potion creation and can create simple potions reliably. They understand fundamental alchemical principles and can work independently on basic projects.
-- **Level 10: Journeyman Alchemist** - Journeyman Alchemists are recognized for their growing expertise and may begin taking on apprentices. They can create more complex potions and have a deeper understanding of magical interactions.
-- **Level 15: Master Alchemist** - Master Alchemists are highly respected in their field, capable of creating exceptional potions and teaching advanced techniques. They may establish their own laboratories and take on multiple apprentices.
-- **Level 18: Grand Master Alchemist** - Grand Master Alchemists are legendary figures in the alchemical community, capable of creating potions of great power and significance. They may develop new types of potions and teach advanced methods to other masters.
-- **Level 20: Artisan Legend** - Artisan Legends are living legends whose work transcends the ordinary. They can create masterpieces that combine multiple disciplines and may develop entirely new approaches to alchemy. Their influence shapes the future of alchemy itself.
+- **Level 5: Apprentice Alchemist** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Alchemists can create simple potions reliably and work independently on basic projects.
+- **Level 10: Journeyman Alchemist** - Growing expertise in alchemy and ability to create more complex potions. Journeyman Alchemists are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Alchemist** - Exceptional skill in alchemy and ability to create advanced potions. Master Alchemists are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Alchemist** - Legendary skill in alchemy and ability to create masterwork potions. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Legendary Artisan Alchemist** - Creation of legendary works and ability to influence the future of alchemy. Legendary Artisan Alchemists can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of alchemy itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |

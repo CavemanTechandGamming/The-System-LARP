@@ -62,7 +62,7 @@ Herbalism is the art of recognizing, collecting, preserving, and cultivating pla
 - **Level 10: Journeyman Herbalist** - Growing expertise in herbalism and ability to identify more complex plant types. Journeyman Herbalists are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Herbalist** - Exceptional skill in herbalism and ability to identify rare plant types. Master Herbalists are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Herbalist** - Legendary skill in herbalism and ability to identify legendary plant types. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary herb supplies and ability to influence the future of herbalism. Artisan Legends can identify and cultivate plant types that combine multiple properties.
+- **Level 20: Legendary Artisan Herbalist** - Creation of legendary herb supplies and ability to influence the future of herbalism. Legendary Artisan Herbalists can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of herbalism itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |

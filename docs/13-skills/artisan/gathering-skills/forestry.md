@@ -62,7 +62,7 @@ Forestry is the art of managing, harvesting, and cultivating wood resources whil
 - **Level 10: Journeyman Forester** - Growing expertise in forestry and ability to identify more complex wood types. Journeyman Foresters are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Forester** - Exceptional skill in forestry and ability to identify rare wood types. Master Foresters are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Forester** - Legendary skill in forestry and ability to identify legendary wood types. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary wood supplies and ability to influence the future of forestry. Artisan Legends can identify and harvest wood types that combine multiple properties.
+- **Level 20: Legendary Artisan Forester** - Creation of legendary wood supplies and ability to influence the future of forestry. Legendary Artisan Foresters can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of forestry itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |

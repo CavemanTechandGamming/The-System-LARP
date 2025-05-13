@@ -60,29 +60,29 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 ## Level Bonuses
 | Level | Production Points | Abilities |
 |-------|------------------|-----------|
-| 1 | 25 pp | [Basic Item Type] (Basic quality) |
-| 2 | 50 pp | [Basic Item Type] (Basic quality), [Simple Item Type] (Basic quality) |
-| 3 | 75 pp | [Basic Item Type] (Standard quality), [Simple Item Type] (Basic quality) |
-| 4 | 100 pp | [Basic Item Type] (Standard quality), [Simple Item Type] (Standard quality) |
-| 5 | 125 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Standard quality), [Light Item Type] (Basic quality) |
-| 6 | 150 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Basic quality) |
-| 7 | 175 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Standard quality) |
-| 8 | 200 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Standard quality), [Moderate Item Type] (Basic quality) |
-| 9 | 225 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Basic quality) |
-| 10 | 250 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Standard quality), [Complex Item Type] (Basic quality) |
-| 11 | 275 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Standard quality), [Complex Item Type] (Basic quality) |
-| 12 | 300 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Standard quality) |
-| 13 | 325 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Standard quality) |
-| 14 | 350 pp | [Basic Item Type] (Good quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Good quality) |
-| 15 | 375 pp | [Basic Item Type] (Excellent quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Good quality), [Advanced Item Type] (Basic quality) |
-| 16 | 400 pp | [Basic Item Type] (Excellent quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Good quality), [Advanced Item Type] (Standard quality) |
-| 17 | 425 pp | [Basic Item Type] (Excellent quality), [Simple Item Type] (Good quality), [Light Item Type] (Good quality), [Moderate Item Type] (Good quality), [Complex Item Type] (Good quality), [Advanced Item Type] (Standard quality) |
-| 18 | 450 pp | [Basic Item Type] (Excellent quality), [Simple Item Type] (Excellent quality), [Light Item Type] (Excellent quality), [Moderate Item Type] (Excellent quality), [Complex Item Type] (Excellent quality), [Advanced Item Type] (Good quality) |
-| 19 | 475 pp | [Basic Item Type] (Excellent quality), [Simple Item Type] (Excellent quality), [Light Item Type] (Excellent quality), [Moderate Item Type] (Excellent quality), [Complex Item Type] (Excellent quality), [Advanced Item Type] (Good quality) |
-| 20 | 500 pp | [Basic Item Type] (Masterwork quality), [Simple Item Type] (Excellent quality), [Light Item Type] (Excellent quality), [Moderate Item Type] (Excellent quality), [Complex Item Type] (Excellent quality), [Advanced Item Type] (Excellent quality) |
+| 1 | 25 pp | Common Item (Basic quality) |
+| 2 | 50 pp | Common Item (Basic quality), Uncommon Item (Basic quality) |
+| 3 | 75 pp | Common Item (Standard quality), Uncommon Item (Basic quality) |
+| 4 | 100 pp | Common Item (Standard quality), Uncommon Item (Standard quality) |
+| 5 | 125 pp | Common Item (Good quality), Uncommon Item (Standard quality), Rare Item (Basic quality) |
+| 6 | 150 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Basic quality) |
+| 7 | 175 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Standard quality) |
+| 8 | 200 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Standard quality), Epic Item (Basic quality) |
+| 9 | 225 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Basic quality) |
+| 10 | 250 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Standard quality), Mythic Item (Basic quality) |
+| 11 | 275 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Standard quality), Mythic Item (Basic quality) |
+| 12 | 300 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Standard quality) |
+| 13 | 325 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Standard quality) |
+| 14 | 350 pp | Common Item (Good quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality) |
+| 15 | 375 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Basic quality) |
+| 16 | 400 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Standard quality) |
+| 17 | 425 pp | Common Item (Excellent quality), Uncommon Item (Good quality), Rare Item (Good quality), Epic Item (Good quality), Mythic Item (Good quality), Legendary Item (Standard quality) |
+| 18 | 450 pp | Common Item (Excellent quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Good quality) |
+| 19 | 475 pp | Common Item (Excellent quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Good quality) |
+| 20 | 500 pp | Common Item (Masterwork quality), Uncommon Item (Excellent quality), Rare Item (Excellent quality), Epic Item (Excellent quality), Mythic Item (Excellent quality), Legendary Item (Excellent quality) |
 
 ## Item Types
-### Basic Items
+### Common Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
@@ -92,7 +92,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
-### Simple Items
+### Uncommon Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
@@ -102,7 +102,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
-### Light Items
+### Rare Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
@@ -112,7 +112,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
-### Moderate Items
+### Epic Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
@@ -122,7 +122,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
-### Complex Items
+### Mythic Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
@@ -132,7 +132,7 @@ The [Skill Name] skill allows characters to [basic description of what the skill
 - **[Item 7]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 8]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 
-### Advanced Items
+### Legendary Items
 - **[Item 1]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 2]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]
 - **[Item 3]** (X PP) - [Description of effect/purpose. For armor: include armor points. For weapons: include damage dealt. For magical items: include duration and specific effects. For physical items: include material, durability, and basic properties]

@@ -51,11 +51,11 @@ Artifice is the art of creating magical focuses, wands, and magical constructs. 
 - Might maintain a reputation for quality
 
 ## Prestiges
-- **Level 5: Apprentice Artificer** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Artificers can create simple magical focuses and basic wands reliably.
-- **Level 10: Journeyman Artificer** - Growing expertise in artifice and ability to create more complex magical items. Journeyman Artificers are recognized for their skill and may begin taking on apprentices.
-- **Level 15: Master Artificer** - Exceptional skill in artifice and ability to create powerful magical items. Master Artificers are highly respected and can teach advanced techniques.
-- **Level 18: Grand Master Artificer** - Legendary skill in artifice and ability to create legendary magical items. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary magical items and ability to influence the future of artifice. Artisan Legends can create items that combine multiple magical properties.
+- **Level 5: Apprentice Artificer** - Mastery of basic techniques and understanding of fundamental principles. Apprentice Artificers can identify common materials reliably and work independently on basic magical items.
+- **Level 10: Journeyman Artificer** - Growing expertise in artifice and ability to identify more complex material types. Journeyman Artificers are recognized for their skill and may begin taking on apprentices.
+- **Level 15: Master Artificer** - Exceptional skill in artifice and ability to identify rare material types. Master Artificers are highly respected and can teach advanced techniques.
+- **Level 18: Grand Master Artificer** - Legendary skill in artifice and ability to identify legendary material types. Grand Masters can develop new techniques and teach advanced methods.
+- **Level 20: Legendary Artisan Artificer** - Creation of legendary magical items and ability to influence the future of artifice. Legendary Artisan Artificers can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of artifice itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |

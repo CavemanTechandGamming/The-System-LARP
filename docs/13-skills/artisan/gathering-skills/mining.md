@@ -62,7 +62,7 @@ Mining is the art of locating, extracting, and processing valuable metals and ge
 - **Level 10: Journeyman Miner** - Growing expertise in mining and ability to identify more complex mineral types. Journeyman Miners are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Miner** - Exceptional skill in mining and ability to identify rare mineral types. Master Miners are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Miner** - Legendary skill in mining and ability to identify legendary mineral types. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary mineral supplies and ability to influence the future of mining. Artisan Legends can identify and extract mineral types that combine multiple properties.
+- **Level 20: Legendary Artisan Miner** - Creation of legendary mineral supplies and ability to influence the future of mining. Legendary Artisan Miners can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of mining itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |

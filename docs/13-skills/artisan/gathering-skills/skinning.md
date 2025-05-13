@@ -62,7 +62,7 @@ Skinning is the art of carefully removing and preserving valuable materials from
 - **Level 10: Journeyman Skinner** - Growing expertise in skinning and ability to identify more complex material types. Journeyman Skinners are recognized for their skill and may begin taking on apprentices.
 - **Level 15: Master Skinner** - Exceptional skill in skinning and ability to identify rare material types. Master Skinners are highly respected and can teach advanced techniques.
 - **Level 18: Grand Master Skinner** - Legendary skill in skinning and ability to identify legendary material types. Grand Masters can develop new techniques and teach advanced methods.
-- **Level 20: Artisan Legend** - Creation of legendary material supplies and ability to influence the future of skinning. Artisan Legends can identify and harvest material types that combine multiple properties.
+- **Level 20: Legendary Artisan Skinner** - Creation of legendary material supplies and ability to influence the future of skinning. Legendary Artisan Skinners can create masterpieces that combine multiple disciplines and may develop entirely new approaches to their craft. Their influence shapes the future of skinning itself.
 
 ## Level Bonuses
 | Level | Production Points | Abilities |
