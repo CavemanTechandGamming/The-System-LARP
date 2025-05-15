@@ -1,6 +1,6 @@
 # Races
 
-## Birdlings
+## [Birdlings](docs/12-races/birdlings.md)
 **Advantage:** 1 level upon creation Extra Slots; May purchase claws  
 **Disadvantage:** Being confined results in a fear effect that lasts until 30 seconds after the end of the confining effect.
 
@@ -15,16 +15,7 @@
 ### Songbird Body (10 Secondary)
 **Advantage:** Grants a character 1 Adaptive Lore question per day for each 2 levels of Lore Skills the character possesses. These Adaptive Lore questions may be used to ask questions as any Lore Skill the character possesses.
 
-## Dualborn
-**Advantage:** May convert one Primary or Secondary skill to a skill of a different class type; May purchase Claws at plot's discretion.
-
-**Body (10 Secondary)**
-**Advantage:** -1 Base Cost in both Secondary skills  
-**Disadvantage:** May not purchase Proficiency skill.
-
-**Required Costuming:** Due to the highly individualistic natures of Dualborns, the costume requirements for these characters must be discussed and approved by plot prior to the event.
-
-## Dwarves
+## [Dwarves](docs/12-races/dwarves.md)
 **Advantage:** -1 Base Cost in Forge Item  
 **Disadvantage:** May not purchase Dexterity Armor
 
@@ -39,7 +30,7 @@
 ### Wood Body (20 Secondary)
 **Advantage:** Grants a character 30 additional seconds each to their Bleed-out and Death counts.
 
-## Elves
+## [Elves](docs/12-races/elves.md)
 **Advantage:** +10 maximum mana and +2 copper per level of Lineage  
 **Disadvantage:** +1 Base Cost to Extra Life
 
@@ -54,22 +45,7 @@
 ### Wood Body (10 Secondary)
 **Advantage:** Gain 1 Force call and 1 Finesse call for every 4 levels of Missile Weapons.
 
-## Humans
-**Advantage:** +20 starting ccp  
-**Disadvantage:** +2% Aura gain from any Resurrection effect.
-
-**Required Costuming:** Clansman have no requirements. Nomads must wear a cap or a cloak with a brooch denoting their tribe. Corrupted have dark veins around their eyes that appear more prominently on their skin.
-
-### Clansman Body (10 Secondary)
-**Advantage:** -1 in one Universal skill.
-
-### Corrupted Body (10 Secondary)
-**Advantage:** Allows a character to select one Pool upon creation. At the beginning of each event, the character increases their maximum of that Pool by their Aura score. This increase lasts for 3 days.
-
-### Nomad Body (15 Secondary)
-**Advantage:** -1 Base Cost to Shield skill.
-
-## Faefolk
+## [Faefolk](docs/12-races/faefolk.md)
 **Advantage:** -1 Base Cost in 1 school of magic  
 **Disadvantage:** Cannot purchase the Medium or Monstrous Weapon skills.
 
@@ -84,32 +60,77 @@
 ### Pixie Body (5 Secondary)
 **Advantage:** Gain 10 Mana for their first level in each school of magic.
 
-## Mammalians
+## [Humans](docs/12-races/humans.md)
+**Advantage:** +20 starting ccp  
+**Disadvantage:** +2% Aura gain from any Resurrection effect.
+
+**Required Costuming:** Clansman have no requirements. Nomads must wear a cap or a cloak with a brooch denoting their tribe. Corrupted have dark veins around their eyes that appear more prominently on their skin.
+
+### Clansman Body (10 Secondary)
+**Advantage:** -1 in one Universal skill.
+
+### Corrupted Body (10 Secondary)
+**Advantage:** Allows a character to select one Pool upon creation. At the beginning of each event, the character increases their maximum of that Pool by their Aura score. This increase lasts for 3 days.
+
+### Nomad Body (15 Secondary)
+**Advantage:** -1 Base Cost to Shield skill.
+
+## [Inumimi](docs/12-races/inumimi.md) (Canines)
 **Advantage:** Level Upon Creation in Tracking; May Purchase Claws  
 **Disadvantage:** Time needed to copy spells is increased by 10 seconds per level of the spell.
 
-**Required Costuming:** All Mammalians have ears, a tail, and fur. Canines have features reflective of creatures such as a dog or a wolf, like a snout. Felines have features reflective of creatures such as a cat. Rodents have features reflective of creatures such as a rat or gerbil. Both felines and rodents often have whiskers.
+**Required Costuming:** All Inumimi have ears, a tail, and fur. They have features reflective of creatures such as a dog or a wolf, like a snout.
 
-### Canine Body (15 Secondary)
+### Hound Body (15 Secondary)
 **Advantage:** Gain 1 Force Call per day for every 5 levels of a Rogue Skill the character purchases.
 
-### Feline Body (15 Secondary)
+### Wolf Body (15 Secondary)
+**Advantage:** Gain 1 Pack Tactics call per day for every 3 levels of Tracking.
+
+### Fox Body (15 Secondary)
+**Advantage:** Gain 1 Stealth call per day for every 4 levels of Tracking.
+
+## [Nekomimi](docs/12-races/nekomimi.md) (Felines)
+**Advantage:** Level Upon Creation in Tracking; May Purchase Claws  
+**Disadvantage:** Time needed to copy spells is increased by 10 seconds per level of the spell.
+
+**Required Costuming:** All Nekomimi have ears, a tail, and fur. They have features reflective of creatures such as a cat, including whiskers.
+
+### House Cat Body (15 Secondary)
 **Advantage:** Gain 1 Evade per day for every 2 Levels in Claws.
 
-### Rodent Body (10 Secondary)
-**Advantage:** +5 Additional Maximum HP affectable by Execute for every level in Execute.
+### Panther Body (15 Secondary)
+**Advantage:** Gain 1 Prowl call per day for every 3 levels of Tracking.
 
-## Scalefolk
+### Lynx Body (15 Secondary)
+**Advantage:** Gain 1 Night Vision call per day for every 4 levels of Tracking.
+
+## [Nezumi](docs/12-races/nezumi.md) (Rodents)
+**Advantage:** Level Upon Creation in Tracking; May Purchase Claws  
+**Disadvantage:** Time needed to copy spells is increased by 10 seconds per level of the spell.
+
+**Required Costuming:** All Nezumi have ears, a tail, and fur. They have features reflective of creatures such as a rat or gerbil, including whiskers.
+
+### Field Mouse Body (10 Secondary)
+**Advantage:** Gain 1 Scavenge call per day for every 3 levels of Tracking.
+
+### Tree Squirrel Body (10 Secondary)
+**Advantage:** Gain 1 Climb call per day for every 4 levels of Tracking.
+
+### Quill Guard Body (10 Secondary)
+**Advantage:** Gain 1 Deflect call per day for every 3 levels of Claws.
+
+## [Scalefolk](docs/12-races/scalefolk.md)
 **Advantage:** Whenever the character uses a Finesse Call to Disarm or Disable, they may perform a second of the same strike within 5 seconds without consuming a Finesse Call. May purchase claws.  
 **Disadvantage:** Entering bleed out causes the character to shed, losing 5 max body for 2 hours. This effect stacks. Cannot go below 1 Max Body.
 
-**Required Costuming:** Amphibians have webbed fingers and often have various shades of bright colors and contrasted-colored markings. Drakes and Reptiles all have scales, requiring face paint or some other form of representation. Drakefolk have horns and may have wings.
+**Required Costuming:** All Scalefolk have scales, a tail, and features reflective of creatures such as a lizard or a snake, like a snout.
 
-### Amphibian Body (15 Secondary)
-**Advantage:** Grants a character 2 Adaptive Concentrations for each skill category they possess at least 1 skill from. Adaptive Concentration may be called as any Concentration skill.
+### Lizard Body (15 Secondary)
+**Advantage:** Gain 1 Force Call per day for every 5 levels of a Rogue Skill the character purchases.
 
-### Drake Body (20 Secondary)
-**Advantage:** Increase all weapon damage of a type based on Drake Color by 1 for every level purchased in the highest Weapon Skill.
+### Chameleon Body (15 Secondary)
+**Advantage:** Gain 1 Stealth call per day for every 3 levels of Tracking.
 
-### Reptilian Body (15 Secondary)
-**Advantage:** Grants the character 1 Constitutional Resist for every 10 Levels in skills in their Primary Class. 
+### Dragon Body (15 Secondary)
+**Advantage:** Gain 1 Breath Weapon call per day for every 4 levels of Tracking. 

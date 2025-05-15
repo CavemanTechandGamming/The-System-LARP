@@ -4,32 +4,177 @@ In The System, there are a lot of rulings and rules that don't necessarily appea
 
 ## Re-ups
 
-Some bonuses from skills have limited uses, such as the number of strikes granted by the Finesse skill or the amount of mana granted by a school of magic. Any bonus granted by a skill is considered "refreshed" at each re-up and may be used again before the next re-up. This does not include body points, item durabilities, or the current bonus of any unrepaired armor pieces.
+Re-ups refresh certain limited-use bonuses in The System. The following guidelines apply:
+
+What Gets Refreshed:
+- Skill-granted strikes (e.g., Finesse skill)
+- School of magic mana pools
+- Other skill-granted bonuses
+
+What Does Not Get Refreshed:
+- Body points
+- Item durabilities
+- Unrepaired armor bonuses
 
 ## Smoking
 
-Smoking was part of society in the eras of renaissance, and thusly it is an in-game activity in The System. If you go out to have a cigarette, there is no guarantee that you won't be met with an angry goblin or two, no different than the person out for a leisurely stroll. Also, be respectful of the out of game sites we are utilizing. Do not smoke indoors under any circumstances, and dispose of all your cigarette butts or pipe tamping appropriately.
+Smoking is allowed in designated smoking areas only. Please be mindful of others and follow these guidelines:
+- Smoke only in designated smoking areas
+- Do not smoke indoors under any circumstances
+- Be considerate of others - some players may have sensitivities to smoke
+- Keep smoke away from other players
+- Dispose of all cigarette butts and pipe tamping appropriately
+- Do not use smoking to create special effects or atmosphere in-game
+- Remember that excessive smoke can interfere with other players' visibility and experience
+- Be aware that smoking areas are not safe zones - you may still encounter in-game encounters while smoking
+
+## Vaping
+
+Vaping is allowed in designated smoking areas only. Please be mindful of others and follow these guidelines:
+- Vape only in designated smoking areas
+- Do not vape indoors under any circumstances
+- Be considerate of others - some players may have sensitivities to vape clouds
+- Keep vape clouds minimal and away from other players
+- Dispose of any vape-related waste appropriately
+- Do not use vaping devices to create special effects or atmosphere in-game
+- Remember that excessive vaping clouds can interfere with other players' visibility and experience
 
 ## Alcohol
 
-Alcohol is not permitted at The System events. Those consuming alcohol, arriving under the effects of alcohol, leaving and returning under the effects of alcohol, or even in possession of alcohol will be ejected immediately from the event. Due to player age factors, as well as insurance policies, this will not change.
+Alcohol is strictly prohibited at The System events. This policy is non-negotiable and will be strictly enforced. The following rules apply:
+- No consumption of alcohol on premises
+- No arriving under the influence of alcohol
+- No leaving and returning under the influence of alcohol
+- No possession of alcohol on premises
+- No exceptions for any reason
+
+Violations of these rules will result in:
+- Immediate ejection from the event
+- Possible permanent ban from future events
+- No refunds for event fees
+- Possible legal consequences
+
+This policy is in place due to:
+- Player age requirements
+- Insurance requirements
+- Safety concerns
+- Legal obligations
 
 ## Drugs
 
-Drugs are not permitted on The System premises. Those with drugs on their person, in their belongings, or who use or arrive under the influence of any drugs will not only be ejected, they will receive a lifetime permanent ban. As appropriate, law enforcement will be contacted.
+Drugs are strictly prohibited at The System events. This policy is non-negotiable and will be strictly enforced. The following rules apply:
+- No possession of drugs on premises
+- No consumption of drugs on premises
+- No arriving under the influence of drugs
+- No leaving and returning under the influence of drugs
+- No exceptions for any reason
+
+Violations of these rules will result in:
+- Immediate ejection from the event
+- Lifetime permanent ban from all System events
+- No refunds for event fees
+- Law enforcement will be contacted
+- Possible legal consequences
+
+This policy is in place due to:
+- Safety concerns
+- Legal requirements
+- Insurance requirements
+- Player well-being
+
+## Prescription Medication
+
+Players who require prescription medication must notify staff members of their medical needs and any medications they are carrying. This information will be kept confidential and is necessary for your safety and the safety of others. Please bring medications in their original containers with prescription labels. If you need to store medication in a specific way (such as refrigeration), please coordinate with staff to make appropriate arrangements. While we respect your privacy, this information is crucial for emergency situations and to ensure proper medical care if needed.
 
 ## Marshal/Cabin Notes
 
-Sometimes staff or players will cast protective spells, add traps, create portals, or cause other effects on doorways or inside buildings or tents. These things must be reported to the marshals. This way, when entering a structure, a staff member will be able to call any effects that may be triggered, or if entry is even possible.
+When entering structures or areas, be aware of potential magical effects. The following guidelines apply:
+
+Effects That Must Be Reported:
+- Protective spells
+- Traps
+- Portals
+- Other magical effects
+
+Reporting Process:
+- Notify marshals of any effects
+- Staff will announce effects when entering
+- Staff will determine if entry is possible
+- Effects remain active until properly dispelled
 
 ## Object Tags
 
-In The System, just about every item has a tag. An item tag is essentially a character sheet for an item. Tags are printed on business cards, so that you can utilize and trade them easily. Tags will tell everything there is to know about an item, and can even act as that item if it is stolen or misplaced. A phys rep without a tag is no item at all, so hold on to them!
+Object tags are essential for all items in The System. The following guidelines apply:
+
+Tag Requirements:
+- Every item must have a tag
+- Tags are printed on business cards
+- Tags contain all item information
+- Tags can act as the item if lost or stolen
+
+Important Notes:
+- Physical representations without tags are invalid
+- Keep tags secure and accessible
+- Tags are required for trading
+- Lost tags should be reported immediately
 
 ## Bathrooms
 
-Restrooms in The System are strictly out of game areas due to safety and privacy concerns. Game will never take place in a restroom, but players should also refrain from waiting in the restroom for dangers to pass. Monsters and players alike found waiting outside the restroom to strike at players will be dealt with by staff, and disciplinary action may be taken.
+Bathrooms are strictly out-of-game areas. The following guidelines apply:
+
+Rules:
+- No in-game activity in bathrooms
+- No waiting in bathrooms to avoid encounters
+- No ambushing players near bathrooms
+- No roleplay in or near bathrooms
+
+Enforcement:
+- Staff will monitor bathroom areas
+- Violations will result in disciplinary action
+- Safety and privacy are top priorities
+- Report any issues to staff immediately
 
 ## Disciplinary Action
 
-There are many circumstances in The System that may be dealt with via staff disciplinary action, many of which have been listed in this rulebook. Disciplinary action can mean a number of things, from a character losing hit points or aura points for foul play, to being assigned to an immediate npc shift, down to a player being banned or expelled from events for serious infractions. Most disciplinary actions will come with a warning, but typically only one warning. Keep this in mind and remember the things you learned in this rulebook. 
+The System takes rule violations seriously and will take appropriate action to maintain a safe and enjoyable environment for all players. The following guidelines outline our disciplinary process:
+
+### Types of Violations
+- Foul play during combat or roleplay
+- Safety violations
+- Rule breaking
+- Inappropriate behavior
+- Harassment of any kind
+- Disrespect to staff or other players
+- Attempting to circumvent rules
+- Any action that disrupts the game experience
+
+### Possible Consequences
+- Character penalties:
+  - Loss of hit points
+  - Loss of aura points
+  - Temporary loss of skills or abilities
+- Game penalties:
+  - Mandatory NPC shift
+  - Temporary character suspension
+  - Loss of in-game items or currency
+- Event penalties:
+  - Immediate ejection from current event
+  - Temporary ban from future events
+  - Permanent ban from all System events
+  - No refunds for event fees
+
+### Warning System
+- Most violations begin with a warning
+- Typically only one warning is given
+- Serious violations may skip warnings entirely
+- Warnings are documented and tracked
+- Previous warnings may affect future disciplinary decisions
+
+### Important Notes
+- All disciplinary decisions are final
+- No refunds will be issued for disciplinary actions
+- Staff decisions are not open to debate during events
+- Concerns about disciplinary actions should be addressed to staff after the event
+- The goal is to maintain a safe, fun environment for all players
+
+Remember: When in doubt about any action, ask a staff member before proceeding. It's better to ask than to face disciplinary action. 

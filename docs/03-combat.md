@@ -56,6 +56,24 @@ Shields are another facet of the The System combat system that is not exactly re
 
 No one may touch another person except by The System safety-inspected weapons or packets without direct permission. Everyone must request permission for contact each time. Even if you have known each other for years, permission needs to be given under each occurrence of combat. Violation of this rule is also a quick way to receive disciplinary action.
 
+### Opt-In Contact System
+Players who are comfortable with light physical contact during roleplay (such as hugs, handshakes, or an arm over the shoulder) may wear a clearly visible green armband or badge. This indicates they have opted into light physical contact without explicit permission for each interaction. However, this does not override common sense or safety:
+- Combat-related contact still requires explicit permission
+- No contact to illegal areas (head, neck, groin)
+- No forceful contact (pushing, shoving, etc.)
+- Players can still call "HOLD" at any time if they feel uncomfortable
+- The opt-in status can be revoked at any time by removing the indicator
+
+Players who do not wear this indicator must be asked for permission before any physical contact. Respecting these boundaries is crucial for maintaining a safe and comfortable environment for all players.
+
+Players who wish to explicitly opt out of all physical contact (except for safety-inspected weapons and packets) may wear a clearly visible red armband or badge. This is an absolute indicator that no physical contact is permitted, regardless of the situation. This includes:
+- No hugs, handshakes, or other friendly contact
+- No roleplay-initiated contact
+- No exceptions for combat or other game mechanics (except for safety-inspected weapons and packets)
+- No exceptions for friends or long-time players
+
+The red indicator takes precedence over any other contact permissions and must be respected without question. Players wearing the red indicator should not be asked for permission to make contact, as the answer is always no.
+
 ## Drum Rolling/Machine Gunning
 
 The terms "drum rolling" and "machine gunning" refer to firing off very fast blows to the same body location of a target. This is usually accompanied by a long string of "2normal2normal2normal2normal". A good hint that you are drum rolling is that you are not able to call damage quickly enough in an understandable manner.
