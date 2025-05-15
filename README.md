@@ -123,8 +123,34 @@ The world is home to diverse peoples and cultures:
 ## Version
 This is Version 1 of The System LARP rulebook.
 
-## Contributing
-Please note that this is the official rulebook and changes should only be made by authorized staff members.
+## Contributing and Feedback
+This is the official rulebook for The System LARP, and while only authorized staff members can make direct changes, we welcome and value your feedback! If you notice something that needs attention or have ideas for improvement, here's how you can help:
+
+### How to Submit Feedback
+1. **Create an Issue** in this repository
+2. **Be Specific** about what you're reporting:
+   - Is it a problem that needs fixing?
+   - Is it a suggestion for improvement?
+   - Which file does it affect? (e.g., "docs/03-combat.md")
+3. **Provide Details**:
+   - For problems: Describe what's wrong and how it affects gameplay
+   - For suggestions: Explain your idea and why it would be beneficial
+
+### What to Expect
+- **Review Process**: All feedback is reviewed by staff
+- **Response Time**: We aim to acknowledge issues quickly, but solutions may take time
+- **Implementation**: Not all suggestions will be added, and changes may be modified during implementation
+- **Priority**: Issues are addressed based on:
+  - Impact on gameplay
+  - Safety concerns
+  - Clarity and understanding
+  - Available resources
+
+### Important Notes
+- While we appreciate all feedback, we may not be able to respond to every submission
+- Some suggestions may need testing or discussion before implementation
+- Changes to core mechanics require careful consideration
+- Your patience and understanding are appreciated as we work to improve The System
 
 ## License
 All rights reserved. This rulebook and its contents are the property of The System LARP. 

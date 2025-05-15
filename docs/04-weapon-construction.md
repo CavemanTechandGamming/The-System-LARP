@@ -25,19 +25,45 @@ All weapons must be safety approved before use on site.
 
 ## Spell Packet Construction
 
-Spell packets are used to deliver any and all magical effects, as well as act as stones for throwing, potion bottles for tossing, and physically representing just about any small object. They should be constructed from squares of fabric and parakeet seed. No substitutions may be made.
+Spell packets are essential items in The System, used for:
+- Delivering magical effects
+- Representing thrown objects (stones, potions, etc.)
+- Physically representing small in-game items
 
-### Materials Needed:
-1. 6 x 6 inch square of fabric
-2. Parakeet seed
-   - Note: Only parakeet seed is acceptable. No sunflower seeds, BBs, kitty litter, etc.
-3. 35mm Film Canister
-4. Rubber Bands
+### Safety First
+- Only parakeet seed is allowed as filling material
+- Do not use substitutes like sunflower seeds, BBs, or kitty litter
+- Packets must not be overstuffed - they should be firm but not hard
+- All packets must be safety inspected before use
 
-### Procedure:
-1. Take the 6 x 6 inch square of fabric and put it over the open end of the film canister.
-2. Push down on the center of the cloth so that it forms a pocket inside the canister. No edges should be inside of the canister.
-3. Fill the pocket created inside the canister with parakeet seed.
-4. Grab the edges of the cloth and twist to close.
-5. Wrap a rubber band around the twisted area of the cloth until no parakeet seed is able to escape.
-6. Make sure the parakeet seed is not too tight. Packets that are too packed with seed are unsafe and will not be allowed in-game. 
+### Required Materials
+- Fabric: One 6" × 6" square
+- Filling: Parakeet seed only
+- Container: One 35mm film canister (for construction)
+- Fastener: Rubber bands
+
+### Step-by-Step Construction
+1. **Create the Pocket**
+   - Place the fabric square over the film canister opening
+   - Push the center down to form a pocket
+   - Ensure no fabric edges are inside the canister
+
+2. **Add the Filling**
+   - Fill the pocket with parakeet seed
+   - Do not overfill - the packet should be firm but not hard
+   - A properly filled packet should have some give when squeezed
+
+3. **Secure the Packet**
+   - Gather the fabric edges and twist to close
+   - Wrap rubber bands around the twisted area
+   - Continue wrapping until the seed cannot escape
+   - Test the packet by gently shaking it
+
+### Quality Check
+Before using your spell packet, verify that:
+- The packet is not overstuffed
+- No seed can escape
+- The fabric is securely fastened
+- The packet feels firm but not hard
+
+Remember: Unsafe packets will not be allowed in-game. When in doubt, make a new packet rather than risk using an unsafe one. 
