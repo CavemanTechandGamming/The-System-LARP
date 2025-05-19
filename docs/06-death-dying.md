@@ -18,6 +18,8 @@ After the 4 minute death count has expired, that character's body then turns to 
 
 Aura measures the soul's power in The System. Each character begins with 0% aura. Every time that character resurrects, their aura score increases. The rate of the increase is determined by the number of events they have attended. Once a character's aura reaches 100% or more, that character may not be resurrected, and is effectively permanently dead, or "permed".
 
+Aura can be reduced through special events and rituals. These opportunities are rare and often require significant character development or story involvement.
+
 ## Unconscious
 
 Unconscious is a state that a character reaches through the effects of skills and spells. Note that this is not the same state as Bleeding Out - Unconscious by itself is not lethal. Unconscious has 2 outcomes, based on the way the character entered unconsciousness:
@@ -39,17 +41,14 @@ Some effects may state a duration longer than the standard 1 minute. In that cas
 
 | Number of Events | Aura Increase per Resurrection |
 |-----------------|--------------------------------|
-| 1 - 3 | 5% |
-| 4 - 5 | 10% |
-| 6 - 9 | 15% |
-| 10 - 15 | 25% |
-| 16 - 21 | 40% |
-| 22 - 27 | 65% |
-| 28 - 35 | 85% |
-| 36 - 44 | 105% |
-| 45 - 54 | 115% |
-| 55 - 65 | 125% |
-| 66 - 77 | 140% |
-| 78 - 90 | 165% |
-| 91 - 103 | 175% |
-| 104 + | 200% | 
+| 1 - 10 | 0% |
+| 11 - 20 | 5% |
+| 21 - 30 | 10% |
+| 31 - 40 | 15% |
+| 41 - 50 | 20% |
+| 51 - 60 | 25% |
+| 61 - 70 | 30% |
+| 71 - 80 | 35% |
+| 81 - 90 | 40% |
+| 91 - 100 | 45% |
+| 101 + | 50% | 

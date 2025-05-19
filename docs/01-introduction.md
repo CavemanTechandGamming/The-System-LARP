@@ -1,57 +1,155 @@
 # Introduction
 
+## Table of Contents
+- [What is The System?](#what-is-the-system)
+- [Getting Started](#getting-started)
+  - [First Time Players](#first-time-players)
+  - [Your First Event](#your-first-event)
+- [Game Structure](#game-structure)
+  - [Who is Who](#who-is-who)
+  - [Combat and Magic](#combat-and-magic)
+- [Practical Information](#practical-information)
+  - [Costuming](#costuming)
+  - [Safety and Rules](#safety-and-rules)
+
 ## What is The System?
 
-First and foremost, The System is a Live Action Role Play, or LARP. There are millions of LARP themes out there -- everything from space age to medieval fantasy. From comic books to spies and espionage, from Wall Street to the Wild West, there is probably a LARP for it.
+The System is a Live Action Role Play (LARP) set in the fantasy world of Eldara. This immersive world is full of magic, mystery, beasts, and heroes. The System is designed to:
 
-The System is set in a fantasy world called Eldara that is full of magic, mystery, beasts, and heroes. The System strives to mix several aspects of good and evil, sometimes even blurring the line between the two. The System is designed to make certain every player can live their legend, whether that means being a dark necromancer or a shining paladin.
+- Create an engaging fantasy environment where every player can find their place
+- Mix elements of good and evil, sometimes blurring the lines between them
+- Allow every player to live their legend, whether as a dark necromancer or a shining paladin
+- Provide a safe and welcoming environment for all players
+- Balance combat, roleplay, and character development
 
-## What if I have never role-played before?
+## Getting Started
 
-The most difficult part of roleplaying is deciding to do it. Once you have made the decision, the first step is to read this book and get a grasp of the rules involved. From there, you can create your own character and begin to decide your own motivations in the world of Eldara. The system is designed to be as self-explanatory as it can be, and tries to reward veterans for helping out new players.
+### First Time Players
 
-## Can anyone play?
+If you've never role-played before, don't worry! The most difficult part is deciding to start. The System is designed to be self-explanatory and rewards veterans for helping new players. Here's what you need to know:
 
-Absolutely! We pride ourselves on providing a safe, fun environment that welcomes all roleplayers! We would like to note for new players that we suggest parents attend first without their child to assess if our world is appropriate for that child, as some plot may contain themes too mature for children. Additionally, while we do our best to accommodate everyone's needs, some of the site we utilize may prove difficult to access for those with physical limitations. For further questions about the appropriateness or accessibility of our system, please contact us via our website or Facebook page.
+- Read this rulebook to understand the basics
+- Create your own character with unique motivations and goals
+- Decide your character's place in the world of Eldara
+- Learn the basic rules of combat and magic
+- Understand how to interact with other players and NPCs
 
-## Can I really do this?
+### Can I Really Do This?
 
-Certainly! Every single LARPer, from the long time veteran playing the same character they've managed to keep alive for years to the most versatile NPC, started where you are now.
+Absolutely! Every single LARPer, from the long-time veteran playing the same character they've managed to keep alive for years to the most versatile NPC, started exactly where you are now. The learning curve is natural, and we're here to help you every step of the way. Remember:
 
-## How does my first event begin?
+- Everyone starts as a beginner
+- Staff and experienced players are always willing to help
+- The community is supportive of new players
+- You can learn at your own pace
+- Mistakes are part of the learning process
 
-After you show up to a campsite for a weekend of fun and roleplay, the first step will be to check in with a greeter. More likely than not, this will mean a staff member flitting about all over the place making preparations for the weekend. These people can, when the time comes, help you with character construction if need be, help you out with your costume, weapons, supplies, and generally make sure you are ready for the game, as well as answering any and all questions you might have about The System or the weekend.
+### Your First Event
 
-Once Logistics Division opens its doors, grab a spot in line to be processed into game. You will receive your character sheet and any in-game currency or item tags your character may have, as well as be checked over for safety of your armor, weapons, shields, and spell packets.
+When you arrive at a campsite for your first event, here's what to expect:
 
-After, or perhaps before, you have made your way through Logistics, you will meet your Safety Marshal and be taken through New Player Orientation! Here, you will learn how to properly and safely execute combat, as well as learn about combat etiquette and general safety rules.
+1. **Check-in**: Meet with a greeter (staff member) who will help with:
+   - Character construction and background
+   - Costume and equipment requirements
+   - Answering questions about rules and gameplay
+   - Getting you oriented to the event site
+   - Making sure you have all necessary supplies
 
-Once everyone has been through the process you just went through and it's just about time for game to start, you will be whisked away to Opening Ceremonies. Here, you will get to meet all of the staff members and NPCs of the event. You will be given a short primer for the plot of the weekend and receive some in-game information. From there, players and non-players alike will take their places and Game On will be called. Your weekend begins here!
+2. **Logistics**: Visit Logistics Division to:
+   - Receive your character sheet and background information
+   - Get in-game currency and item tags
+   - Have your equipment safety-checked
+   - Register any special abilities or skills
+   - Get your event schedule and plot information
 
-## Who is who?
+3. **Orientation**: Meet your Safety Marshal for:
+   - Combat training and safety protocols
+   - Basic game rules and etiquette
+   - How to handle different situations
+   - Emergency procedures
+   - Communication methods during the event
 
-There are three kinds of people at a The System event:
+4. **Opening Ceremonies**: 
+   - Meet staff and NPCs who will be running the event
+   - Learn weekend plot details and current events
+   - Receive in-game information and rumors
+   - Get your starting location and objectives
+   - Begin your adventure!
 
-1. **Staff**: The people who run The System LARP. These are the people who will help you with rules, plot, and all questions you might have about The System or the weekend.
-2. **Player Characters (PCs)**: The characters you create to play in The System LARP. These characters are the "main" characters of the game, and they are the persona you will take during the event. PCs may gain CCP to grow stronger through playing events.
-3. **Non-Player Characters (NPCs)**: Characters created by plot. Whether they are merchants, lords, or goblins, they exist to further the story and atmosphere of the game. Their personalities, skills and interactions with PCs are decided by plot. NPCs do not always have character sheets, but do not grow as PCs do.
+## Game Structure
 
-## Is it very complicated?
+### Who is Who
 
-Just like learning anything new, LARPing has its own learning curve. We heavily suggest all players read this book, especially the sections that pertain to your character. Don't forget, knowledge is power! However, anything that you aren't certain of can be cleared up by a staff member. This often happens during combat, and happens very fast! Be sure to pay attention!
+There are three main roles in The System:
 
-## Do I need a costume?
+1. **Staff**: Run the game, handle rules, plot, and answer questions
+   - Plot Team: Creates and runs the story
+   - Rules Team: Ensures fair play and rule consistency
+   - Safety Team: Maintains game safety and handles emergencies
+   - Logistics Team: Manages character sheets and game items
 
-As the old saying goes, "the clothes make the man". This certainly is true in the case of LARPing. It is infinitely easier to leave your old self behind and fall into a new persona if you are dressed for the part, especially if everyone around you is also dressed fantastically! You don't have to spend a fortune on your costuming, though -- remember, you will be flitting about the woods and doing great battles in this garb. Above all, it should be weather-appropriate and comfortable, as well as fitting for a fantasy setting.
+2. **Player Characters (PCs)**: Your created characters that grow stronger through events
+   - Develop their own stories and goals
+   - Interact with other players and NPCs
+   - Gain experience and abilities over time
+   - Shape the world through their actions
 
-## Is there combat?
+3. **Non-Player Characters (NPCs)**: Characters created by plot to enhance the story and atmosphere
+   - Merchants, lords, and common folk
+   - Monsters and enemies
+   - Quest givers and information sources
+   - Help create the living world of Eldara
 
-The world of Eldara is teeming with threats and dangers, not to mention the unsavory characters you might encounter, so combat is certainly going to be simulated. LARP combat is about taking hit points. It's more like a very fast-paced game of tag than bashing people in. All weapons and armors are checked for safety before each and every event. However, there are some intrinsic risks in any contact sport, so we do our best to make sure every situation is safe and secure, while still giving you that heart-racing adrenaline rush you might crave!
+### Combat and Magic
 
-## Is there magic?
+#### Combat
+- Simulated through a fast-paced "tag" system
+- All weapons and armor are safety-checked before each event
+- Designed to be safe while maintaining excitement
+- More like a game of tag than actual combat
+- Includes safety measures while preserving the adrenaline rush
+- Uses a hit point system for tracking damage
+- Requires proper combat calls and acknowledgments
+- Includes different weapon types and combat styles
 
-In the world of Eldara, magic lurks around every corner. Players, plants, animals, non-players, and all sorts of beings in the universe have access to magic. The System utilizes a spell packet-based magic system for casting spells. All most mages need to do is say the appropriate phrase and throw a spell packet in order for their magic to take effect. There are numerous spells, elixirs, scrolls, and runes, all of which are explained in this book!
+#### Magic
+- Present throughout Eldara in players, plants, animals, and all beings
+- Uses a spell packet-based system for casting
+- Casting requires appropriate phrases and spell packets
+- Includes spells, elixirs, scrolls, and runes
+- Detailed in later sections of this book
+- Different schools of magic available
+- Requires proper verbal components
+- Includes both offensive and defensive abilities
 
-## How does it all work?
+## Practical Information
 
-Ultimately, the point of this rulebook is to explain to you how it all works. The rest of this book is designed to make sure you understand everything fairly well and are armed with the knowledge to go out and take the world of Eldara by storm! 
+### Costuming
+
+While costumes aren't mandatory, they enhance the experience:
+- Should be weather-appropriate and comfortable
+- Fit the fantasy setting of Eldara
+- Don't need to be expensive - creativity counts
+- Help with character immersion
+- Remember you'll be moving through woods and engaging in battles
+- Consider layering for different weather conditions
+- Should allow for safe movement and combat
+- Can be enhanced with props and accessories
+
+### Safety and Rules
+
+The System prioritizes safety and accessibility:
+- All players are welcome regardless of experience
+- Parents should assess content appropriateness for children
+- Some sites may have accessibility limitations
+- Staff are available to clarify rules and ensure safety
+- Learning curve exists but staff are always ready to help
+- Knowledge is power - read the sections relevant to your character
+- Safety checks are mandatory for all equipment
+- Emergency procedures are in place
+- Communication protocols for different situations
+- Rules are designed to be fair and fun for everyone
+
+---
+
+This rulebook will guide you through everything you need to know to begin your adventure in Eldara. The following sections will provide detailed information about character creation, combat, magic, and more. Remember, knowledge is power, and we're here to help you succeed! 
